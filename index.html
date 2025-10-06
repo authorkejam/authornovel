@@ -58,7 +58,12 @@
           {
             title: "Tutorial Chapter 2: Akses",
             file: "Novel/Tutorial/tutorial2.md"
+          },
+          {
+            title: "Pengenalan",
+            file: "Novel/Tutorial/Pengenalan.md"
           }
+          
         ]
       },
       {
@@ -242,7 +247,8 @@
               .replace(/^### (.*$)/gim, '<h3>$1</h3>')
               .replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>')
               .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-              .replace(/\*(.*)\*/gim, '<em>$1</em>');
+              .replace(/\*(.*)\*/gim, '<em>$1</em>')
+              .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); //link akun sosial
             html += converted + '<br />';
           });
         } else {
@@ -264,7 +270,8 @@
               }
               let converted = line
                 .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-                .replace(/\*(.*)\*/gim, '<em>$1</em>');
+                .replace(/\*(.*)\*/gim, '<em>$1</em>')
+                .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun sosial
               paraHtml += converted + ' ';
             }
           });
@@ -576,3 +583,4 @@
   
 
 </html>
+
