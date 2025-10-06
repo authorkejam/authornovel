@@ -9,6 +9,7 @@
   <meta property="og:title" content="Author Novel" />
   <meta property="og:description" content="Baca novel online" />
   <link rel="stylesheet" href="style.css" />
+  
 </head>
 <main>
 <body>
@@ -575,6 +576,18 @@
     alignJustifyBtn.addEventListener('click', () => {
       chapterContent.style.textAlign = 'justify';
       currentTextAlign = 'justify';
+    });
+
+    // Hide header on scroll
+    let lastScrollTop = 0;
+    window.addEventListener('scroll', function() {
+      let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      if (scrollTop > lastScrollTop && scrollTop > 100) {
+        document.querySelector('header').classList.add('hidden');
+      } else {
+        document.querySelector('header').classList.remove('hidden');
+      }
+      lastScrollTop = scrollTop;
     });
   </script>
 </body>
