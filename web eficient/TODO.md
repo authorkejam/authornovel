@@ -1,2 +1,0 @@
-- [x] Edit style.css to add styling for .chapter-content blockquote to inherit font-size and use scalable padding
-- [x] Test the blockquote scaling with font controls in the browser
