@@ -4,7 +4,7 @@ Dimasa depan, Author berharap:
 
 2. Mempertahankan kenyamanan bagi pembaca.
 
-3. Website dapet memuat cover buku dan deskripsi informasi tentang Novel.
+3. Website dapat memuat cover buku dan deskripsi informasi tentang Novel.
 
 4. Belajar lagi agar coding yang semakin ringkas dan efisien, meskipun yang sekarang sudah sangat efisien,
 
@@ -27,5 +27,6 @@ Dimasa depan, Author berharap:
 13. Banyak fitur yang beragam untuk menambah kenyamanan dan kemudahan website.
 
 14. Usia yang belum habis hingga semua kisah selesai diceritakan.
+
 
 > Author memiliki banyak cerita untuk diceritakan, tapi tak tau harus memulai darimana. Semoga Author diberi umur panjang untuk menyeselaikan semuanya.
