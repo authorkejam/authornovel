@@ -72,11 +72,12 @@ Untuk pertama kalinya, suara Diaz bergetar bukan karena amarah, melainkan karena
 
 Leon pergi meninggalkan Diaz, memberinya waktu untuk sendiri. Ia berpikir akan lebih baik menangis saat tidak ada yang melihatnya.
 
-"Maafkan aku, maafkan aku..." rintih Diaz. "Maaf karena aku suadh membencimu selama ini."
+"Maafkan aku, maafkan aku..." rintih Diaz. "Maaf karena aku sudah membencimu selama ini."
 
 "Tolong, bisakan kamu kembali padaku?"
 
 ---
+
 ---
 
 **Bab 4: Luka yang Tak Pernah Sembuh**
@@ -172,5 +173,6 @@ Leon menyalakan rokoknya. “Hantu tidak memilih hidup, Diaz. Mereka hanya menun
 Diaz tersenyum tipis. “Kalau begitu, semoga aku tidak dipanggil terlalu cepat.”
 
 Dan malam itu, dua bayangan berjalan menjauh dari dermaga, meninggalkan bara masa lalu yang perlahan padam di belakang mereka.
+
 
 Bab 8: Pertemuan dengan orang baru
