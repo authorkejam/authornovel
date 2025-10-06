@@ -4,16 +4,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Author Novel</title>
-  <link rel="icon" type="image/png" href="logo/webtitle.png" />
-  <meta property="og:image" content="logo/webtitle.png" />
+  <link rel="icon" type="image/png" href="logo/weblogo.png" />
+  <meta property="og:image" content="logo/weblogo.png" />
   <meta property="og:title" content="Author Novel" />
-  <meta property="og:description" content="Read novels online" />
+  <meta property="og:description" content="Baca novel online" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <main>
 <body>
+  
   <header>
-        <h1>AUTHOR NOVEL</h1>
+    <div class="custom-header">
+  <div class="circle-a">A</div>
+  <span class="header-text">
+    UTH<span class="circle-or">O</span><span class="circle-or">R</span> NOVEL
+  </span>
+</div>
   </header>
 
   <button class="menu-btn" id="menuBtn">☰</button>
@@ -56,18 +62,18 @@
         title: "TUTORIAL PENTING",
         chapters: [
           {
-            title: "Tutorial Chapter 1: Tombol dan Navigasi",
+            title: "Tutorial Chapter 1: Tombol Kontrol",
             file: "Novel/Tutorial/tutorial1.md"
           },
           {
-            title: "Tutorial Chapter 2: Akses",
+            title: "Tutorial Chapter 2: Navigasi",
             file: "Novel/Tutorial/tutorial2.md"
           },
           {
             title: "Pengenalan",
             file: "Novel/Tutorial/Pengenalan.md"
+            
           }
-          
         ]
       },
       {
@@ -212,7 +218,7 @@
       {
         id: 3,
         title: "Hunted by Death",
-        genre: ["Belum Tersedia",],
+        genre: ["Slice-of-life",],
         chapters: [
           {
             title: "Chapter 1: The Chase Begins",
@@ -252,7 +258,7 @@
               .replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>')
               .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
               .replace(/\*(.*)\*/gim, '<em>$1</em>')
-              .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); //link akun sosial
+              .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun
             html += converted + '<br />';
           });
         } else {
@@ -275,7 +281,7 @@
               let converted = line
                 .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
                 .replace(/\*(.*)\*/gim, '<em>$1</em>')
-                .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun sosial
+                .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun
               paraHtml += converted + ' ';
             }
           });
@@ -582,12 +588,7 @@
   <script src="alert.js"></script>
 
   <footer>
-    <p><strong>Short Story</strong> dan <strong>Blog Informasi</strong> akan kembali ditambahkan dimasa mendatang.</p>
+    <p><strong>Short Story</strong> dan <strong>Blog</strong> akan kembali ditambahkan dimasa mendatang.</p>
   </footer>
   
-
 </html>
-
-
-
-
