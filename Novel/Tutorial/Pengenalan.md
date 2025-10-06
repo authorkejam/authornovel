@@ -1,8 +1,8 @@
+> Aku tidak membaca cerita orang, aku membuat milikku.
+
 Hai, ini Author. Website ini dibuat dengan bangga, dengan cerita original. Karena Author merasa situs dan aplikasi bacaan era sekarang sudah tidak lagi memberikan kenyamaan penuh bagi pembaca, seperti berlangganan untuk mengakses keseluruhan cerita, iklan yang tidak relevan dan lainnya.
 
 Disinilah Author, mengambil peran yang sangat kecil dibandingkan perusahaan raksasa lainnya.
-
-> Aku tidak membaca cerita orang, aku membuat milikku.
 
 Meskipun Novel yang diberikan masih terbilang sedikit. Author percaya dimasa depan akan ada banyak cerita yang bisa kita saling bagi, sampai mengatakan "Hey, ini seperti kisahku."
 
