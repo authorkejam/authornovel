@@ -12,3 +12,5 @@ Anda juga bisa menyembunyikan chapter list tersebut, dengan mengklik bagian koso
 Tapi, chapter list akan tetap disembunyikan secara otomatis saat pergantian Chapter/Bab
 
 Mohon ingat chapter/Bab yang anda baca, karna website belum memiliki kemampuan untuk mengingat posisi bacaan terakhir. Akan kami tambahkaan fitur tersebut dimasa depan.
+
+Terima kasih sudah menyelesaikan tutorial, silakan kembali ke halaman utama untuk melanjutkan ke Novel yang tersedia.
