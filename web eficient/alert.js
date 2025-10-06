@@ -1,1 +1,0 @@
-alert('Selamat datang di website baru Author Novel. Website ini dibuat dengan cinta❤️ Maksudnya dengan Coding.')
