@@ -563,6 +563,8 @@ header {
     align-items: center;     /* tengah secara vertikal */
     height: 80px;            /* tinggi header */
     box-sizing: border-box;
+    opacity: 1;
+    transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .custom-header {
@@ -620,4 +622,10 @@ header {
   font-size: 2.2rem;
   border: 2px solid #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
+/* Hide header on scroll */
+header.hidden {
+  transform: translateY(-100%);
+  opacity: 0;
 }
