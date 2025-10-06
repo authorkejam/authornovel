@@ -1,4 +1,4 @@
-> Aku tidak membaca cerita orang, aku membuat milikku sendiri.
+> Aku tidak membaca cerita orang, aku membuat cerita milikku sendiri.
 
 Hai, ini Author. Website ini dibuat dengan bangga, dengan cerita original. Karena Author merasa situs dan aplikasi bacaan era sekarang sudah tidak lagi memberikan kenyamaan penuh bagi pembaca, seperti berlangganan untuk mengakses keseluruhan cerita, iklan yang tidak relevan dan lainnya.
 
