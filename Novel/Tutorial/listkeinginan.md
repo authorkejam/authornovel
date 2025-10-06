@@ -31,7 +31,8 @@ Dimasa depan, Author berharap:
 
 > Author memiliki banyak cerita untuk diceritakan, tapi tak tau harus memulai darimana. Semoga Author diberi umur panjang untuk menyeselaikan semuanya.
 
-15. Dan yang terakhir, ini mungkin terlalu berlebihan, tapi semoga di beri izin untuk menulis versi novel dari berbagai film. Namun jika film tersebut memang sudah memiliki versi novelnnya, mungkin Author bisa diizinkan untuk membuat dengan versi berbeda dari ide Author sendiri.
+15. Dan yang terakhir, ini mungkin terlalu berlebihan, tapi semoga kami di beri izin untuk menulis versi novel dari berbagai film. Namun jika film tersebut memang sudah memiliki versi novelnnya, mungkin Author bisa diizinkan untuk membuat dengan versi berbeda dari ide Author sendiri.
+
 
 
 
