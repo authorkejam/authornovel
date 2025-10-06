@@ -547,3 +547,77 @@ footer {
 }
 }
 
+/*style logo baru*/
+header {
+    background-color: #333;
+    color: white;
+    padding: 0px;
+    text-align: center;
+    position: fixed; /* ubah ke fixed agar selalu di atas */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: center; /* tengah secara horizontal */
+    align-items: center;     /* tengah secara vertikal */
+    height: 80px;            /* tinggi header */
+    box-sizing: border-box;
+}
+
+.custom-header {
+  display: flex;
+  align-items: center;
+  background: #393d40;
+  border-radius: 20px;
+  padding: 12px 28px;
+  position: relative;
+  width: fit-content;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2.2rem;
+  letter-spacing: 2px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin: 0 auto;
+}
+
+.header-text {
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+  position: static; /* Hapus position: fixed agar tidak keluar dari flow */
+}
+
+/*.circle-a {
+  position: absolute;
+  left: -30px;
+  top: -20px;
+  background: #fff;
+  color: #393d40;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}*/
+
+.circle-or {
+  background: #fff;
+  color: #393d40;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin: 0 2px;
+  font-size: 2.2rem;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
