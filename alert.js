@@ -1,1 +1,1 @@
-alert('Selamat datang di website baru Author Novel. Website ini dibuat dengan cinta❤️ Maksudnya dengan Coding.')
+alert('Selamat datang di website kebanggaan Author Novel. Website ini dibuat dengan cinta❤️ dan Coding.')
