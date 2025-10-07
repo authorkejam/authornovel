@@ -211,4 +211,5 @@ Saat rasa sakit terakhir itu menghilang, aku merasa seperti jatuh ke dalam kegel
 
 **-KEMATIAN BUKANLAH HAL YANG HARUS DITAKUTI. BAGIKU, KEMATIAN HANYA MEMBUAT HAL YANG PERNAH HIDUP BEGITU BERARTI-**
 
-**(Buku ini tidak mendukung aksi bununh diri, carilah seseorang untuk bercerita)**
+
+**(Buku ini tidak mendukung aksi bununh diri. Carilah seseorang untuk bercerita)**
