@@ -121,3 +121,5 @@ Anita yang sedang melipat baju menjawab, "Boleh, aku kebetulan ga ada kerjaan ju
 Mereka menghabiskan banyak waktu bersama, saat sakit, senang, maupun menderita. Keduanya adalah adalah seorang yang sangat dekat, bahkan kalau kalian melihatnya sekilas, mereka tak memiliki perbedaan.
 
 Mereka berharap hari itu tidak pernah berakhir, selamanya.
+
+**KALAU ANDA SUDAH MERASA TIDAK NYAMAN SAAT MEMBACA CERITA INI, DISARANKAN UNTUK MENGHENTIKANNYA SEGERA**
