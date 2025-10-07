@@ -20,11 +20,22 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  padding: 1px 1px;
+}
+
+.novel-date {
+  position: fixed;
+  top: 5%;
+  left: 10%;
+  transform: translateX(-40%);
+  padding: 1px 1px;
+  font-size: 0.6em;
+  color: #ccc;
 }
 
 .novel-genre {
   font-size: 0.85em;
-  color: #949191;
+  color: rgb(223, 179, 179);
   position: relative;
   top: 50%;
   left: 50%;
@@ -61,13 +72,20 @@ header {
   padding: 20px 15px;
   text-align: center;
   cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.5s ease;
   min-height: 120px;
   display: block;
   position: relative;
   box-shadow: 0 1px 4px rgba(0,0,0,0.1);
   border: 1px solid #ddd;
   color: white;
+  transform: translateY(50px);
+  opacity: 0;
+}
+
+.novel-card.animate-in {
+  transform: translateY(0);
+  opacity: 1;
 }
 
 .novel-card:hover {
@@ -113,8 +131,15 @@ footer {
   line-height: 1.6;
   text-align: left;
   border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 
+.chapter-content.content-visible {
+  opacity: 1;
+}
+
+/*Jarak antara paragraf*/
 .chapter-content p {
   margin-bottom: 0.5em;
 }
@@ -152,6 +177,21 @@ footer {
   left: 50%;
   transform: translateX(-50%);
   bottom: 20px;
+}
+.nav-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin: 0 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.nav-btn:hover {
+  background-color: #0056b3;
 }
 
 .font-btn {
@@ -274,7 +314,25 @@ header.hidden {
   opacity: 0;
 }
 
+/* Footer logos
+.footer-logo {
+  width: 100px;
+  position: sticky;
+  left: 0;
+  float: inline-side;
+  height: auto;
+  display: row;
+  margin: 10px 137px;*/
+  
 }
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
 @media (max-width: 1680px) {
   .chapter-nav {
   margin: 10px 0;
@@ -288,6 +346,13 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 }
 
@@ -305,8 +370,15 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
+}
+
 @media (max-width: 1440px) {
   .chapter-nav {
   margin: 10px 0;
@@ -320,6 +392,13 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 
 }
@@ -337,6 +416,13 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
 }
 
 @media (max-width: 1360px) {
@@ -353,6 +439,13 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
 
 }
 @media (max-width: 1280px) {
@@ -368,6 +461,13 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 }
 
@@ -387,8 +487,11 @@ header.hidden {
   }
   .chapter-content {
   line-height: 1.6;
-  text-align: justify;
-  }
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
   .chapter-nav {
   margin: 10px 0;
   text-align: center;
@@ -429,13 +532,23 @@ header.hidden {
   }
   .novel-genre {
     font-size: 0.65em;
-    color: #949191;
+    color: rgb(223, 179, 179);
     position: relative;
     top: 59%;
     left: 50%;
     transform: translate(-50%, 25px);
     text-align: center;
   }
+  .novel-date {
+  position: fixed;
+  top: 3%;
+  left: 15%;
+  transform: translateX(-40%);
+  padding: 1px 1px;
+  font-size: 0.6em;
+  color: #ccc;
+}
+
   .content {
     padding: 55px;
     max-width: none;
@@ -445,7 +558,10 @@ header.hidden {
 
   .chapter-content {
   line-height: 1.6;
-  text-align: justify ;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
   }
 
   .sidebar {
@@ -509,6 +625,17 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
+/*.footer-logo {
+  width: 50px;
+  position: sticky;
+  left: 0;
+  float: inline-side;
+  height: auto;
+  display: row;
+  margin: 10px 100px;*/
+  
+
 }
 @media (max-width: 640px) {
   .chapter-nav {
@@ -523,6 +650,13 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 }
 
@@ -540,6 +674,23 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+}
+@media (max-width: 540px) {
+  .chapter-nav {
+  margin: 10px 0;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 56px;
+  }
 }
 
 @media (max-width: 520px) {
@@ -555,6 +706,13 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
 }
 }
 
@@ -611,11 +769,68 @@ header.hidden {
   transform: translateX(-50%);
   bottom: 15px;
 }
+.chapter-content {
+  line-height: 1.6;
+  text-align: left;
+  border-bottom: 50px solid #ccc;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
 /* Hide header on scroll */
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+}
+@media (max-width: 414px) {
+  .chapter-nav {
+  margin: 10px 0;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 15px;
+}
+  .nav-btn {
+    padding: 4px 8px;
+    margin: 0 2px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 412px) {
+  .chapter-nav {
+  margin: 10px 0;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 15px;
+}
+  .nav-btn {
+    padding: 4px 8px;
+    margin: 0 2px;
+    font-size: 14px;
+  }
+}
+.font-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  padding: 4px 8px;
+  margin: 0 2px;
+  font-size: 14px;
+}
+
+.font-btn:hover {
+  background-color: #0056b3;
 }
 
 /*style logo baru*/
@@ -700,4 +915,3 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-
