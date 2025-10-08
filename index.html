@@ -491,6 +491,10 @@
   novels.forEach((novel, index) => {
     const card = document.createElement('div');
     card.className = 'novel-card';
+    card.textContent = novel.title;
+  if (novel.title === "Being Kind?") {
+    card.classList.add('being-kind');
+  }
 
     // Judul
     const title = document.createElement('div');
@@ -520,6 +524,10 @@
       genre.className = 'novel-genre';
       genre.textContent = "" + novel.genre.join(', ');
       card.appendChild(genre);
+    }
+
+    if (novel.title === "Being Kind?") {
+      card.classList.add('being-kind');
     }
 
     card.onclick = () => openNovel(novel);
@@ -734,4 +742,5 @@
   </footer>
   
 </html>
+
 
