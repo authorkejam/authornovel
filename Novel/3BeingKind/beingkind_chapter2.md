@@ -140,7 +140,9 @@ Nasib seperti tertukar,sekarang pacarnya itu yang memohonn-mohon. Dia berusaha.
 
 Air mata Aldo tiba-tiba menetes tanpa disadarinya. Ia merasa sangat kecewa dan tak bisa mempercayai apa yang baru saja ia baca.
 
-Aku tak perduli dengan sekotor apa ucapak teman, sekasar apa ucapapan orang tua. Tapi saat seseorang yang paling kita inginkan, seseorang yang paling kita puja, mengatakan kata itu. Dunia terasa sangat kosong, dan menyakitkan. Tentu dampaknya akan membuat orang-orang yang mneerima ucapan itu, akan mengeras hatinnya.
+Aku tak perduli dengan sekotor apa ucapak teman, sekasar apaun ucapan orang tua. Tapi saat seseorang yang paling kita inginkan, seseorang yang paling kita puja, mengatakan kata itu. Dunia terasa sangat kosong, dan menyakitkan.
+
+Tentu dampaknya akan membuat orang-orang yang mneerima ucapan itu, akan mengeras hatinnya.
 
 Sejak saat itu, Aldo memandang segalanya dengan rasa tidak peduli. Ia tidak mempercayai orang lain, tak ingin ikut campur dalam permasalahan orang lain. Aldo dikenal sebagai orang yang dapat memberi solusi terhadap masalah yang dihadapi teman-temannya. Namun semua itu hancur hanya karena seorang perempuan jalang tidak tau diri yang hanya memikirkan dirinya sendiri.
 
@@ -166,6 +168,7 @@ Sementara itu Aldo berusaha menjadi orang yang lebih tidak perduli lagi. Berusah
 
 
 Fin-END
+
 
 
 
