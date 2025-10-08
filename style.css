@@ -104,6 +104,12 @@ header {
   box-shadow: 0 6px 15px rgba(0,0,0,0.2);
   background-color: #555;
 }
+/*warna card setiap novel*/
+.being-kind {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
@@ -935,6 +941,7 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
 
 
 
