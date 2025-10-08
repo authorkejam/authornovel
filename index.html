@@ -60,7 +60,7 @@
   </div>
 
   <script>
-    // Sample novels data with chapter files
+    // Data Novel dan berkas bacaannya
     const novels = [
       {
         id: 0,
@@ -89,6 +89,7 @@
         id: 1,
         title: "Another Side",
         date: "18-06-2019",
+        status: "Completed",
         genre: ["Drama", "Romance", "Tragedy"],
         chapters: [
           {
@@ -166,6 +167,7 @@
         id: 2,
         title: "Boulevards of Broken Dream",
         date: "03-08-2024",
+        status: "to be continued",
         genre: ["Drama", "Crime",],
         chapters: [
           {
@@ -230,7 +232,8 @@
         id:3,
         title: "Being Kind?",
         date: "30-12-2023",
-        genre: ["Philosophy","Short", "Psychology"],
+        status: "Completed",
+        genre: ["Philosophy","Psychology","Short"],
         chapters: [
           {
             title: "Chapter 1: Concept of Kindness",
@@ -291,10 +294,32 @@
 
         ]
       },
+       /*{
+       id: 4,
+        title: "The Last Day",
+        date: "01-04-2025",
+        status: "Completed",
+        genre: ["Belum Tersedia",],
+        chapters: [
+          {
+            title: "Chapter 1: The Beginning of the End",
+            file: "Novel/3novel2_chapter1.md"
+          },
+          {
+            title: "Chapter 2: Facing Reality",
+            file: "Novel/3novel2_chapter2.md"
+          },
+          {
+            title: "Chapter 3: Final Moments",
+            file: "Novel/3novel2_chapter3.md"
+          }
+        ]
+      },*/
       {
         id: 4,
         title: "Hunted by Death",
         date: "01-04-2024",
+        status: "?",
         genre: ["Belum Tersedia",],
         chapters: [
           {
@@ -479,6 +504,14 @@
       date.className = 'novel-date';
       date.textContent = novel.date;
       card.appendChild(date);
+    }
+
+    //Status
+    if (novel.status) {
+      const status = document.createElement('div');
+      status.className = 'novel-status';
+      status.textContent = novel.status;
+      card.appendChild(status);
     }
 
     // Genre
@@ -701,4 +734,3 @@
   </footer>
   
 </html>
-
