@@ -561,11 +561,11 @@ header.hidden {
 }
   .novel-status {
   position: fixed;
-  top: 5%;
-  right: 10%;
+  top: 3%;
+  right: 15%;
   transform: translateX(0);
   padding: 1px 1px;
-  font-size: 0.6em;
+  font-size: 0.4em;
   color: #ccc;
 }
 
@@ -935,4 +935,5 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
 
