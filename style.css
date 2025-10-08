@@ -559,6 +559,15 @@ header.hidden {
   font-size: 0.6em;
   color: #ccc;
 }
+  .novel-status {
+  position: fixed;
+  top: 5%;
+  right: 10%;
+  transform: translateX(0);
+  padding: 1px 1px;
+  font-size: 0.6em;
+  color: #ccc;
+}
 
   .content {
     padding: 55px;
@@ -926,3 +935,4 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
