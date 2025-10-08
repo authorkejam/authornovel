@@ -127,6 +127,7 @@ Percakapan pesan mereka berdua:
 > "Bajingan, capek gw" tak bisa dipercaya ucapan itu dikeluarkan olehnya.
 
 Secepat mungkin ia mengirim pesan lagi, 
+
 > "Aku sayang lo"
 
 sambil menghapus pesan sebelumnya.
@@ -159,3 +160,4 @@ Sementara itu Aldo berusaha menjadi orang yang lebih tidak perduli lagi. Berusah
 
 
 Fin-END
+
