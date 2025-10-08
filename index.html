@@ -491,8 +491,6 @@
   novels.forEach((novel, index) => {
     const card = document.createElement('div');
     card.className = 'novel-card';
-    card.textContent = novel.title;
-  }
 
     // Judul
     const title = document.createElement('div');
@@ -523,7 +521,6 @@
       genre.textContent = "" + novel.genre.join(', ');
       card.appendChild(genre);
     }
-
 
     card.onclick = () => openNovel(novel);
     novelGallery.appendChild(card);
@@ -737,6 +734,3 @@
   </footer>
   
 </html>
-
-
-
