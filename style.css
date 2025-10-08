@@ -33,6 +33,17 @@
   color: #ccc;
 }
 
+.novel-status {
+  position: fixed;
+  top: 5%;
+  right: 10%;
+  transform: translateX(0);
+  padding: 1px 1px;
+  font-size: 0.6em;
+  color: #ccc;
+}
+
+
 .novel-genre {
   font-size: 0.85em;
   color: rgb(223, 179, 179);
