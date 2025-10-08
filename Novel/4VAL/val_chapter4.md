@@ -30,7 +30,7 @@ Val memberikan gestur bertnya, "Lu sendiri yang bilang, itu yang lul mau kan"
 
 "Well, udah ngga. Jangan nyamain gua yang sekarang sama bocah sialan itu"
 
-Aku sudah kehilangan diriku berulang kali olehnya, dan sekarang dia menginginkan aku kembali menjadi sosok yang sudah aku bunuh, itu?. *Lu apa, necromancer?*
+Aku sudah kehilangan diriku berulang kali olehnya, dan sekarang dia menginginkan aku kembali menjadi sosok yang sudah aku bunuh, itu?. *Lu apaan, necromancer?*
 
 Aku terdiam sejenak, "Asal tau saja, aku tak pernah memungut sampah yang sudah aku buang. Kalaupun aku pungunt, aku akan membuangnya ke tempat sampah yang lain", kemudian aku pergi. "Temui gua lagi, kalau gua udah ga peduli"
 
@@ -237,3 +237,4 @@ Dia meletakkan tangannya didadaku, "Kamu takut?" ucapnya, "Kalo takut peluk aku 
 Film yang seharusnya menyeramkan berubah menjadi biasa saja, aku merasa seperti menonton sinetron melihat mereka yang ketakutan disepanjang sisa filmnya. Aku jadi tak bisa menikmati filmnya, aku tak merasakan suasana horror difilmnya.
 
 Teriakan mereka terlalu berlebihan, tapi sama saja dengan penonton yang lain, berisik.
+
