@@ -124,7 +124,9 @@ Percakapan pesan mereka berdua:
 
 > "Sayang, maaf" Ucap Aldo.
 
-> "Bajingan, capek gw" tak bisa dipercaya ucapan itu dikeluarkan olehnya.
+> "Bajingan, capek gw"
+
+Tak bisa dipercaya ucapan itu dikeluarkan olehnya.
 
 Secepat mungkin ia mengirim pesan lagi, 
 
@@ -164,5 +166,6 @@ Sementara itu Aldo berusaha menjadi orang yang lebih tidak perduli lagi. Berusah
 
 
 Fin-END
+
 
 
