@@ -16,7 +16,9 @@ Kebaikan bisa datang dari mana saja, entah itu orang lain, orang tua, teman, sah
 
 Kebaikan adalah anomali. Ia bukan sekadar tindakan, bukan pula tujuan. Ia ada, tapi juga tidak ada. Bagaimana kau bisa mendefinisikan sesuatu yang berubah-ubah, sesuatu yang memukulmu sekaligus mengangkatmu?  
 
-Kebaikan, pada awalnya, tampak seperti cahaya yang menerobos gelap. Tapi cahaya itu menyilaukan, bukan menenangkan. Kebaikan adalah tangan yang terulur, tetapi siapa yang bisa memastikan tangan itu tidak menarikmu ke jurang lain? Ia membingungkan, melukai, bahkan memanipulasi. Kebaikan tidak selalu tentang memberi atau menerima; terkadang ia adalah pengingat tentang apa yang telah hilang.  
+Kebaikan, pada awalnya, tampak seperti cahaya yang menerobos gelap. Tapi cahaya itu menyilaukan, bukan menenangkan. Kebaikan adalah tangan yang terulur, tetapi siapa yang bisa memastikan tangan itu tidak menarikmu ke jurang lain? Ia membingungkan, melukai, bahkan memanipulasi.
+
+Kebaikan tidak selalu tentang memberi atau menerima; terkadang ia adalah pengingat tentang apa yang telah hilang.  
 
 Apakah kamu pernah menerima kebaikan yang membuatmu merasa kosong? Saat seseorang mengatakan, "Aku di sini untukmu," tetapi kamu bertanya-tanya: apa artinya itu? Apakah mereka benar-benar peduli, atau mereka hanya mencoba menenangkan rasa bersalah mereka sendiri? Mungkin kebaikan hanyalah bentuk ego orang lain, kebutuhan manusia untuk merasa lebih baik tentang dirinya sendiri. Manusia membutuhkan manusia lain untuk merasa lebih baik? Tentu.
 
@@ -24,7 +26,7 @@ Kebaikan bisa menjadi pengkhianatan yang halus. Sebuah senyuman tulus bisa menye
  
 Kita diajarkan bahwa kebaikan itu adalah sesuatu yang murni. Tapi apa yang murni di dunia ini? Jika kebaikan itu murni, mengapa ia sering terasa seperti beban? Mengapa ia sering membuatmu merasa lebih kecil, lebih tidak layak? 
 
-Maksud dari kebaikan adalah seperti beban, misal: saat ada seseorang yang mengalami masalah dihadapanmu atau beberapa meter dari jarakmu. Masalah seperti, kantung belanjaan yang robek, mobil yang mogok, seseorang yang tertabrak. Kamu pasti dipaksa untuk membantunya, oleh sesuatu yang kamu tidak tau asalnya dari mana atau entah apa itu, mau tidak mau kamu harus melakukannya. Karena jika kamu tidak melakukannya, akan banyak sepasang mata yang melihatmu, akan banyak sepasang telinga yang mendengar namamu, akan banyak mulut yang menceritakan betapa buruknya namamu.
+Maksud dari kebaikan adalah seperti beban, contoh kecil: saat ada seseorang yang mengalami masalah dihadapanmu atau beberapa meter dari jarakmu. Masalah seperti, kantung belanjaan yang robek, mobil yang mogok, seseorang yang tertabrak. Kamu pasti dipaksa untuk membantunya, oleh sesuatu yang kamu tidak tau asalnya dari mana atau entah apa itu, mau tidak mau kamu harus melakukannya. Karena jika kamu tidak melakukannya, akan banyak sepasang mata yang melihatmu, akan banyak sepasang telinga yang mendengar namamu, akan banyak mulut yang menceritakan betapa buruknya namamu.
 
 Dan inilah bagian yang paling aneh: kebaikan tidak selalu memiliki alasan. Terkadang, seseorang berbuat baik padamu tanpa sebab, tanpa pamrih. Dan justru itulah yang paling menghancurkan. Karena kau mulai bertanya-tanya, "Mengapa aku?" Apa yang mereka lihat dalam diriku yang tidak pernah kulihat?  
 
@@ -45,5 +47,6 @@ Saat seorang pembunuh melakukan kejahatan, kira-kira apa yang akan terjadi padan
 Dan satu hal lagi, Keadilan memang baik, tapi keadilan bukanlah sebuah kebaikan.
 
 ---
+
 
 **Note; Buku ini tidak mendukung aksi tidak baik apapun, semua cerita ini hanyalah fiksi belaka**
