@@ -148,9 +148,13 @@ Dan beginilah akhirnya. Akibat dari terlalu berharap dan terlalu percaya dengann
 
 Sayangnya itu semua tidak lama, Aldo mulai berpikir dan meratapi segala kebaikannya. Dalam sekejap setelah ia diperlakukan seperti itu, Aldo merubah sikap dan sifatnya terhadap orang lain. Aldo membunuh dirinya yang terlalu baik itu, dan terlahirlah dirinya yang hingga kini mengendalikan dirinya.
 
-Setelah satu minggu sejak hubungannya berakhir dengan Aldo, perempuan itu baru menyadari kebaikan Aldo selama ini. Saat jam pelajaran tiba, ia tidak mengerjakan PR karena biasanya Aldo yang membantunya. Dia merasa kesepian, karena orang lain tidak ada yang lebih perhatian daripada Aldo sebelumnya. Aldo selalu ada ketika ia mengalami masalah, apa pun itu. Tapi bagaimana sekarang? Ketika dia hendak pergi ke perpustakaan umum di kota, motornya kehabisan bahan bakar ditengah perjalanan. Sebelumnya ia tak pernah mengalami ini, bahan bakar motornya selalu terisi penuh.
+Setelah satu minggu sejak hubungannya berakhir dengan Aldo, perempuan itu baru menyadari kebaikan Aldo selama ini. Saat jam pelajaran tiba, ia tidak mengerjakan PR karena biasanya Aldo yang membantunya. Dia merasa kesepian, karena orang lain tidak ada yang lebih perhatian daripada Aldo sebelumnya.
 
-Baru ia menyadari kalau selama ini, Aldo lah yang selalu melakukannya. Aldo yang selalu menjaga hati dan perasaannya. Aldo yang selalu ada untuknya. Aldo yang selalu baik padanya, namun apa yang dia lakukan untuk mengembalikan kebaikan itu? Dengan membunuh orang yang sudah memberinya harapan untuk dicintai? Ia menangisi semua perkataan dan perbuatannya pada Aldo. Namun sayangnya itu semua percuma, ia mengingat Aldo pernah bercerita, "Dulu jariku pernah luka terkena pisau, sampai sekarang aku ga pernah sentuh pisau itu- Sekitar 3 tahun yang lalu- Aku cerita begini pun, lukanya masih terasa sakit". Kalimat itu terus bergema dikepalanya. 3 tahun yang lalu, ~berarti itu 7 tahun yang lalu sejak Novel ini dibuat. (2019)~
+Aldo selalu ada ketika ia mengalami masalah, apa pun itu. Tapi bagaimana sekarang? Ketika dia hendak pergi ke perpustakaan umum di kota, motornya kehabisan bahan bakar ditengah perjalanan. Sebelumnya ia tak pernah mengalami ini, bahan bakar motornya selalu terisi penuh.
+
+Baru ia menyadari kalau selama ini, Aldo lah yang selalu melakukannya. Aldo yang selalu menjaga hati dan perasaannya. Aldo yang selalu ada untuknya. Aldo yang selalu baik padanya, namun apa yang dia lakukan untuk mengembalikan kebaikan itu? Dengan membunuh orang yang sudah memberinya harapan untuk dicintai? Ia menangisi semua perkataan dan perbuatannya pada Aldo.
+
+Namun sayangnya itu semua percuma, ia mengingat Aldo pernah bercerita, "Dulu jariku pernah luka terkena pisau, sampai sekarang aku ga pernah sentuh pisau itu- Sekitar 3 tahun yang lalu- Aku cerita begini pun, lukanya masih terasa sakit". Kalimat itu terus bergema dikepalanya. 3 tahun yang lalu, berarti itu 7 tahun yang lalu sejak Novel ini dibuat.
 
 "Kamu akan menyesal kalau bersamaku", "Kamu harus mendapatkan yang lebih baik dariku", semua ucapan itu pernah ia ucapkan pada Aldo. Namun sialnya, dia malah menyesal sendiri karena telah mengatakannya.
 
@@ -160,4 +164,5 @@ Sementara itu Aldo berusaha menjadi orang yang lebih tidak perduli lagi. Berusah
 
 
 Fin-END
+
 
