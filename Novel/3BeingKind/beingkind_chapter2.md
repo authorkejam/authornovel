@@ -116,21 +116,28 @@ Mereka terlihat sangat serasi, maksudku terlihat seperti pasangan yang sangat co
 
 Namun itu semua bukan sebuah ancaman, yang menjadi masalah adalah pada orang itu sendiri. Suatu ketika saat malam hari entah apa yang merasuki pacarnya, waktu itu ia sangat marah sekali. Namun Aldo berusaha menenangkannya, sayanngnya semua itu percuma.
 
-"Aku minta maaf" ucap pesan Aldo.
+Percakapan pesan mereka berdua:
 
-"Gw benci sama lo, gw bosen sama lo"
+> "Aku minta maaf" ucap pesan Aldo.
 
-"Sayang, maaf" Ucap Aldo.
+> "Gw benci sama lo, gw bosen sama lo"
 
-"Bajingan, capek gw" tak bisa dipercaya ucapan itu dikeluarkan olehnya.
+> "Sayang, maaf" Ucap Aldo.
 
-Secepat mungkin ia mengirim pesan lagi, "Aku sayang lo" sambil menghapus pesan sebelumnya.
+> "Bajingan, capek gw" tak bisa dipercaya ucapan itu dikeluarkan olehnya.
 
-"Oke" balas Aldo. 
+Secepat mungkin ia mengirim pesan lagi, 
+> "Aku sayang lo"
+
+sambil menghapus pesan sebelumnya.
+
+> "Oke" balas Aldo. 
 
 Nasib seperti tertukar,sekarang pacarnya itu yang memohonn-mohon. Dia berusaha.
 
 Air mata Aldo tiba-tiba menetes tanpa disadarinya. Ia merasa sangat kecewa dan tak bisa mempercayai apa yang baru saja ia baca.
+
+Aku tak perduli dengan sekotor apa ucapak teman, sekasar apa ucapapan orang tua. Tapi saat seseorang yang paling kita inginkan, seseorang yang paling kita puja, mengatakan kata itu. Dunia terasa sangat kosong, dan menyakitkan. Tentu dampaknya akan membuat orang-orang yang mneerima ucapan itu, akan mengeras hatinnya.
 
 Sejak saat itu, Aldo memandang segalanya dengan rasa tidak peduli. Ia tidak mempercayai orang lain, tak ingin ikut campur dalam permasalahan orang lain. Aldo dikenal sebagai orang yang dapat memberi solusi terhadap masalah yang dihadapi teman-temannya. Namun semua itu hancur hanya karena seorang perempuan jalang tidak tau diri yang hanya memikirkan dirinya sendiri.
 
@@ -149,5 +156,6 @@ Baru ia menyadari kalau selama ini, Aldo lah yang selalu melakukannya. Aldo yang
 Sementara itu Aldo berusaha menjadi orang yang lebih tidak perduli lagi. Berusaha menemukan diri terburuknya. Dia melukai dirinya, sebelum orang lain yang melakukannya.
 
 **-KEBAIKAN AKAN LEBIH MUDAH DIINGAT JIKA SUDAH TIDAK DILAKUKAN LAGI-**
+
 
 Fin-END
