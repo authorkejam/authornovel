@@ -173,6 +173,7 @@ footer {
   padding: 0.5em 1em;
   border-left: 3px solid #ccc;
   background-color: #555151;
+  border-radius: 10px;
 }
 
 /* Tombol Navigasi kembali dan ukuran font */
@@ -941,3 +942,4 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
