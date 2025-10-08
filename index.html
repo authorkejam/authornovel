@@ -64,8 +64,8 @@
     const novels = [
       {
         id: 0,
-        title: "TUTORIAL PENTING",
-        // date: "01-01-2025",
+        title: "TUTORIAL PENGGUNAAN",
+        //date: "01-01-2025",
         chapters: [
           {
             title: "Tutorial Chapter 1: Tombol Kontrol",
@@ -89,7 +89,7 @@
         id: 1,
         title: "Another Side",
         date: "18-06-2019",
-        status: "Completed",
+        status: "Bersambung",
         genre: ["Drama", "Romance", "Tragedy"],
         chapters: [
           {
@@ -167,7 +167,7 @@
         id: 2,
         title: "Boulevards of Broken Dream",
         date: "03-08-2024",
-        status: "to be continued",
+        status: "Bersambung",
         genre: ["Drama", "Crime",],
         chapters: [
           {
@@ -316,7 +316,7 @@
         ]
       },*/
       {
-        id: 4,
+        id: 5,
         title: "Hunted by Death",
         date: "01-04-2024",
         status: "?",
@@ -473,8 +473,9 @@
         const card = document.createElement('div');
         card.className = 'novel-card';
         card.textContent = novel.title;
-        card.onclick = () => openNovel(novel);
-        novelGallery.appendChild(card);
+    
+    card.onclick = () => openNovel(novel);
+    novelGallery.appendChild(card);
       });
       reader.classList.remove('active');
       novelGallery.style.display = 'grid';
@@ -525,7 +526,6 @@
     if (novel.title === "Being Kind?") {
       card.classList.add('being-kind');
     }
-    
     card.onclick = () => openNovel(novel);
     novelGallery.appendChild(card);
 
@@ -738,4 +738,3 @@
   </footer>
   
 </html>
-
