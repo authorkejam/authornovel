@@ -109,7 +109,6 @@ header {
   background-color: rgb(0, 0, 0);
   color: white;
 }
-
 footer {
     text-align: center;
     padding: 10px 0;
@@ -330,6 +329,7 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
 /* Footer logos
 .footer-logo {
   width: 100px;
@@ -339,25 +339,15 @@ header.hidden {
   height: auto;
   display: row;
   margin: 10px 137px;*/
-
-  .chapter-content {
+  
+}
+.chapter-content {
   line-height: 1.6;
   text-align: left;
   border-bottom: 50px solid #ccc;
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
-}
-
 
 @media (max-width: 1680px) {
   .chapter-nav {
@@ -379,15 +369,6 @@ header.hidden {
   border-bottom: 50px solid #ccc;
   opacity: 0;
   transition: opacity 0.5s ease;
-}
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 }
 
@@ -412,15 +393,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 
 @media (max-width: 1440px) {
@@ -443,15 +415,6 @@ header.hidden {
   border-bottom: 50px solid #ccc;
   opacity: 0;
   transition: opacity 0.5s ease;
-}
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 
 }
@@ -476,15 +439,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 
 @media (max-width: 1360px) {
@@ -508,15 +462,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 
 }
 @media (max-width: 1280px) {
@@ -539,15 +484,6 @@ header.hidden {
   border-bottom: 50px solid #ccc;
   opacity: 0;
   transition: opacity 0.5s ease;
-}
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 }
 
@@ -584,15 +520,6 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
-}
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 }
 
@@ -639,13 +566,14 @@ header.hidden {
 }
   .novel-status {
   position: fixed;
-  top: 5%;
-  right: 10%;
+  top: 3%;
+  right: 3%;
   transform: translateX(0);
   padding: 1px 1px;
-  font-size: 0.6em;
+  font-size: 0.4em;
   color: #ccc;
 }
+
 
   .content {
     padding: 55px;
@@ -756,15 +684,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 
 @media (max-width: 620px) {
@@ -788,15 +707,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 @media (max-width: 540px) {
   .chapter-nav {
@@ -807,15 +717,6 @@ header.hidden {
   transform: translateX(-50%);
   bottom: 56px;
   }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 
 @media (max-width: 520px) {
@@ -838,15 +739,6 @@ header.hidden {
   border-bottom: 50px solid #ccc;
   opacity: 0;
   transition: opacity 0.5s ease;
-}
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 }
 
@@ -910,15 +802,6 @@ header.hidden {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 
 /* Hide header on scroll */
 header.hidden {
@@ -940,15 +823,6 @@ header.hidden {
     margin: 0 2px;
     font-size: 14px;
   }
-  .novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
-}
 }
 
 @media (max-width: 412px) {
@@ -979,15 +853,6 @@ header.hidden {
   padding: 4px 8px;
   margin: 0 2px;
   font-size: 14px;
-}
-.novel-status {
-  position: fixed;
-  top: 5%;
-  right: 10%;
-  transform: translateX(0);
-  padding: 1px 1px;
-  font-size: 0.6em;
-  color: #ccc;
 }
 
 .font-btn:hover {
@@ -1076,4 +941,3 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-
