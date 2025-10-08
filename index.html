@@ -492,8 +492,6 @@
     const card = document.createElement('div');
     card.className = 'novel-card';
     card.textContent = novel.title;
-  if (novel.title === "Being Kind?") {
-    card.classList.add('being-kind');
   }
 
     // Judul
@@ -526,9 +524,6 @@
       card.appendChild(genre);
     }
 
-    if (novel.title === "Being Kind?") {
-      card.classList.add('being-kind');
-    }
 
     card.onclick = () => openNovel(novel);
     novelGallery.appendChild(card);
@@ -742,5 +737,6 @@
   </footer>
   
 </html>
+
 
 
