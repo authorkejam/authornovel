@@ -47,23 +47,22 @@
 
 .novel-genre {
   font-size: 0.65em;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   outline-width: 200px;
   position: absolute;
   bottom: 5px;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  
-}
+  }
 
-.outline-text {
+/*.outline-text {
   text-shadow:
      -1px -1px 0 #ffffff,  
       1px -1px 0 #ffffff,
      -1px  1px 0 hsl(0, 0%, 100%),
       1px  1px 0 #ffffff; 
-}
+}*/
 
 html {
     margin: 0;
@@ -399,7 +398,15 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-
+  
+/* info chapter yang sedang dibaca */
+.chapter-list button.current-chapter {
+  background-color: #222222; /* darker gray */
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+  
 /* Footer logos
 .footer-logo {
   width: 100px;
@@ -1203,3 +1210,4 @@ header.hidden {
   opacity: 0;
 }
 }
+
