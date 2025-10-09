@@ -623,6 +623,17 @@
         .catch(error => {
           chapterContent.innerHTML = '<p>Error loading chapter.</p>';
         });
+      
+      // Update current chapter button
+      const buttons = chapterList.querySelectorAll('button');
+      buttons.forEach((btn, i) => {
+        if (i === index) {
+          btn.classList.add('current-chapter');
+        } else {
+          btn.classList.remove('current-chapter');
+        }
+      });
+      
       // Hide sidebar when switching chapters
       sidebar.classList.remove('active');
       menuBtn.style.display = 'block';
@@ -777,4 +788,5 @@
   </footer>
   
 </html>
+
 
