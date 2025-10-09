@@ -47,22 +47,23 @@
 
 .novel-genre {
   font-size: 0.65em;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   outline-width: 200px;
   position: absolute;
   bottom: 5px;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  }
+  
+}
 
-/*.outline-text {
+.outline-text {
   text-shadow:
      -1px -1px 0 #ffffff,  
       1px -1px 0 #ffffff,
      -1px  1px 0 hsl(0, 0%, 100%),
       1px  1px 0 #ffffff; 
-}*/
+}
 
 html {
     margin: 0;
@@ -1210,4 +1211,3 @@ header.hidden {
   opacity: 0;
 }
 }
-
