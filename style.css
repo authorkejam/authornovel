@@ -47,7 +47,7 @@
 
 .novel-genre {
   font-size: 0.65em;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   outline-width: 200px;
   position: absolute;
   bottom: 5px;
@@ -57,13 +57,13 @@
   
 }
 
-/*.outline-text {
+.outline-text {
   text-shadow:
      -1px -1px 0 #ffffff,  
       1px -1px 0 #ffffff,
      -1px  1px 0 hsl(0, 0%, 100%),
       1px  1px 0 #ffffff; 
-}*/
+}
 
 html {
     margin: 0;
@@ -399,15 +399,7 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-  
-/* info chapter yang sedang dibaca */
-.chapter-list button.current-chapter {
-  background-color: #222222; /* darker gray */
-  color: white;
-  font-weight: bold;
-  border-radius: 10px;
-}
-  
+
 /* Footer logos
 .footer-logo {
   width: 100px;
@@ -606,7 +598,7 @@ header.hidden {
 }
 }
 
-@media (max-width: 763px) {
+@media (max-width: 766px) {
   .gallery {
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 15px;
@@ -646,27 +638,15 @@ header.hidden {
   }
 
   .novel-genre {
-
-@media (max-width: 759px) {
-  .chapter-nav {
-  margin: 10px 0;
-  text-align: center;
+  font-size: 0.85em;
+  color: rgb(0, 0, 0);
   position: absolute;
+  bottom: 200px;
   left: 50%;
-  transform: translateX(-50%);
-  bottom: 20px;
+  transform: translateX(-100%);
+  text-align: center;
 }
-.novel-genre {
-    font-size: 0.65em;
-    color: rgb(255, 255, 255);
-    position: relative;
-    top: 1%;
-    left: 5%;
-    transform: translate(-50%, 75px);
-    text-align: center;
-  }
 }
-
 @media (max-width: 720px) {
   .gallery {
     display: grid;
@@ -705,7 +685,7 @@ header.hidden {
 
   .novel-genre {
     font-size: 0.65em;
-    color: rgb(255, 255, 255);
+    color: rgb(4, 4, 4);
     position: relative;
     top: 59%;
     left: 50%;
@@ -959,7 +939,7 @@ header.hidden {
 
   .novel-genre {
   font-size: 0.65em;
-    color: rgb(255, 255, 255);
+    color: rgb(4, 4, 4);
     position: relative;
     top: 59%;
     left: 50%;
@@ -1058,7 +1038,6 @@ header.hidden {
     font-size: 14px;
   }
 }
-
 
 @media (max-width: 360px) {
   .chapter-nav {
