@@ -26,8 +26,8 @@
   position: relative;
   top: 5px;
   text-align: center;
-  
 }
+
 .novel-date {
   position: absolute;
   top: 5px;
@@ -2078,3 +2078,4 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
