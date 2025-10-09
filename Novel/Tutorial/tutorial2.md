@@ -13,4 +13,6 @@ Tapi, chapter list akan tetap disembunyikan secara otomatis saat pergantian Chap
 
 Mohon ingat chapter/Bab yang anda baca, karna website belum memiliki kemampuan untuk mengingat posisi bacaan terakhir. Akan kami tambahkaan fitur tersebut dimasa depan.
 
-Terima kasih sudah menyelesaikan tutorial, silakan kembali ke halaman utama untuk melanjutkan ke Novel yang tersedia.
+Namun, website akan menemani anda membaca, dengan mengingat di chapter mana anda berada. (Ini baru saja kami tambahkan, jam 17:34. oct 9, 2025)
+
+Terima kasih sudah menyelesaikan tutorial, silakan kembali ke halaman utama untuk mulai membaca Novel yang tersedia.
