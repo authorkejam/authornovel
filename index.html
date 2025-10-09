@@ -58,7 +58,6 @@
       </div>
     </div>
   </div>
-
   <script>
     // Data Novel dan berkas bacaannya
     const novels = [
@@ -66,6 +65,7 @@
         id: 0,
         title: "TUTORIAL PENGGUNAAN",
         //date: "01-01-2025",
+        genre: ["Baca dulu, ini mungkin membantu"],
         chapters: [
           {
             title: "Tutorial Chapter 1: Tombol Kontrol",
@@ -91,6 +91,7 @@
         date: "18-06-2019",
         status: "Bersambung",
         genre: ["Drama", "Romance", "Tragedy"],
+        
         chapters: [
           {
             title: "Prologue",
@@ -169,6 +170,7 @@
         date: "03-08-2024",
         status: "Bersambung",
         genre: ["Drama", "Crime",],
+        
         chapters: [
           {
             title: "Chapter 1: Just a Dream",
@@ -234,6 +236,7 @@
         date: "30-12-2023",
         status: "Completed",
         genre: ["Philosophy","Psychology","Short"],
+        
         chapters: [
           {
             title: "Chapter 1: Concept of Kindness",
@@ -300,6 +303,7 @@
         date: "01-04-2025",
         status: "Ongoing",
         genre: ["Drama","Romance"],
+        
         chapters: [
           {
             title: "Chapter 1: PILIHAN YANG SALAH",
@@ -346,6 +350,7 @@
         date: "01-04-2024",
         status: "?",
         genre: ["Belum Tersedia",],
+        
         chapters: [
           {
             title: "Chapter 1: The Chase Begins",
@@ -518,6 +523,13 @@
     const card = document.createElement('div');
     card.className = 'novel-card';
 
+    if (novel.cover) {
+      const img = document.createElement('img');
+      img.src = novel.cover;
+      img.alt = novel.title + ' cover';
+      card.appendChild(img);
+    }
+
     // Judul
     const title = document.createElement('div');
     title.className = 'novel-title';
@@ -547,10 +559,7 @@
       genre.textContent = "" + novel.genre.join(', ');
       card.appendChild(genre);
     }
-    //warna novel card
-    if (novel.title === "Being Kind?") {
-      card.classList.add('being-kind');
-    }
+    
     card.onclick = () => openNovel(novel);
     novelGallery.appendChild(card);
 
@@ -763,6 +772,3 @@
   </footer>
   
 </html>
-
-
-
