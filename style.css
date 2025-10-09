@@ -808,6 +808,18 @@ header.hidden {
   transition: opacity 0.5s ease;
 }
 }
+
+@media (max-width: 600px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 20px;
+    padding: 20px 20px;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+}
+
 @media (max-width: 540px) {
   .chapter-nav {
   margin: 10px 0;
@@ -1051,4 +1063,5 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
+
 
