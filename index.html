@@ -559,6 +559,11 @@
       genre.textContent = "" + novel.genre.join(', ');
       card.appendChild(genre);
     }
+
+    //warna novel card
+    if (novel.title === "Being Kind?") {
+      card.classList.add('being-kind');
+    }
     
     card.onclick = () => openNovel(novel);
     novelGallery.appendChild(card);
@@ -772,3 +777,4 @@
   </footer>
   
 </html>
+
