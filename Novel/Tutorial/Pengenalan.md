@@ -1,6 +1,8 @@
 > Aku tidak membaca cerita orang, aku membuat cerita milikku sendiri.
 
-Hai, ini Author. Website ini dibuat dengan bangga, dengan cerita original. Website ini tercipta karena kecintaan Author pada sebuah cerita, kisah random yang tiba-tiba muncul dari otak Author. Dengan adanya website ini semoga semua cerita itu bisa terjaga selamanya.
+Hai, ini Author. Website ini dibuat dengan bangga, dengan cerita original. Website ini tercipta karena kecintaan Author pada sebuah cerita, kisah random yang tiba-tiba muncul dari otak Author.
+
+Dengan adanya website ini semoga semua cerita itu bisa terjaga selamanya.
 
 Karena juga, Author merasa situs dan aplikasi bacaan era sekarang sudah tidak lagi memberikan kenyamaan penuh bagi pembaca, seperti harus berlangganan untuk mengakses keseluruhan cerita, iklan yang tidak relevan, memiliki batas akses tertentu, dan lainnya.
 
