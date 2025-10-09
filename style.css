@@ -405,6 +405,7 @@ header.hidden {
   background-color: #222222; /* darker gray */
   color: white;
   font-weight: bold;
+  border-radius: 10px;
 }
 
 /* Footer logos
@@ -1210,3 +1211,4 @@ header.hidden {
   opacity: 0;
 }
 }
+
