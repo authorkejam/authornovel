@@ -399,7 +399,15 @@ header.hidden {
   transform: translateY(-100%);
   opacity: 0;
 }
-
+  
+/* info chapter yang sedang dibaca */
+.chapter-list button.current-chapter {
+  background-color: #222222; /* darker gray */
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+  
 /* Footer logos
 .footer-logo {
   width: 100px;
@@ -1203,3 +1211,4 @@ header.hidden {
   opacity: 0;
 }
 }
+
