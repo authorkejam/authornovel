@@ -400,6 +400,13 @@ header.hidden {
   opacity: 0;
 }
 
+/* Current chapter button highlight */
+.chapter-list button.current-chapter {
+  background-color: #222222; /* darker gray */
+  color: white;
+  font-weight: bold;
+}
+
 /* Footer logos
 .footer-logo {
   width: 100px;
