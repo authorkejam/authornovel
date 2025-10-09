@@ -88,6 +88,45 @@ header {
     z-index: 1000;
 }
 
+.custom-header {
+  display: flex;
+  align-items: center;
+  background: #393d40;
+  border-radius: 20px;
+  padding: 12px 28px;
+  position: relative;
+  width: fit-content;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2.2rem;
+  letter-spacing: 2px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin: 0 auto;
+}
+
+.header-text {
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+  position: static; /* Hapus position: fixed agar tidak keluar dari flow */
+}
+
+.circle-or {
+  background: #fff;
+  color: #393d40;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin: 0 2px;
+  font-size: 2.2rem;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
 .novel-card {
   background: #333;
   border-radius: 10px;
