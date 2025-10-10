@@ -48,11 +48,11 @@ Begitu pula Soma, yang selama ini hanya membaca kepalsuan orang lain, kini menem
 
 Namun, tidak semua orang bisa menerima mereka. Tatapan aneh dan bisikan di belakang punggung mereka semakin sering terdengar. Ada yang mencibir Rina karena "kekurangannya" dan menganggap Soma sebagai "orang aneh" yang lebih baik dijauhi.
 
-"Kenapa kamu mau berteman denganku?" tanya Rina suatu hari. *"Bukankah lebih mudah jika kamu menjauh seperti yang lain?"*
+*"Kenapa kamu mau berteman denganku?"* tanya Rina suatu hari. *"Bukankah lebih mudah jika kamu menjauh seperti yang lain?"*
 
 Soma menatapnya, lalu tersenyum kecil.
 
-"Karena aku tahu rasanya sendirian."
+*"Karena aku tahu rasanya sendirian."*
 
 Rina terdiam. Sejenak, dia hanya menatap mata Soma, lalu dengan ragu, dia mengulurkan tangannya. Soma menggenggamnya tanpa ragu sedikit pun.
 
@@ -64,7 +64,7 @@ Namun, kedamaian itu tidak berlangsung lama.
 
 Suatu hari, ketika mereka sedang duduk di taman, Rina menulis sesuatu di buku catatannya dan menunjukkannya pada Soma.
 
-"Aku ingin tahu lebih banyak tentang kamu."
+*"Aku ingin tahu lebih banyak tentang kamu."*
 
 Soma terdiam sejenak. Tidak ada yang pernah benar-benar ingin tahu tentang dirinya. Semua orang hanya melihatnya sebagai seseorang yang menakutkan atau aneh. Tapi Rina... Rina benar-benar ingin mengenalnya.
 
@@ -76,7 +76,7 @@ Soma menatap tulisan itu, lalu menatap Rina. Ada sesuatu di dalam dadanya yang t
 
 Namun, sebelum ia bisa meresapi perasaan itu lebih dalam, sebuah suara lain muncul di dalam pikirannya. Bukan suara Rina, bukan suara orang-orang di sekitar mereka. Tapi suara yang sangat familiar.
 
-"Kau tidak akan pernah bisa bahagia, Soma."
+*"Kau tidak akan pernah bisa bahagia, Soma."*
 
 Soma membeku. Wajahnya seketika pucat. Ia mengenali suara itu. Suara seseorang dari masa lalunya. Suara yang seharusnya sudah lama hilang.
 
@@ -94,7 +94,7 @@ Dan untuk pertama kalinya sejak ia bertemu Rina, ia merasa takut.
 
 Soma berdiri dari bangku taman dengan tatapan kosong. Suara itu semakin keras, seperti menggema dalam pikirannya. Rina melihat wajahnya yang pucat dan mencoba menarik perhatiannya dengan gerakan tangan.
 
-"Soma, apa yang terjadi?"
+*"Soma, apa yang terjadi?"*
 
 Namun Soma tidak menjawab. Sebaliknya, ia mulai berjalan tanpa arah. Rina mengejarnya, mencoba memahami apa yang terjadi padanya.
 
@@ -104,6 +104,6 @@ Lalu tiba-tiba, Soma berhenti. Di seberang jalan, berdiri seorang pria dengan se
 
 Darah di wajah Soma seakan menghilang. Rina menatap pria itu, lalu melihat ke arah Soma dengan kebingungan.
 
-Siapa orang ini? pikirnya.
+Siapakah sebenarnya orang ini? Apa artinya dia di hidup Soma hingga membuatnya sangat ketakutan?
 
 Soma mengepalkan tangannya. Jika pria ini muncul, itu berarti... masa lalunya benar-benar telah menemukannya kembali.
