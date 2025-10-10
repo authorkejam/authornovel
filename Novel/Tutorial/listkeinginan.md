@@ -4,7 +4,7 @@ Dimasa depan, Author berharap:
 
 2. Mempertahankan kenyamanan bagi pembaca.
 
-3. Website dapat memuat cover buku dan deskripsi informasi tentang Novel.
+3. Website dapat memuat cover buku dan deskripsi informasi tentang Novel.(✅)
 
 4. ~~Belajar lagi agar coding~~ (komposisi yang membangun website) menjadi semakin ringkas dan lebih efisien. Meskipun yang sekarang sudah sangat efisien, jika dibandingkan dengan koding sebelumnya. (✅?)
 
@@ -14,7 +14,7 @@ Dimasa depan, Author berharap:
 
 7. Website dapat dibuka disemua jenis perangkat dan berbagai ukuran layar. (✅)
 
-8. Novel memiliki cover dan informasi miliknya sendiri (sedang diusahakan)
+8. Novel memiliki cover dan informasi miliknya sendiri (sedang diusahakan)(✅)
 
 9. Penambahan novel baru secara berkala untuk memperkaya koleksi cerita,
 
@@ -40,7 +40,6 @@ Dimasa depan, Author berharap:
 > Author memiliki banyak cerita untuk diceritakan, tapi tak tau harus memulai darimana. Semoga Author diberi umur panjang untuk menyeselaikan semuanya.
 
 ~~18. Dan yang terakhir, ini mungkin terlalu berlebihan, tapi semoga kami di beri izin untuk menulis versi novel dari berbagai film. Namun jika film tersebut memang sudah memiliki versi novelnnya, mungkin Author bisa diizinkan untuk membuat dengan versi berbeda dari ide Author sendiri.~~
-
 
 
 
