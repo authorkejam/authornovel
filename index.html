@@ -27,7 +27,7 @@
 </div>
     <button id="darkModeToggle">🌙</button>
   </header>
-  <div class="informasi"><p>Novel "Being Kind", tidak dianjurkan untuk diselesaikan.</p></div>
+  <div class="informasi"><p>Card yang judulnya berubah warna, menandakan buku yang tidak dianjurkan untuk diselesaikan</p></div>
   <button class="menu-btn" id="menuBtn">☰</button>
 
   <div class="sidebar" id="sidebar">
@@ -49,6 +49,7 @@
       <button id="blogsBtn">Blogs</button>
       <button id="novelsBtn">Novels</button>
       <button id="shortstoriesBtn">Short Stories</button>
+      <button id="aboutBtn">About</button>
     </div>
     <div class="gallery" id="novelGallery"></div>
 
@@ -418,9 +419,8 @@
       title: "Every Story Have A Meaning",
       date: "01-01-2023",
       cover: "cover/EveryStory-cover.jpg",
-      genre: ["Drama", "Short"],
       chapters: [
-                {
+        {
           title: "Story 1: Dermaga Harapan",
           file: "Short/EveryStory/1EveryStory.md"
         },
@@ -442,6 +442,20 @@
         }
       ]
     }
+    ];
+
+    let about = [
+      {
+        id: 0,
+        title: "About",
+        date: "01-01-2023",
+        chapters: [
+          {
+            title: "About the Author",
+            file: "About/about.md"
+          }
+        ]
+      }
     ];
 
     let currentView = 'novels';
@@ -491,14 +505,15 @@
           // heading or blockquote, process as is
           const lines = block.split('\n');
           lines.forEach(line => {
-            let converted = line
-              .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-              .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-              .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-              .replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>')
-              .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-              .replace(/\*(.*)\*/gim, '<em>$1</em>')
-              .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun
+        let converted = line
+          .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+          .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+          .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+          .replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>')
+          .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
+          .replace(/\*(.*)\*/gim, '<em>$1</em>')
+          .replace(/`([^`]+)`/g, '<code>$1</code>')
+          .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>'); // links akun
             html += converted + '<br />';
           });
         } else {
@@ -619,6 +634,31 @@
         return;
       }
       if (currentView === 'blogs') {
+        novelGallery.classList.add('blog-view');
+        currentData.forEach((item) => {
+          item.chapters.forEach((chapter) => {
+            const post = document.createElement('div');
+            post.className = 'blog-post';
+            const title = document.createElement('h2');
+            title.textContent = chapter.title;
+            post.appendChild(title);
+            const content = document.createElement('div');
+            content.className = 'blog-content';
+            post.appendChild(content);
+            novelGallery.appendChild(post);
+            // Fetch and render content
+            fetch(chapter.file)
+              .then(response => response.text())
+              .then(md => {
+                content.innerHTML = markdownToHTML(md);
+              })
+              .catch(error => {
+                content.innerHTML = '<p>Error loading content.</p>';
+              });
+          });
+        });
+        novelGallery.style.display = 'block';
+      } else if (currentView === 'about') {
         novelGallery.classList.add('blog-view');
         currentData.forEach((item) => {
           item.chapters.forEach((chapter) => {
@@ -813,6 +853,15 @@
       renderGallery();
     });
 
+    const aboutBtn = document.getElementById('aboutBtn');
+    aboutBtn.addEventListener('click', () => {
+      currentView = 'about';
+      currentData = about;
+      sortData(currentData, sortSelect.value);
+      updateBackButtons();
+      renderGallery();
+    });
+
     // Track current chapter index for navigation
     let currentChapterIndex = 0;
     let currentNovel = null;  // Added to fix ReferenceError for currentNovel
@@ -948,10 +997,4 @@
   </footer>
   
 </html>
-
-
-
-
-
-
 
