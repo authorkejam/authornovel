@@ -6,9 +6,10 @@ Beberapa penyesuaian telah dilakukan agar antarmuka website dapat terlihat menar
 
     2. Shortir Novel berdasarkan (Tanggal, dan nama) (sortir genre menyusul)
 
-    3. Penambahan Blog dan Short story untuk memeprkaya website
+    3. Penambahan Blog dan Short story untuk memperkaya konten pada website
 
-    4. Dan kini, setiap Novel sudah memiliki cover
+    4. Dan kini, setiap Novel sudah memiliki cover😍
 
     
+
 
