@@ -25,8 +25,9 @@
     UTH<span class="circle-or">O</span><span class="circle-or">R</span> NOVEL
   </span>
 </div>
+    <button id="darkModeToggle">🌙</button>
   </header>
-  <div class="informasi"><p>Card berwarna hitam, menandakan buku yang tidak dianjurkan untuk diselesaikan</p></div>
+  <div class="informasi"><p>Card yang judulnya berubah warna, menandakan buku yang tidak dianjurkan untuk diselesaikan</p></div>
   <button class="menu-btn" id="menuBtn">☰</button>
 
   <div class="sidebar" id="sidebar">
@@ -36,6 +37,19 @@
   </div>
 
   <div class="main-container">
+    <div class="sort-controls">
+      <label for="sortSelect">Sortir Novel:</label>
+      <select id="sortSelect">
+        <option value="latest">Tanggal Terbaru</option>
+        <option value="oldest">Tanggal Terlama</option>
+        <option value="name">Nama A-Z</option>
+      </select>
+    </div>
+    <div class="view-controls">
+      <button id="blogsBtn">Blogs</button>
+      <button id="novelsBtn">Novels</button>
+      <button id="shortstoriesBtn">Short Stories</button>
+    </div>
     <div class="gallery" id="novelGallery"></div>
 
     <div class="reader" id="reader">
@@ -60,11 +74,11 @@
   </div>
   <script>
     // Data Novel dan berkas bacaannya
-    const novels = [
+    let novels = [
       {
         id: 0,
         title: "TUTORIAL PENGGUNAAN",
-        //date: "01-01-2025",
+        date: "10-10-2025",
         genre: ["Baca dulu, ini mungkin membantu"],
         chapters: [
           {
@@ -91,7 +105,7 @@
         date: "18-06-2019",
         status: "Bersambung",
         genre: ["Drama", "Romance", "Tragedy"],
-        
+        cover: "cover/Another-cover.png",
         chapters: [
           {
             title: "Prologue",
@@ -170,7 +184,7 @@
         date: "03-08-2024",
         status: "Bersambung",
         genre: ["Drama", "Crime",],
-        
+        cover: "cover/Boulevards-cover.png",
         chapters: [
           {
             title: "Chapter 1: Just a Dream",
@@ -236,7 +250,7 @@
         date: "30-12-2023",
         status: "Completed",
         genre: ["Philosophy","Psychology","Short"],
-        
+        cover: "cover/beingkind-cover.png",
         chapters: [
           {
             title: "Chapter 1: Concept of Kindness",
@@ -303,7 +317,7 @@
         date: "01-04-2025",
         status: "Ongoing",
         genre: ["Drama","Romance"],
-        
+        cover: "cover/val-cover.png",
         chapters: [
           {
             title: "Chapter 1: PILIHAN YANG SALAH",
@@ -350,7 +364,7 @@
         date: "01-04-2024",
         status: "?",
         genre: ["Belum Tersedia",],
-        
+        cover: "cover/hunted-cover.png",
         chapters: [
           {
             title: "Chapter 1: The Chase Begins",
@@ -363,6 +377,91 @@
         ]
       }
     ];
+
+    let blogs = [
+      {
+        id: 0,
+        title: "Sample Blog",
+        date: "01-01-2023",
+        chapters: [
+          {
+            title: "Short Story",
+            file: "Blog/SampleBlog/blog1.md"
+          },
+          {
+            title: "Update vers3",
+            file: "Blog/SampleBlog/3sampleblog.md"
+          },
+          {
+            title: "Update vers 2",
+            file: "Blog/SampleBlog/2sampleblog.md"
+          },
+          {
+            title: "Update vers 1",
+            file: "Blog/SampleBlog/1sampleblog.md"
+          },
+        ]
+      }
+    ];
+      
+    let shortstories = [
+    {  
+    id: 1,
+      title: "Every Story Have A Meaning",
+      date: "01-01-2023",
+      cover: "cover/EveryStory-cover.png",
+      chapters: [
+        {
+          title: "Story 1: Dermaga Harapan",
+          file: "Short/1EveryStory.md"
+        },
+        {
+          title: "Story 2: Sakura",
+          file: "Short/1EveryStory.md"
+        },
+        {
+          title: "Story 3: Restoran Milik Kita",
+          file: "Short/1EveryStory.md"
+        },
+        {
+          title: "Story 4: Tak Bersuara",
+          file: "Short/1EveryStory.md"
+        },
+        {
+          title: "Story 5: Hujan di Bulan Juni",
+          file: "Short/1EveryStory.md"
+        }
+      ]
+    }
+    ];
+
+    let currentView = 'novels';
+    let currentData = novels;
+
+    function sortData(data, criterion) {
+      data.sort((a, b) => {
+        if (criterion === 'name') {
+          return a.title.localeCompare(b.title);
+        } else if (criterion === 'latest') {
+          const dateA = a.date ? new Date(a.date.split('-').reverse().join('-')) : new Date(0);
+          const dateB = b.date ? new Date(b.date.split('-').reverse().join('-')) : new Date(0);
+          return dateB - dateA;
+        } else if (criterion === 'oldest') {
+          const dateA = a.date ? new Date(a.date.split('-').reverse().join('-')) : new Date(0);
+          const dateB = b.date ? new Date(b.date.split('-').reverse().join('-')) : new Date(0);
+          return dateA - dateB;
+        }
+      });
+    }
+
+    const sortSelect = document.getElementById('sortSelect');
+    sortSelect.addEventListener('change', () => {
+      sortData(currentData, sortSelect.value);
+      renderGallery();
+    });
+
+    // Initial sort
+    sortData(currentData, 'latest');
 
     // Improved markdown to HTML converter for basic markdown used here
     function markdownToHTML(md) {
@@ -439,6 +538,12 @@
     const novelTitle = document.getElementById('novelTitle');
     const readerBackBtn = document.getElementById('readerBackBtn');
 
+    function updateBackButtons() {
+      const viewName = currentView === 'shortstories' ? 'Short Stories' : currentView.charAt(0).toUpperCase() + currentView.slice(1);
+      backBtn.textContent = `← Back to ${viewName}`;
+      readerBackBtn.textContent = `← Back to ${viewName}`;
+    }
+
     // Hide sidebar when clicking outside
     document.addEventListener('click', (e) => {
       if (!sidebar.contains(e.target) && e.target !== menuBtn) {
@@ -499,88 +604,101 @@
     // Render novel gallery
     function renderGallery() {
       novelGallery.innerHTML = '';
-      novels.forEach(novel => {
-        const card = document.createElement('div');
-        card.className = 'novel-card';
-        card.textContent = novel.title;
-    
-    card.onclick = () => openNovel(novel);
-    novelGallery.appendChild(card);
-      });
+      if (currentData.length === 0) {
+        const message = currentView === 'shortstories' ? 'No short stories available yet.' : `No ${currentView} available yet.`;
+        novelGallery.innerHTML = `<p>${message}</p>`;
+        return;
+      }
+      if (currentView === 'blogs') {
+        novelGallery.classList.add('blog-view');
+        currentData.forEach((item) => {
+          item.chapters.forEach((chapter) => {
+            const post = document.createElement('div');
+            post.className = 'blog-post';
+            const title = document.createElement('h2');
+            title.textContent = chapter.title;
+            post.appendChild(title);
+            const content = document.createElement('div');
+            content.className = 'blog-content';
+            post.appendChild(content);
+            novelGallery.appendChild(post);
+            // Fetch and render content
+            fetch(chapter.file)
+              .then(response => response.text())
+              .then(md => {
+                content.innerHTML = markdownToHTML(md);
+              })
+              .catch(error => {
+                content.innerHTML = '<p>Error loading content.</p>';
+              });
+          });
+        });
+        novelGallery.style.display = 'block';
+      } else {
+        novelGallery.classList.remove('blog-view');
+        currentData.forEach((item, index) => {
+          const card = document.createElement('div');
+          card.className = 'novel-card';
+
+          if (item.cover) {
+            const img = document.createElement('img');
+            img.src = item.cover;
+            img.alt = item.title + ' cover';
+            card.appendChild(img);
+          }
+
+          // Judul
+          const title = document.createElement('div');
+          title.className = 'novel-title';
+          title.textContent = item.title;
+          card.appendChild(title);
+
+          // Date
+          if (item.date) {
+            const date = document.createElement('div');
+            date.className = 'novel-date';
+            date.textContent = item.date;
+            card.appendChild(date);
+          }
+
+          //Status
+          if (item.status) {
+            const status = document.createElement('div');
+            status.className = 'novel-status';
+            status.textContent = item.status;
+            card.appendChild(status);
+          }
+
+          // Genre
+          if (item.genre) {
+            const genre = document.createElement('div');
+            genre.className = 'novel-genre outline-text';
+            genre.textContent = "" + item.genre.join(', ');
+            card.appendChild(genre);
+          }
+
+          //warna novel card
+          if (item.title === "Being Kind?") {
+            card.classList.add('being-kind');
+          }
+
+          card.onclick = () => openNovel(item);
+          novelGallery.appendChild(card);
+
+          // Add slide down animation with stagger
+          setTimeout(() => {
+            card.classList.add('animate-in');
+          }, index * 100);
+        });
+        novelGallery.style.display = 'grid';
+      }
       reader.classList.remove('active');
-      novelGallery.style.display = 'grid';
       menuBtn.style.display = 'none';
       sidebar.classList.remove('active');
       readerBackBtn.style.display = 'none';
       sidebarShownByHover = false;
       sidebarShownBySwipe = false;
     }
-
-  // Render novel gallery
-  function renderGallery() {
-  novelGallery.innerHTML = '';
-  novels.forEach((novel, index) => {
-    const card = document.createElement('div');
-    card.className = 'novel-card';
-
-    if (novel.cover) {
-      const img = document.createElement('img');
-      img.src = novel.cover;
-      img.alt = novel.title + ' cover';
-      card.appendChild(img);
-    }
-
-    // Judul
-    const title = document.createElement('div');
-    title.className = 'novel-title';
-    title.textContent = novel.title;
-    card.appendChild(title);
-
-    // Date
-    if (novel.date) {
-      const date = document.createElement('div');
-      date.className = 'novel-date';
-      date.textContent = novel.date;
-      card.appendChild(date);
-    }
-
-    //Status
-    if (novel.status) {
-      const status = document.createElement('div');
-      status.className = 'novel-status';
-      status.textContent = novel.status;
-      card.appendChild(status);
-    }
-
-    // Genre
-    if (novel.genre) {
-      const genre = document.createElement('div');
-      genre.className = 'novel-genre outline-text';
-      genre.textContent = "" + novel.genre.join(', ');
-      card.appendChild(genre);
-    }
-
-    //warna novel card
-    if (novel.title === "Being Kind?") {
-      card.classList.add('being-kind');
-    }
-    
-    card.onclick = () => openNovel(novel);
-    novelGallery.appendChild(card);
-
-    // Add slide down animation with stagger
-    setTimeout(() => {
-      card.classList.add('animate-in');
-    }, index * 100);
-  });
-    reader.classList.remove('active');
-    novelGallery.style.display = 'grid';
-    menuBtn.style.display = 'none';
-    sidebar.classList.remove('active');
-    readerBackBtn.style.display = 'none';
-    sidebarShownByHover = false;
-    sidebarShownBySwipe = false;
-  }
 
     // Open novel and show chapters in sidebar
     function openNovel(novel) {
@@ -647,7 +765,6 @@
       readerBackBtn.style.display = 'none';
       sidebarShownByHover = false;
       sidebarShownBySwipe = false;
-      card.style.animationDelay = `${index * 0.1}s`; //untuk animasi novel card satu per satu
     };
 
     // Reader back button
@@ -657,6 +774,35 @@
       sidebarShownByHover = false;
       sidebarShownBySwipe = false;
     };
+
+    // Add event listeners for view buttons
+    const novelsBtn = document.getElementById('novelsBtn');
+    const blogsBtn = document.getElementById('blogsBtn');
+    const shortstoriesBtn = document.getElementById('shortstoriesBtn');
+
+    novelsBtn.addEventListener('click', () => {
+      currentView = 'novels';
+      currentData = novels;
+      sortData(currentData, sortSelect.value);
+      updateBackButtons();
+      renderGallery();
+    });
+
+    blogsBtn.addEventListener('click', () => {
+      currentView = 'blogs';
+      currentData = blogs;
+      sortData(currentData, sortSelect.value);
+      updateBackButtons();
+      renderGallery();
+    });
+
+    shortstoriesBtn.addEventListener('click', () => {
+      currentView = 'shortstories';
+      currentData = shortstories;
+      sortData(currentData, sortSelect.value);
+      updateBackButtons();
+      renderGallery();
+    });
 
     // Track current chapter index for navigation
     let currentChapterIndex = 0;
@@ -766,6 +912,13 @@
       }
       lastScrollTop = scrollTop;
     });
+
+    // Dark mode toggle
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    darkModeToggle.addEventListener('click', () => {
+      document.body.classList.toggle('dark');
+      darkModeToggle.textContent = document.body.classList.contains('dark') ? '☀️' : '🌙';
+    });
   </script>
 </body>
 </main>
@@ -786,3 +939,4 @@
   </footer>
   
 </html>
+
