@@ -571,18 +571,37 @@
           // paragraph or list
           const lines = block.split('\n');
           let paraHtml = '';
-          let inList = false;
+          let inUnorderedList = false;
+          let inOrderedList = false;
           lines.forEach(line => {
-            if (/^\- /.test(line)) {
-              if (!inList) {
+            if (/^\d+\. /.test(line)) {
+              if (!inOrderedList) {
+                paraHtml += '<ol>';
+                inOrderedList = true;
+              }
+              if (inUnorderedList) {
+                paraHtml += '</ul>';
+                inUnorderedList = false;
+              }
+              paraHtml += '<li>' + line.replace(/^\d+\. /, '') + '</li>';
+            } else if (/^\- /.test(line)) {
+              if (!inUnorderedList) {
                 paraHtml += '<ul>';
-                inList = true;
+                inUnorderedList = true;
+              }
+              if (inOrderedList) {
+                paraHtml += '</ol>';
+                inOrderedList = false;
               }
               paraHtml += '<li>' + line.replace(/^\- /, '') + '</li>';
             } else {
-              if (inList) {
+              if (inOrderedList) {
+                paraHtml += '</ol>';
+                inOrderedList = false;
+              }
+              if (inUnorderedList) {
                 paraHtml += '</ul>';
-                inList = false;
+                inUnorderedList = false;
               }
               let converted = line
                 .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
@@ -591,7 +610,10 @@
               paraHtml += converted + ' ';
             }
           });
-          if (inList) {
+          if (inOrderedList) {
+            paraHtml += '</ol>';
+          }
+          if (inUnorderedList) {
             paraHtml += '</ul>';
           }
           html += '<p>' + paraHtml.trim() + '</p>';
@@ -600,7 +622,6 @@
 
       return html.trim();
     }
-
     const novelGallery = document.getElementById('novelGallery');
     const sidebar = document.getElementById('sidebar');
     const menuBtn = document.getElementById('menuBtn');
@@ -1051,6 +1072,7 @@
   </footer>
   
 </html>
+
 
 
 
