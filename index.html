@@ -574,7 +574,7 @@
           let inUnorderedList = false;
           let inOrderedList = false;
           lines.forEach(line => {
-            if (/^\d+\. /.test(line)) {
+            if (/^\d+\./.test(line)) {
               if (!inOrderedList) {
                 paraHtml += '<ol>';
                 inOrderedList = true;
@@ -583,7 +583,7 @@
                 paraHtml += '</ul>';
                 inUnorderedList = false;
               }
-              paraHtml += '<li>' + line.replace(/^\d+\. /, '') + '</li>';
+              paraHtml += '<li>' + line.replace(/^\d+\. ?/, '') + '</li>';
             } else if (/^\- /.test(line)) {
               if (!inUnorderedList) {
                 paraHtml += '<ul>';
@@ -619,6 +619,9 @@
           html += '<p>' + paraHtml.trim() + '</p>';
         }
       });
+
+      return html.trim();
+    }
 
       return html.trim();
     }
@@ -1072,6 +1075,7 @@
   </footer>
   
 </html>
+
 
 
 
