@@ -1,5 +1,7 @@
 Website sudah bisa diakses diberbagai perangkat, diantaranya:
 
+Desktop tentunya memiliki tampilan paling sempurna dibandingkan dengan perangkat mobile. Desktop seperti Mac, Asus notebook, dengan sistem operasi windows maupun Linux.
+
 Android:
 1. Xiomi/Redmi
 2. Samsung
@@ -15,10 +17,10 @@ IOS:
 5. MacBook
 
 Tambahan:
-Iphone SE
-Galaxy fold
-Samsung J2 Primal
-Oppo
+Iphone SE,
+Galaxy fold,
+Samsung J2 Primal,
+Oppo,
 Android dengan ukuran layar 360x640
 
 Sedangkan untuk layar kustom seperti, layar segitiga, layar bulat dan berbagai jenisnya. Kami mungkin akan melakukannya dimasa depan🤔.
