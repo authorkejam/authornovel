@@ -637,6 +637,7 @@ header.hidden {
   transform: translateX(-50%);
   text-align: center;
 }
+
 }
 @media (max-width: 720px) {
   .gallery {
@@ -673,7 +674,17 @@ header.hidden {
     opacity: 0;
     z-index: 1;
   }
-
+#darkModeToggle {
+  position: absolute;
+  right: 160px;
+  top: 170%;
+  transform: translateY(-50%);
+  background: rgb(57, 57, 57);
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
+}
   .novel-genre {
     font-size: 0.65em;
     color: var(--text-color);
@@ -816,6 +827,17 @@ header.hidden {
   transition: opacity 0.5s ease;
 }
 }
+#darkModeToggle {
+  position: absolute;
+  right: 120px;
+  top: 179%;
+  transform: translateY(-50%);
+  background: rgb(57, 57, 57);
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
+}
 
 @media (max-width: 620px) {
   .gallery {
@@ -892,6 +914,18 @@ header.hidden {
   transform: translateX(-50%);
   bottom: 56px;
   }
+}
+
+#darkModeToggle {
+  position: absolute;
+  right: 95px;
+  top: 176%;
+  transform: translateY(-50%);
+  background: rgb(57, 57, 57);
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
 }
 
 @media (max-width: 520px) {
@@ -992,6 +1026,17 @@ header.hidden {
 header.hidden {
   transform: translateY(-100%);
   opacity: 0;
+}
+#darkModeToggle {
+  position: absolute;
+  right: 50px;
+  top: 177%;
+  transform: translateY(-50%);
+  background: rgb(57, 57, 57);
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
 }
 }
 @media (max-width: 414px) {
@@ -1145,7 +1190,17 @@ header.hidden {
   background-color: var(--btn-hover);
   transform: translateY(-1px);
 }
-
+#darkModeToggle {
+  position: absolute;
+  right: 40px;
+  top: 190%;
+  transform: translateY(-50%);
+  background: rgb(57, 57, 57);
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
+}
 /*style logo baru*/
 header {
     background-color: var(--header-bg);
