@@ -111,8 +111,6 @@ Dia tersnyum manis "Hemm" angguknya dengan mulut yang penuh dengan makanan.
 
 Setelah makan, kami memutuskan untuk jalan bersama lagi. Dia berjalan sangat dekat denganku. Sesekali aku mencium dan mengelus rambutnya. Dia tampak menyukainya.
 
-**(NOTE: ANDA BISA MELEWATI BAGIAN MENJIJIKAN INI, KAMI SUDAH MEMBERI TANDA DIBAGIAN BAWAH)**
-
 **BERIKAN HADIAH**
 
 Kami bingung ingin pergi kemana, lama kupikirkan apa yang selanjutnya tertulis dibuku.
@@ -134,6 +132,8 @@ Dia terlihat sangat senang mendapat boneka itu.
 "AAahh, lembut banget" dia memelukku, "Makasih sayang"
 
 Aku hanya tersenyum senang melihatnya senang.
+
+**(NOTE: ANDA BISA MELEWATI BAGIAN MENJIJIKAN INI, KAMI SUDAH MEMBERI TANDA DIBAGIAN BAWAH)**
 
 ---
 
@@ -182,7 +182,7 @@ Akhirnya aku pulang, meninggalkannya sendiri dirumahnya yang cukup besar.
 
 Itu adalah ciuman pertamaku, ternyata luar biasa
 
-* * *
+---
 
 Namun itu semua, hanyalah dia didepanku. Aku tak tau seperti apa dia dibelakangku. Dan ternyata dia sangat mengerikan.
 
@@ -208,7 +208,9 @@ Aku pergi meninggalkan mereka yang sudah batuk berdarah, kulit mereka tampak ter
 
 "Tolonggg" teriak para hewan itu.
 
-* * *
+---
+
+**(Maaf anda harus membaca cerita seperti itu, tapi kalau tidak. Anda bisa lanjutkan disini)**
 
 Dan disinilah aku, menatap senja yang indah. Berharap bisa memiliki dan menikmatinya untuk diriku seorang, namun dia lebih memilih untuk dinimkati oleh semua orang.
 
@@ -218,7 +220,7 @@ Aku merasa sangat jijik, mengingat biibr dan lidahku pernah menelan ludahnya.
 
 Aku tak tau sudah sebanyak apa orang yang menikmati dirinya. Memikirkannya malah semakin membuatku jijik.
 
-
 "Kau seperti matahari terbenam, yang bisa dinikmati oleh semua orang"
+
 
 
