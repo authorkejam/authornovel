@@ -216,11 +216,12 @@ Dan disinilah aku, menatap senja yang indah. Berharap bisa memiliki dan menikmat
 
 Aku menatap boneka beruang  yang kupegang, "Kau tak seharusnya melihat pemandangan traumatis itu" ucapku tersenyum. "Kau pasti kesepian, yaa" 
 
-Aku merasa sangat jijik, mengingat bibir pernah menciumku.
+Aku merasa sangat jijik, mengingat bibirnya pernah menciumku.
 
 Aku tak tau sudah sebanyak apa orang yang menikmati dirinya. Memikirkannya malah semakin membuatku jijik.
 
 "Kau seperti matahari terbenam, yang bisa dinikmati oleh semua orang"
+
 
 
 
