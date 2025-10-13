@@ -27,9 +27,11 @@ Dan dia menerimanya, "Aku mau" ucapnya tersenyum. Aku sangat bersyukur karena su
 
 Aku tak mengerti apa-apa tentang kencan dengan pasangan. Jadi aku membeli sebuah buku yang bisa membantuku melaui semua ini dan mempererat hubunganku dengan Seva.
 
-Untuk kencan pertama, kami memutuskan untuk menonton fiml romantis. Aku melihatnya dibuku, cara ini bisa berhasil membuat pasangan menjadi semakin jatuh hati. Aku tak tau, tapi mari kita coba.
+Untuk kencan pertama, kami memutuskan untuk menonton film romantis.
 
-Aku memberitahunya kalau besok kita akan menonton film drama roamntis. Aku lupa nama filmnya. Aku mengiriminya pesan, "Sayang, kamu mau nonton ga besok?"
+Aku melihatnya dibuku, cara ini bisa berhasil membuat pasangan menjadi semakin jatuh hati. Aku tak tau, tapi mari kita coba.
+
+Aku memberitahunya kalau besok kita akan menonton film drama romantis. Aku lupa nama filmnya. Aku mengiriminya pesan, "Sayang, kamu mau nonton ga besok?"
 
 "Mau, mau" ucapnya terlihat antusias, "kita mau nonton apa?"
 
@@ -41,6 +43,7 @@ Aku memberitahunya kalau besok kita akan menonton film drama roamntis. Aku lupa 
 
 "Yaudah kita liat besok aja yaa" balasnya. "oh ya, besok jam berapa?"
 
+"Besok jam 9"
 
 "Boleh, aku tunggu besok yaa"
 
@@ -217,3 +220,4 @@ Aku tak tau sudah sebanyak apa orang yang menikmati dirinya. Memikirkannya malah
 
 
 "Kau seperti matahari terbenam, yang bisa dinikmati oleh semua orang"
+
