@@ -46,7 +46,7 @@ Aku memberitahunya kalau besok kita akan menonton film drama roamntis. Aku lupa 
 
 ---
 
-**MENONTON FILM ROMSNTIS**
+**MENONTON FILM ROMANTIS**
 
 Keesokan harinya aku menjemputnya kerumah. Dia keluar dengan gaun merah yang secantik dirinya, aku tertegun sebentar melihatnya.
 
@@ -108,7 +108,7 @@ Dia tersnyum manis "Hemm" angguknya dengan mulut yang penuh dengan makanan.
 
 Setelah makan, kami memutuskan untuk jalan bersama lagi. Dia berjalan sangat dekat denganku. Sesekali aku mencium dan mengelus rambutnya. Dia tampak menyukainya.
 
-**NOTE: ANDA BISA MELEWATI BAGIAN MENJIJIKAN INI, KAMI SUDAH MEMBERI TANDA DIBAGIAN BAWAH**
+**(NOTE: ANDA BISA MELEWATI BAGIAN MENJIJIKAN INI, KAMI SUDAH MEMBERI TANDA DIBAGIAN BAWAH)**
 
 **BERIKAN HADIAH**
 
@@ -214,5 +214,6 @@ Aku menatap boneka beruang  yang kupegang, "Kau tak seharusnya melihat pemandang
 Aku merasa sangat jijik, mengingat biibr dan lidahku pernah menelan ludahnya.
 
 Aku tak tau sudah sebanyak apa orang yang menikmati dirinya. Memikirkannya malah semakin membuatku jijik.
+
 
 "Kau seperti matahari terbenam, yang bisa dinikmati oleh semua orang"
