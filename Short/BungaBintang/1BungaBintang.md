@@ -89,7 +89,7 @@ Sesuai dengan arahan buku, aku memasan makanan yang berbeda agar bisa saling men
 
 "Aku yang ini aja" kataku menunjuk menu.
 
-Setelah makana datang, kami memakannya tentu saja. Dan benar saja, Seva penasaran dengan makananku.
+Setelah pesanan kami datang, kami memakannya tentu saja. Dan benar sekali, Seva penasaran dengan makananku.
 
 "Enak ga sayang?" tanyanya penasaran.
 
@@ -220,4 +220,5 @@ Aku tak tau sudah sebanyak apa orang yang menikmati dirinya. Memikirkannya malah
 
 
 "Kau seperti matahari terbenam, yang bisa dinikmati oleh semua orang"
+
 
