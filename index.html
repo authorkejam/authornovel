@@ -9,6 +9,7 @@
   <meta property="og:title" content="Author Novel" />
   <meta property="og:description" content="Baca novel online, gratis selamanya" />
   <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.13/lottie.min.js"></script>
   <meta property="og:title" content="Author Novel" />
   <meta property="og:description" content="Baca novel online, gratis selamanya" />
   <meta property="og:image" content="https://authorkejam.github.io/authornovel/weblogo.png" />
@@ -17,23 +18,50 @@
 </head>
 <main>
 <body>
-  
-  <header>
+
+  <!-- Header untuk animasi pintu -->
+  <header class="intro-header">
     <div class="custom-header">
-  <div class="circle-a">A</div>
-  <span class="header-text">
-    UTH<span class="circle-or">O</span><span class="circle-or">R</span> NOVEL
-  </span>
-</div>
-    <button id="darkModeToggle">🌙</button>
+      <span class="letter circle-a">A</span>
+      <span class="letter">U</span>
+      <span class="letter">T</span>
+      <span class="letter">H</span>
+      <span class="letter circle-or">O</span>
+      <span class="letter circle-or">R</span>
+      <span class="letter space">&nbsp;</span>
+      <span class="letter">N</span>
+      <span class="letter">O</span>
+      <span class="letter">V</span>
+      <span class="letter">E</span>
+      <span class="letter">L</span>
+    </div>
   </header>
-  <div class="informasi"><p>Novel "Being Kind", tidak dianjurkan untuk diselesaikan.</p></div>
+
+  <!-- Header normal -->
+  <header class="normal-header">
+    <div class="custom-header">
+      <span class="letter circle-a">A</span>
+      <span class="letter">U</span>
+      <span class="letter">T</span>
+      <span class="letter">H</span>
+      <span class="letter circle-or">O</span>
+      <span class="letter circle-or">R</span>
+      <span class="letter space">&nbsp;</span>
+      <span class="letter">N</span>
+      <span class="letter">O</span>
+      <span class="letter">V</span>
+      <span class="letter">E</span>
+      <span class="letter">L</span>
+    </div>
+  </header>
   <button class="menu-btn" id="menuBtn">☰</button>
 
   <div class="sidebar" id="sidebar">
     <button class="back-btn" id="backBtn">← Back to Novels</button>
+    <button id="darkModeToggle">🌙</button>
     <h2 id="novelTitle">Chapters</h2>
     <div class="chapter-list" id="chapterList"></div>
+
   </div>
 
   <div class="main-container">
@@ -386,11 +414,11 @@
         date: "01-01-2023",
         chapters: [
           {
-            title: "Short Story (Oct 13, 2025)",
+             title: "Short Story",
             file: "Blog/BlogInformasi/blog7.md"
           },
           {
-            title: "Perbaikan responsive ukuran layar (Oct 12, 2025)",
+            title: "Responsivee web",
             file: "Blog/BlogInformasi/blog6.md"
           },
           {
@@ -410,7 +438,7 @@
             file: "Blog/BlogUpdate/3sampleblog.md"
           },
           {
-            title:"Temani Aku (Oct 03, 2025)",
+            title:"Sistem Temani Aku (Oct 03, 2025)",
             file: "Blog/BlogUpdate/4sampleblog.md"
           },
           {
@@ -1107,14 +1135,16 @@
       currentTextAlign = 'justify';
     });
 
-    // Hide header on scroll
+    // Hide header and footer on scroll
     let lastScrollTop = 0;
     window.addEventListener('scroll', function() {
       let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
       if (scrollTop > lastScrollTop && scrollTop > 100) {
-        document.querySelector('header').classList.add('hidden');
+        document.querySelector('.normal-header').classList.add('hidden');
+        document.querySelector('.normal-footer').classList.add('hidden');
       } else {
-        document.querySelector('header').classList.remove('hidden');
+        document.querySelector('.normal-header').classList.remove('hidden');
+        document.querySelector('.normal-footer').classList.remove('hidden');
       }
       lastScrollTop = scrollTop;
     });
@@ -1125,34 +1155,49 @@
       document.body.classList.toggle('dark');
       darkModeToggle.textContent = document.body.classList.contains('dark') ? '☀️' : '🌙';
     });
+
+    // Intro animation
+    document.addEventListener('DOMContentLoaded', function() {
+      const introHeader = document.querySelector('.intro-header');
+      const introFooter = document.querySelector('.intro-footer');
+      const normalHeader = document.querySelector('.normal-header');
+      const normalFooter = document.querySelector('.normal-footer');
+      const mainContainer = document.querySelector('.main-container');
+      const darkModeToggle = document.getElementById('darkModeToggle');
+
+      // Initially hide main content and toggle
+      mainContainer.style.opacity = '0';
+      darkModeToggle.style.display = 'none';
+
+      // Letters animate automatically via CSS (slide in from right with stagger)
+
+      // After letters finish animating (2.2s), open doors and reveal content immediately
+      setTimeout(() => {
+        introHeader.style.transform = 'translateY(-100%)';
+        introFooter.style.transform = 'translateY(100%)';
+
+        // Reveal main content and normal header/footer
+        mainContainer.style.opacity = '1';
+        darkModeToggle.style.display = 'block';
+        darkModeToggle.style.opacity = '1';
+        normalHeader.style.display = 'block';
+        normalFooter.style.display = 'block';
+      }, 2200);
+    });
+
   </script>
 </body>
 </main>
 
-  <footer>
-    <p><h2>&copy; 2025 Author Kejam Blog. All rights reserved.</h2></p>
-    <!--<div id="visitor-count" style="position: absolute; left: 10px; bottom: 1px">Visitors: </div>-->
+  <!-- Footer untuk animasi pintu -->
+  <footer class="intro-footer">
+
   </footer>
 
-  <script src="alert.js"></script>
-
-  <footer>
-    <p><strong>Short Story</strong> dan <strong>Blog</strong> akan kembali ditambahkan dimasa mendatang.</p>
-    <!--<p>Semua Novel dibuat dengan dua aplikasi ini</p>
-    <p>Quollwriter dan Litewriter</p>
-    <img src="logo/quollwriter-logo.png" alt="Quollwriter Logo" class="footer-logo">
-    <img src="logo/litewriter-logo.jpg" alt="Litewriter Logo" class="footer-logo">-->
+  <!-- Footer normal -->
+  <footer class="normal-footer">
+  <p><h2>&copy; 2025 Author Kejam Blog. All rights reserved.</h2></p>
   </footer>
   
 </html>
-
-
-
-
-
-
-
-
-
-
 
