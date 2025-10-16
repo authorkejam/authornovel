@@ -1,10 +1,16 @@
 Pernahkah kau merasa dirimu tidak cukup baik untuk orang lain?
 
-Bagi sebagian besar orang, masalahmu adalah urusanmu sendiri. Mereka jarang peduli dengan apa yang sebenarnya terjadi padamu. Di era ini, kebaikan sering kali menjadi tolok ukur nilai seseorang. Jika kau dianggap tidak cukup baik, kau akan ditinggalkan begitu saja. Bahkan ketika kau telah berusaha mati-matian untuk berbuat baik, satu kesalahan kecil dapat menghancurkan dedikasi bertahun-tahun yang telah kau bangun.
+Bagi sebagian besar orang, masalahmu adalah urusanmu sendiri. Mereka jarang peduli dengan apa yang sebenarnya terjadi padamu. Di era ini, kebaikan sering kali menjadi tolok ukur nilai seseorang.
 
-Aku sangat prihatin dengan apa yang dialami oleh Kathrin, seorang gadis berusia 19 tahun. Dia melewati cobaan hidup yang begitu berat, bahkan terasa tidak masuk akal. Kathrin adalah pribadi yang begitu baik, lembut, dan tulus. Seperti sutra yang tak ternoda. Ia ramah kepada siapa pun yang sering membuat orang di sekitarnya tersenyum.
+Jika kau dianggap tidak cukup baik, kau akan ditinggalkan begitu saja. Bahkan ketika kau telah berusaha mati-matian untuk berbuat baik, satu kesalahan kecil dapat menghancurkan dedikasi bertahun-tahun yang telah kau bangun.
 
-Kathrin memiliki seorang sahabat dekat bernama Arfan. Arfan adalah pemilik toko kecil di tengah kota yang sering dikunjungi Kathrin. Meski usianya terpaut tiga tahun lebih tua, Arfan dan Kathrin memiliki hubungan yang sangat akrab. Arfan adalah sosok yang perhatian dan penuh pengertian. Dalam setiap pertemuan mereka, Arfan selalu memastikan Kathrin merasa dihargai dan nyaman.
+Aku sangat prihatin dengan apa yang dialami oleh Kathrin, seorang gadis berusia 19 tahun. Dia melewati cobaan hidup yang begitu berat, bahkan terasa tidak masuk akal.
+
+Kathrin adalah pribadi yang begitu baik, lembut, dan tulus. Seperti sutra yang tak ternoda. Ia ramah kepada siapa pun yang sering membuat orang di sekitarnya tersenyum.
+
+Kathrin memiliki seorang sahabat dekat bernama Arfan. Arfan adalah pemilik toko kecil di tengah kota yang sering dikunjungi Kathrin. Meski usianya terpaut tiga tahun lebih tua, Arfan dan Kathrin memiliki hubungan yang sangat akrab.
+
+Arfan adalah sosok yang perhatian dan penuh pengertian. Dalam setiap pertemuan mereka, Arfan selalu memastikan Kathrin merasa dihargai dan nyaman.
 
 Suatu hari, seperti biasanya, Kathrin pergi ke toko milik Arfan untuk membeli sayur dan buah segar. Begitu Kathrin memasuki toko, Arfan yang sedang sibuk di balik meja kasir langsung menyapanya dengan senyum lebar.
 
@@ -16,7 +22,9 @@ Arfan mengangguk, matanya penuh perhatian. "Kamu kelihatan capek. Nanti aku kasi
 
 Kathrin tertawa kecil. "Ah, kamu selalu saja tahu cara bikin aku merasa lebih baik."
 
-Setelah mengobrol sebentar, Kathrin mulai mengambil buah pir, apel, beberapa lobak, dan sayur lainnya. Sementara itu, Arfan sesekali memperhatikan dari jauh, memastikan Kathrin tidak kesulitan. Saat Kathrin selesai, Arfan sendiri yang melayani di kasir, meski hanya sendiri mengelola toko bukanlah masalah baginya.
+Setelah mengobrol sebentar, Kathrin mulai mengambil buah pir, apel, beberapa lobak, dan sayur lainnya. Sementara itu, Arfan sesekali memperhatikan dari jauh, memastikan Kathrin tidak kesulitan.
+
+Saat Kathrin selesai, Arfan sendiri yang melayani di kasir, meski hanya sendiri mengelola toko bukanlah masalah baginya.
 
 "Ini diskon spesial buat pelanggan favoritku," kata Arfan sambil menyelipkan senyuman hangat.
 
@@ -73,7 +81,9 @@ Kathrin tertegun. Isyarat kecil itu membuat hatinya hangat. Ia merasa sangat dih
 
 Arfan tersenyum. "Tugas sahabat, kan?"
 
-Dengan segala perhatian dan kebaikan Arfan, Kathrin merasa bahwa ia memiliki sekutu yang tulus dalam hidupnya. Bagi Kathrin, Arfan adalah seseorang yang selalu ada di sisinya, seperti pelindung di tengah badai. Namun, di balik semua ini, ada rahasia yang perlahan-lahan mendekati permukaan. Sesuatu yang bahkan Kathrin tidak pernah duga.
+Dengan segala perhatian dan kebaikan Arfan, Kathrin merasa bahwa ia memiliki sekutu yang tulus dalam hidupnya. Bagi Kathrin, Arfan adalah seseorang yang selalu ada di sisinya, seperti pelindung di tengah badai.
+
+Namun, di balik semua ini, ada rahasia yang perlahan-lahan mendekati permukaan. Sesuatu yang bahkan Kathrin tidak pernah duga.
 
 ***
 
@@ -157,13 +167,17 @@ Arfan mulai mendekatkan tubuhnya, ia perlahan mulai meraba Kathrin. Dimulai dari
 
 "Teriak sesukamu, ga akan ada yang bisa dengerin kamu." Balas Arfan tertawa.
 
-Kathrin menendang perut Arfan. Namun tak membuatnya tumbang, Arfan malah membalasnya dengan menamparnya sangat keras hingga menjatuhkan Kathrin. Arfan memukuli, mendang perut Kathrin, dan mulai melepaskan celananya. Kathrin yang sudah tidak berdaya, hanya bisa terdiam tidak mampu berbuat apa-apa. Sesekali Arfan memukul kepala Kathrin saat sedang melakukan aksi biadapnya.
+Kathrin menendang perut Arfan. Namun tak membuatnya tumbang, Arfan malah membalasnya dengan menamparnya sangat keras hingga menjatuhkan Kathrin.
+
+Arfan memukuli, mendang perut Kathrin, dan mulai melepaskan celananya. Kathrin yang sudah tidak berdaya, hanya bisa terdiam tidak mampu berbuat apa-apa. Sesekali Arfan memukul kepala Kathrin saat sedang melakukan aksi biadapnya.
 
 Kathrin hanya bisa menangis melihat dirinya dipermainkan, dan hanya bisa menahan rasa sakit yang mengrogoti tubuhnya. Pada akhirnya Kathrin pingsan lemas.
 
-Saat terbangun ia sudah berada diluar pintu belakang toko, dengan Arfan yang sudah pergi menghinlang entah kemana. Kemudian Kathrin bangun, menahan sakit di perutnya. Ia berjalan dengan luka memar dikepalanya. Namun ia tak mampu berjalan lebih jauh, ia akhirnya terjatuh, terduduk menahan sakit diperutnya. Ia menangis sejadi-jadinya, tak percaya dengan apa yang terjadi hari ini. 
+Saat terbangun ia sudah berada diluar pintu belakang toko, dengan Arfan yang sudah pergi menghinlang entah kemana.
 
-Teman yang sangat ia percaya ternyata adalah orang yang menyebarkan rumor palsu tentang dirinya, bahkan hingga memperkosanya.
+Kemudian Kathrin bangun, menahan sakit di perutnya. Ia berjalan dengan luka memar dikepalanya. Namun ia tak mampu berjalan lebih jauh, ia akhirnya terjatuh, terduduk menahan sakit diperutnya. Ia menangis sejadi-jadinya, tak percaya dengan apa yang terjadi hari ini. 
+
+Teman yang sangat ia percaya ternyata adalah orang yang menyebarkan rumor palsu tentang dirinya, bahkan hingga mempermainkan dirinya.
 
 Seorang pria yang kemudian datang menghampiri Kathrin.
 
@@ -184,16 +198,20 @@ Pria tadi menunggu hasil pemeriksaan, sembari membaya biaya rumah sakit. Setelah
 
 3 hari berselang Kathrin sudah diperbolehkan pulang. Diwajahnya sudah tidak terlihat Kathrin yang ceria dulu. Hatinya dipenuhi dengan dendam dan amarah.
 
-> "Aku menyerah, terlalu baik selalu merugikanku"
+> "Aku menyerah, menjadi baik selalu merugikanku"
 
 Kathrin kemudian langsung pergi menuju ke toko Arfan dengan perban dikepala dan tubuhnya. Saat itu malam sepi yang tenang, namun mencekam.
 
-Disana, terlihat Arfan sedang bersama dengan seorang perempuan dengan keadaan setengah telanjang. Bermesraan ditoko yang sedang sepi. 
+Disana, terlihat Arfan sedang bersama dengan seorang perempuan dengan keadaan setengah telanjang. Bermesraan ditoko yang sedang sepi.
+
 Baru saja akan memulai aksinya, Kathrin memukul kepala Arfan dengan paralon berisi beton yang membuatnya tersungkur. Terlihat ditangan kirinnya, Kathrin membawa jerigen berisi bensin.
 
 Kathrin menyuruh perempuan itu untuk keluar meninggalkan tempat itu.
+
 Kathrin kemudian menuangkan bensin kesetiap sudut toko, juga menyiram Arfan dengan bensin itu. Arfan terlihat berusaha kabur. Namun Kathrin yang menyadarinya, memukul kaki Arfan hingga ia menjerit kesakitan, "Aaaaarghhhh" teriaknnya.
+
 Berkali-kali Kathrin memukul kakinya. Kathrin berdiri di pintu keluar, kemudian mengeluarkan korek. Lalu Kathrin menyalakan korek itu. Kathrin menatap sejenak korek itu, entah apa yang ada dipikirannya. Yang jelas ini semua tidak bisa dibatalkan. Tidak ada kata berhenti.
+
 Dan akhirnya Kathrin melempar korek kecil itu ke tubuh Arfan. Dalam sekejap api melahap tubuh Arfan yang penuh dengan darah. Ia hanya bisa berteriak menderita.
 
 Kathrin keluar, menyaksikan kebakaran itu. Ia menikmati setiap jeritan Arfan yang masih terdengar hingga keluar.
