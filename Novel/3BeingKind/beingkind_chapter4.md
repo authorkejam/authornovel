@@ -24,13 +24,17 @@ Kata orang, malam hari adalah yang paling berbahaya. Namun bagiku itu adalah tem
 
 Kadang aku bertanya-tanya, apakah aku masih ingin melanjutkan semua ini? Jika hidup hanya seperti ini, berjalan tanpa arah, membawa luka-luka yang terus berdarah. Apa gunanya aku tetap bertahan? Dunia ini terasa seperti penjara, dan aku, narapidana yang bahkan tak tahu apa dosaku.
 
-Ada suatu malam ketika aku berdiri di tepi jembatan tua, menatap ke bawah. Air di bawah sana gelap dan tenang, seperti memanggilku untuk tenggelam ke dalamnya. Aku berdiri di sana lama sekali, membiarkan angin dingin mengoyak tubuhku. Dalam keheningan itu, untuk pertama kalinya, aku merasa ada sesuatu yang hampir menyerupai kedamaian.
+Ada suatu malam ketika aku berdiri di tepi jembatan tua, menatap ke bawah. Air di bawah sana gelap dan tenang, seperti memanggilku untuk tenggelam ke dalamnya.
+
+Aku berdiri di sana lama sekali, membiarkan angin dingin mengoyak tubuhku. Dalam keheningan itu, untuk pertama kalinya, aku merasa ada sesuatu yang hampir menyerupai kedamaian.
 
 Tapi aku tak melompat.
 
 Entah kenapa, aku selalu mundur di saat-saat seperti itu. Bukan karena aku takut mati, tidak. Aku hanya merasa mati terlalu mudah. Itu tidak cukup untuk melampiaskan rasa sakit ini. Aku ingin mereka tahu apa yang telah mereka lakukan. Aku ingin mereka merasakan apa yang kurasakan.
 
-Bayangan balas dendam itu mulai tumbuh di dalam diriku, seperti racun yang perlahan menyebar. Aku membencinya, namun aku juga tak bisa menolaknya. Aku ingin membuat mereka semua mengerti, tapi tidak dengan kata-kata. Kata-kata tak pernah cukup. Kata-kata hanya meninggalkan bekas luka di dalam. Aku ingin mereka merasakan sesuatu yang nyata, seperti bagaimana mereka membuatku merasakan kehancuran.
+Bayangan balas dendam itu mulai tumbuh di dalam diriku, seperti racun yang perlahan menyebar. Aku membencinya, namun aku juga tak bisa menolaknya.
+
+Aku ingin membuat mereka semua mengerti, tapi tidak dengan kata-kata. Kata-kata tak pernah cukup. Kata-kata hanya meninggalkan bekas luka di dalam. Aku ingin mereka merasakan sesuatu yang nyata, seperti bagaimana mereka membuatku merasakan kehancuran.
 
 Aku mulai memikirkan hal-hal yang sebelumnya tak pernah kubayangkan. Aku duduk sendirian dalam gelap, membayangkan semua skenario. Aku bahkan mulai menikmati prosesnya. Bagaimana jika aku bisa membalas mereka? Bagaimana jika, untuk sekali saja, aku yang memegang kendali?
 
@@ -42,23 +46,29 @@ Dan itulah yang paling menakutkan. Aku bahkan tak bisa melakukan apapun.
 
 Setiap kata yang mereka ucapkan seperti pisau. Tidak hanya menusuk, tapi juga berputar, merobek apa yang tersisa dari diriku. Aku tidak pernah tahu seperti apa rasanya tidak terluka, karena seingatku, sakit adalah satu-satunya hal yang selalu setia menemani.
 
-Aku tidak tahu bagaimana caranya melupakan. Kata-kata mereka tertanam dalam pikiranku, berakar kuat, merambat hingga ke dalam mimpi-mimpiku. Tidak ada malam yang benar-benar tenang; selalu ada bayangan bisikan yang menghantuiku, mengulang semua penghinaan itu, lagi dan lagi, hingga aku yakin bahwa aku memang tak berarti.
+Aku tidak tahu bagaimana caranya melupakan. Kata-kata mereka tertanam dalam pikiranku, berakar kuat, merambat hingga ke dalam mimpi-mimpiku. Tidak ada malam yang benar-benar tenang; selalu ada bayangan bisikan yang menghantuiku, mengulang semua penghinaan itu, lagi dan lagi. Hingga aku yakin bahwa aku memang tak berarti.
 
-Aku telah mencoba melawan, apa gunanya? Mereka lebih kuat, lebih kejam, lebih pandai menghancurkan. Aku tak pernah punya kesempatan. Jadi, aku menyerah. Bukan pada mereka, tapi pada diriku sendiri. Aku menyerah untuk peduli. Aku menyerah untuk mencoba menjadi sesuatu yang baik, sesuatu yang diinginkan.
+Aku sudah lelah mencoba melawan, apa gunanya? Mereka lebih kuat, lebih kejam, lebih pandai menghancurkan. Aku tak pernah punya kesempatan. Jadi, aku menyerah. Bukan pada mereka, tapi pada diriku sendiri.
+
+Aku menyerah untuk peduli. Aku menyerah untuk mencoba menjadi sesuatu yang baik, sesuatu yang diinginkan.
 
 Mereka ingin aku menjadi apa? Pahlawan? Orang baik? Tidak ada yang pernah memberiku alasan untuk percaya bahwa kebaikan itu nyata. Bahkan, ketika aku mencoba menjadi baik, dunia hanya menertawaiku. Menginjakku. Mencampakkanku.
 
 Aku pernah berharap. Dulu. Saat aku masih cukup bodoh untuk percaya bahwa segala sesuatu bisa berubah. Tapi kini, harapan itu hanyalah kenangan samar, seperti asap yang menyesakkan dada, tapi tak pernah bisa kugenggam. Yang tersisa hanyalah kehampaan, gelap, dingin dan hening.
 
-Aku pernah berpikir bahwa mungkin, hanya mungkin, aku bisa lepas dari semua ini. Tapi tidak. Dunia tidak akan membiarkanku pergi dengan mudah. Aku adalah ciptaan mereka, boneka dari kebencian dan rasa sakit yang mereka tanamkan. Dan aku tahu, bahkan jika aku mencoba melarikan diri, bayangan ini akan tetap mengikutiku.
+Aku pernah berpikir bahwa mungkin, hanya mungkin, aku bisa lepas dari semua ini. Tapi tidak. Dunia tidak akan membiarkanku pergi dengan mudah.
+
+Aku adalah ciptaan mereka, boneka dari kebencian dan rasa sakit yang mereka tanamkan. Dan aku tahu, bahkan jika aku mencoba melarikan diri, bayangan ini akan tetap mengikutiku.
 
 Aku lelah menjadi korban. Tapi lebih dari itu, aku lelah hidup.
 
 Dan di tengah semua ini, aku mulai bertanya-tanya: bagaimana jika dunia lebih baik tanpa aku? Bagaimana jika, dengan menghilang, aku bisa menemukan kedamaian yang tak pernah kutemukan di sini?
 
-Namun ada sesuatu yang menahanku. Bukan harapan, bukan cinta. Itu sudah lama mati. Tapi mungkin, hanya rasa penasaran. Aku ingin tahu sejauh apa aku bisa bertahan. Aku ingin tahu seberapa hancur seseorang bisa menjadi sebelum akhirnya lenyap sepenuhnya.
+Namun ada sesuatu yang menahanku. Bukan harapan, bukan cinta. Itu sudah lama mati. Tapi mungkin, hanya rasa penasaran. Aku ingin tahu sejauh apa aku bisa bertahan. Aku ingin tahu bisa seberapa hancur seseorang, sebelum akhirnya lenyap sepenuhnya.
 
 Mungkin itulah satu-satunya alasan aku masih ada di sini. Menunggu.
+
+---
 
 **GIFT**
 
@@ -66,7 +76,9 @@ Namun suatu ketika, semua berubah. Di tengah kehampaan dan keputusasaanku, aku b
 
 Aku menemukannya di sebuah sudut jalan yang gelap, di malam yang sama dinginnya dengan hatiku. Dia duduk di sana, memeluk lututnya, tubuhnya menggigil kedinginan, dan matanya menatap kosong ke arah api unggun yang hampir padam. Dia seperti bayangan hidup, sesuatu yang rapuh, nyaris tak kasat mata.
 
-Ada sesuatu dalam dirinya yang membuatku berhenti. Mungkin rasa ingin tahu, mungkin juga rasa yang selama ini kutekan. Empati yang entah bagaimana masih tersisa dalam diriku. Aku mendekatinya dengan langkah ragu, tidak tahu apa yang akan kulakukan atau apa yang akan dia lakukan.
+Ada sesuatu dalam dirinya yang membuatku berhenti. Mungkin rasa ingin tahu, mungkin juga rasa yang selama ini kutekan. Empati yang entah bagaimana masih tersisa dalam diriku.
+
+Aku mendekatinya dengan langkah ragu, tidak tahu apa yang akan kulakukan atau apa yang akan dia lakukan.
 
 "Kenapa kamu di sini?" tanyaku akhirnya, suaraku lebih dingin dari yang kumaksudkan.
 
@@ -78,7 +90,9 @@ Aku tak tahu harus berkata apa. Apa yang bisa kukatakan? Bahwa dunia ini kejam? 
 
 Aku duduk di sebelahnya, membiarkan keheningan menggantung di antara kami. Entah kenapa, aku merasa dia mengerti tanpa perlu kata-kata.
 
-Namanya adalah Aruna. Dia tak punya rumah, tak punya keluarga. Sebatang kara, seperti aku. Tapi kisahnya jauh lebih kelam. Dia hidup dalam bayang-bayang kehilangan yang tak pernah benar-benar pergi. Dia kehilangan segalanya dalam api. Orang tuanya, rumahnya, bahkan masa kecilnya.
+Namanya adalah Aruna. Dia tak punya rumah, tak punya keluarga. Sebatang kara, seperti aku. Tapi kisahnya jauh lebih kelam. Dia hidup dalam bayang-bayang kehilangan yang tak pernah benar-benar pergi.
+
+Dia kehilangan segalanya dalam api. Orang tuanya, rumahnya, bahkan masa kecilnya.
 
 "Aku hanya ingin menghilang," katanya tiba-tiba, dengan suara yang tenang tapi mematikan. "Tapi bahkan itu pun terlalu sulit."
 
@@ -203,7 +217,9 @@ Aku mengambil pisau dari dapur, tangan gemetar tapi tekadku mantap. Aku berlutut
 
 "Aku tidak akan membiarkanmu sendirian, Aruna," bisikku. "Aku akan ikut bersamamu. Kita akan bebas dari tempat ini. Dari semuanya."
 
-Dengan napas terakhir yang kuberikan untuk dunia ini, aku berbisik dengan penuh kebencian, "Aku mengutuk dunia ini..." Dunia yang hanya tahu cara menghancurkan. Yang merenggut semuanya dariku. Yang tidak pernah memberi ruang untuk orang-orang seperti kita."
+Dengan napas terakhir yang kuberikan untuk dunia ini, aku berbisik dengan penuh kebencian, "Aku mengutuk dunia ini..."
+
+Dunia yang hanya tahu cara menghancurkan. Yang merenggut semuanya dariku. Yang tidak pernah memberi ruang untuk orang-orang seperti kita."
 
 Saat rasa sakit terakhir itu menghilang, aku merasa seperti jatuh ke dalam kegelapan yang hangat. Dan untuk pertama kalinya, aku tidak merasa sendirian.
 
@@ -212,4 +228,4 @@ Saat rasa sakit terakhir itu menghilang, aku merasa seperti jatuh ke dalam kegel
 **-KEMATIAN BUKANLAH HAL YANG HARUS DITAKUTI. BAGIKU, KEMATIAN HANYA MEMBUAT HAL YANG PERNAH HIDUP BEGITU BERARTI-**
 
 
-**(Buku ini tidak mendukung aksi bununh diri. Carilah seseorang untuk bercerita)**
+**(Buku ini tidak mendukung aksi bunuh diri. Segera carilah seseorang untuk bercerita)**
