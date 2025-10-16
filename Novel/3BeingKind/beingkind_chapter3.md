@@ -1,12 +1,22 @@
-Kebaikan seharusnya membuatmu lebih baik atau setidaknya mempengaruhi orang lain untuk berbuat serupa. Namun kenyataannya, kebaikan sering kali terhapus begitu saja, seiring berjalannya waktu, seperti bayangan yang menghilang saat matahari terbenam. Terkadang, orang-orang bahkan melupakan kebaikanmu sepenuhnya, seolah-olah itu tidak pernah ada, atau lebih buruk lagi, mereka menyalahkanmu atas apa yang kau lakukan. Seperti mereka menganggap setiap kebaikanmu itu sebagai beban yang tak diinginkan.
+Kebaikan seharusnya membuatmu lebih baik atau setidaknya mempengaruhi orang lain untuk berbuat serupa.
 
-Namun, kebaikan justru membuat orang lain menjadi ketergantungan, membutakan mereka akan batas-batas kemampuan yang ada pada diri mereka sendiri. Mereka lupa untuk belajar mengatasi masalah mereka sendiri, karena ada seseorang yang selalu siap menolong. Mereka tidak pernah berhenti bertanya-tanya, "Mengapa kau melakukannya?" dan seiring waktu, pertanyaan itu berubah menjadi tuduhan: "Mengapa kau tidak melakukannya lebih banyak lagi?"
+Namun kenyataannya tidak begitu. Kebaikan sering kali terhapus begitu saja, seiring berjalannya waktu, seperti bayangan yang menghilang saat matahari terbenam.
+
+Terkadang, orang-orang bahkan melupakan kebaikanmu sepenuhnya, seolah-olah itu tidak pernah ada, atau lebih buruk lagi, mereka menyalahkanmu atas apa yang kau lakukan. Seperti mereka menganggap setiap kebaikanmu itu sebagai beban yang tak diinginkan.
+
+Namun, kebaikan justru membuat orang lain menjadi ketergantungan, membutakan mereka akan batas-batas kemampuan yang ada pada diri mereka sendiri. Mereka lupa untuk belajar mengatasi masalah mereka sendiri, karena ada seseorang yang selalu siap menolong. Mereka tidak pernah berhenti bertanya-tanya, "Mengapa kau melakukannya?", selama menguntungkan untuk apa bertanya.
+
+Dan seiring waktu, pertanyaan itu berubah menjadi tuduhan: "Mengapa kau tidak melakukannya lebih banyak lagi?"
 
 Terkadang kebaikan itu seolah menjadi perangkap, sebuah beban yang terus menekan hingga meremukkanmu. Kamu merasa terbebani oleh harapan-harapan yang tak pernah terucap, oleh kebutuhan-kebutuhan yang tidak pernah dilihat sebagai tanggung jawab mereka, melainkan tanggung jawabmu.  
 
-Kebaikan itu sendiri, yang seharusnya membangun, malah merusak. Ia meninggalkan bekas yang tak terlihat. Trauma yang tumbuh perlahan, tidak terlihat jelas oleh mata orang lain, tetapi terasa menyesakkan di dalam hati. Setiap kali kamu mencoba untuk berbuat baik lagi, rasa sakit itu datang, membayangimu seperti bayangan panjang yang menyesakkan. Apa yang dulu adalah sebuah tindakan yang ringan, kini terasa seperti beban yang tak bisa kamu lepaskan.
+Kebaikan itu sendiri, yang seharusnya membangun, malah merusak. Ia meninggalkan bekas yang tak terlihat. Trauma yang tumbuh perlahan, tidak terlihat jelas oleh mata orang lain, tetapi terasa menyesakkan di dalam hati.
 
-Berbuat baik kembali malah mengingatkanmu pada luka-luka lama yang belum pernah benar-benar sembuh. Semua kebaikan yang kau berikan kini terasa seperti pisau yang mengiris perlahan, dengan setiap goresannya menambah rasa hampa dalam dirimu. Kamu mulai bertanya-tanya: *Apakah kebaikan itu masih punya makna, ataukah itu hanya cara untuk melukai dirimu sendiri lebih dalam lagi?*
+Setiap kali kamu mencoba untuk berbuat baik lagi, rasa sakit itu datang, membayangimu seperti bayangan panjang yang menyesakkan. Apa yang dulu adalah sebuah tindakan yang ringan, kini terasa seperti beban yang tak bisa kamu lepaskan.
+
+Berbuat baik kembali malah mengingatkanmu pada luka-luka lama yang belum pernah benar-benar sembuh. Semua kebaikan yang kau berikan kini terasa seperti pisau yang mengiris perlahan, dengan setiap goresannya menambah rasa hampa dalam dirimu.
+
+Kamu mulai bertanya-tanya: *Apakah kebaikan itu masih punya makna, ataukah itu hanya cara untuk melukai dirimu sendiri lebih dalam lagi?*
 
 **THE STORY**
 
