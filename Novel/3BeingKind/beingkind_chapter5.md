@@ -1,10 +1,14 @@
 Kebaikan sangatlah menyakitkan. Kebaikan dalam pikiran sebagian orang memang adalah hal sangat indah untuk dilihat, diterima atau dilakukan. Namun dari beberapa orang menganggap kalau kebaikan itu adalah hal yang menyakitkan, sepertiku.
 
-Pernahkah kamu merasakan sebuah kebaikan, seseorang melakukan kebaikan kepada dirimu yang membuatmu menangis. Menangis pada sebuah kebaikan bukanlah hal yang buruk, tapi pernahkah kalian benar-benar merasakannya. Kebaikan itu menyakitimu. Hatimu akan terasa sangat sakit jika menerima sebuah kebaikan, itu  yang membuatmmu menangis. Bukan karena kebaikannya, tapi karena hatimu tak mampu mengemban semua kebaikan itu.
+Pernahkah kamu merasakan sebuah kebaikan, yang dilakukan seseorang kepada dirimu yang membuatmu menangis. Menangis pada sebuah kebaikan bukanlah hal yang buruk, tapi pernahkah kalian benar-benar merasakannya. Kebaikan itu menyakitimu.
 
-Kenapa saat kebaikan terjadi pada seseorang, lalu dia menangis? Sebagian orang berpikir kalau itu merupakan bentuk air mata bahagia. Namun kenyataannya berbeda, itu justru sangatlah menyakitkan.
+Hatimu akan merasa sangat sakit jika menerima sebuah kebaikan, itu  yang membuatmmu menangis. Bukan karena kebaikannya, tapi karena hatimu tak mampu mengemban semua kebaikan itu.
 
-Tidak ada yang bertanya apa yang pernah dialami orang tersebut hingga membuatnya menangis ketika menerima sebuah kebaikan. Kebanyakan orang mungkin mengira kalau, "Ohh, dia senang karena menerima kebaikan". Itu adalah sebuah kesalahan, memahami kebaikan bukanlah seperti itu. Orang yang menerima kebaikan lalu mereka menangis, itu bukan karena mereka senang karena kebaikan itu. Tapi karena orang tersebut terlalu banyak menerima rasa sakit dimasa lalunya, lalu saat kebaikan itu menimpa rasa sakit itu, barulah air mata akan menetes. Karena kebaikan yang mencoba menyingkirkan rasa sakit pada masa lalu yang bertumpuk-tumpuk dengan paksa.
+Tidak ada yang bertanya apa yang pernah dialami orang tersebut hingga membuatnya menangis ketika menerima sebuah kebaikan. Kebanyakan orang mungkin mengira kalau, "Ohh, dia senang karena menerima kebaikan". Itu adalah sebuah kesalahan, memahami kebaikan bukanlah seperti itu.
+
+Orang yang menerima kebaikan lalu mereka menangis, itu bukan karena mereka senang karena kebaikan itu, bodoh. Tapi karena orang tersebut terlalu banyak menerima rasa sakit dimasa lalunya, lalu saat kebaikan itu menimpa rasa sakit itu, barulah air mata akan menetes bentuk dari rasa sakit itu.
+
+Karena kebaikan yang mencoba menyingkirkan rasa sakit pada masa lalu yang bertumpuk-tumpuk dengan paksa. Kebaikan yang sangat menyakitkan.
 
 Bagi orang yang sudah terbiasa dengan perlakuan buruk, jika tiba-tiba diperlakukan dengan baik justru Kebaikan itu malah akan lebih menyakitkan daripada sebuah Keburukan itu sendiri. 
 
@@ -12,15 +16,23 @@ Tapi justru berbuat baik padanya adalah pilihan yang bijak, mengingat dia sudah 
 
 **KEBAIKAN, OBSESI**
 
-Terkadang, kebaikan itu datang seperti bayangan samar di tengah malam, tidak membawa kehangatan, hanya mengingatkan bahwa sesuatu pernah ada. Kebaikan tidak selalu menjadi pelipur lara. Ia lebih sering menjadi cermin, memperlihatkan betapa kosongnya dirimu di dalam. Ia tidak membalut luka, tidak menyembuhkan. Ia hanya menggores permukaan yang telah rapuh, membiarkan kehampaan di baliknya terlihat jelas.
+Terkadang, kebaikan itu datang seperti bayangan samar di tengah malam, tidak membawa kehangatan, hanya mengingatkan bahwa sesuatu pernah ada.
 
-Aku pernah merasakannya. Sebuah kebaikan kecil. Sapaan hangat, senyuman tanpa alasan. Cukup untuk menghancurkan semua dinding yang selama ini melindungiku dari rasa yang kubenci. Bukan karena aku tidak menghargai kebaikan itu, tetapi karena ia menunjukkan bahwa aku telah terlalu lama hidup tanpa sesuatu yang nyata (kebaikan). Rasanya seperti menghirup udara yang hampa, tanpa esensi, hanya mengingatkan bahwa aku telah kehilangan segalanya.
+Kebaikan tidak selalu menjadi pelipur lara. Ia lebih sering menjadi cermin, memperlihatkan betapa kosongnya dirimu di dalam. Ia tidak membalut luka, tidak pula menyembuhkan. Ia hanya menggores permukaan yang telah rapuh, membiarkan kehampaan di baliknya terlihat jelas.
+
+Aku pernah merasakannya. Sebuah kebaikan kecil. Sapaan hangat, senyuman tanpa alasan. Cukup untuk menghancurkan semua dinding yang selama ini melindungiku dari rasa yang kubenci. Bukan karena aku tidak menghargai kebaikan itu, tetapi karena ia menunjukkan bahwa aku telah terlalu lama hidup tanpa sesuatu yang nyata (kebaikan).
+
+Rasanya seperti menghirup udara yang hampa, tanpa esensi, hanya mengingatkan bahwa aku telah kehilangan segalanya. Sesak.
 
 Kebaikan itu paradoks. Ia seperti pedang yang tumpul, tidak membunuh, tapi meninggalkan bekas luka. Bagi mereka yang telah terbiasa dengan kekosongan, kehadirannya adalah gangguan. Saat kau telah hidup begitu lama dalam kegelapan, cahaya tidak membawa kelegaan. Ia membakar mata yang tak lagi terbiasa melihat, melukai jiwa yang telah mati rasa.
 
-Kamu mungkin bertanya-tanya, mengapa orang-orang seperti kami menolak tangan yang terulur? Bukan karena kami tidak ingin diselamatkan. Kami hanya tahu bahwa tangan itu akan pergi, seperti semua yang pernah mencoba masuk ke dunia kami. Kami tahu kebaikan itu fana, hanya sekilas, seperti embun yang lenyap saat pagi tiba.
+Kamu mungkin bertanya-tanya, mengapa orang-orang seperti kami menolak tangan yang terulur? Bukan karena kami tidak ingin diselamatkan.
 
-Aku ingin berteriak, ingin memohon, "Jangan terlalu baik padaku. Aku tidak pantas. Aku tidak tahu bagaimana cara menerimanya!" Tapi kata-kata itu hanya menggantung di pikiranku, hilang sebelum sempat diucapkan. Sebagai gantinya, aku hanya tersenyum kecil, senyum yang tidak pernah sampai ke mata, sambil berkata "Terimakasih". Aku menahan semuanya di dalam, karena aku tahu, pada akhirnya, tidak ada yang benar-benar bertahan. Pada akhirnya, rasa sakit atas kebaikan itu akan menghilang dengan sendirinya, bersamaan dengan kebaikan itu sendiri.
+Kami hanya tahu bahwa tangan itu akan pergi, seperti semua yang pernah mencoba masuk ke dunia kami. Kami tahu kebaikan itu fana, hanya sekilas, seperti embun yang lenyap saat pagi tiba.
+
+Aku ingin berteriak, ingin memohon, "Jangan terlalu baik padaku. Aku tidak pantas. Aku tidak tahu bagaimana cara menerimanya!" Tapi kata-kata itu hanya menggantung di pikiranku, hilang sebelum sempat diucapkan. Sebagai gantinya, aku hanya tersenyum kecil, senyum yang tidak pernah sampai ke mata, sambil berkata "Terimakasih". Aku menahan semuanya di dalam, karena aku tahu, pada akhirnya, tidak ada yang benar-benar bertahan.
+
+Pada akhirnya, rasa sakit atas kebaikan itu akan menghilang dengan sendirinya, bersamaan dengan kebaikan itu sendiri.
 
 Yang lebih menakutkan adalah saat kebaikan itu berubah menjadi obsesi. Ia tidak lagi memberi kelegaan, hanya membakar perlahan, seperti api kecil yang menghabiskan oksigen terakhir di ruangan yang sudah hampa. Aku bertanya-tanya, "Apakah ini hukuman? Apakah ini hanya pengingat bahwa aku tidak layak mendapatkan apa-apa selain kehampaan?"
 
