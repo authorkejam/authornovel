@@ -6,7 +6,7 @@ gunakan tombol (Left) untuk merapikan teks ke sebelah kiri, (Center) untuk rata 
 
 Tampilan akan kembali ke default/pengaturan semula saat halaman disegarkan ulang.
 
-Untuk menambah kenyamanan gunakan tombol 🌙/☀️ dikanan atas untuk mengatur mode gelap/terang.
+Untuk menambah kenyamanan gunakan tombol 🌙/☀️ yang ada di chapter list. 
 
 *Untuk tombol navigasi (tombol kembali) pada ponsel anda tidak bisa digunakan sebagaimana mestinya, begitu juga untuk Laptop/Dekstop. Untuk sementara gunakan tombol virtual yang disediakan Author.*
 
