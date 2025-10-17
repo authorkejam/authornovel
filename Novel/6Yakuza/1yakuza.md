@@ -20,18 +20,21 @@ Namun, perdamaian seperti itu tidak abadi.
 
 **MASA MODERN**
 
-REN SAKAMOTO
+
+REN SANAKAMOTO, 
 Shibuya, Tokyo – 06.47 pagi
 
 Suara dering jam wekerku bukan suara alarm biasa. Itu adalah suara dunia yang memanggilku kembali ke rutinitas yang sama: bangun, bekerja, bertahan.
 
-Kepalaku masih berat ketika kuangkat tubuh dari kasur kecil yang terletak di lantai dua rumah kayu peninggalan mendiang kakek. Rumah ini sudah tua, langit-langitnya sedikit bocor saat hujan datang. Tapi rumah ini adalah satu-satunya tempat yang membuatku merasa aman. Di lantai bawah, nenek sudah menyiapkan teh hangat dan roti bakar.
+Kepalaku masih berat ketika kuangkat tubuh dari kasur kecil yang terletak di lantai dua rumah kayu peninggalan mendiang kakek.
+        
+Rumah ini sudah tua, langit-langitnya sedikit bocor saat hujan datang. Tapi rumah ini adalah satu-satunya tempat yang membuatku merasa aman. Di lantai bawah, nenek sudah menyiapkan teh hangat dan roti bakar.
 
 “Nenek, aku berangkat dulu. Ada jadwal buka kafe hari ini.”
 
 “Kamu belum sarapan,” sahutnya sambil menyodorkan bekal kecil. Tangannya keriput, tapi masih terasa hangat. Aku tak tega menolak.
 
-Namaku Ren. Ren Sakamoto. Usia sembilan belas. Kuliah? Tidak. Setelah lulus SMA, aku langsung bekerja untuk bantu nenek. Aku pelayan tetap di Cafe Ichika, sebuah kafe kecil yang terletak di gang belakang distrik Shibuya. Letaknya agak tersembunyi, tapi selalu ramai di pagi hari.
+Namaku Ren. Ren Sanakamoto. Usia sembilan belas. Kuliah? Tidak. Setelah lulus SMA, aku langsung bekerja untuk bantu nenek. Aku pelayan tetap di Cafe Ichika, sebuah kafe kecil yang terletak di gang belakang distrik Shibuya. Letaknya agak tersembunyi, tapi selalu ramai di pagi hari.
 
 Kehidupanku sederhana. Kopi, pelanggan tetap, dan lagu-lagu jazz lembut yang mengalun pelan dari speaker kafe. Teman-temanku bilang hidupku terlalu datar. Tapi menurutku, hidup yang datar itu aman. Setidaknya, aku tak perlu berurusan dengan utang, kekerasan, atau dunia gelap yang hanya kutahu dari berita malam.
 
@@ -46,7 +49,7 @@ Atau mungkin… itu adalah intuisi yang tak bisa dijelaskan.
 
 (Disaat yang bersamaan)
 
-AIRI KUROSAWA
+AIRI KUROSAWA, 
 Tokyo Utara – 05.12 pagi
 
 Hari baru bukan permulaan.
@@ -73,7 +76,7 @@ Kadang… aku bertanya-tanya. Apakah di luar sana, ada seseorang yang hidupnya j
 
 Sayangnya, dunia tak sebaik itu.
 
-REN SAKAMOTO
+REN SANAKAMOTO, 
 Sore hari – Kafe Ichika
 
 “Ren, tolong antar pesanan ke meja tiga,” kata manajerku.
@@ -87,7 +90,7 @@ Aku menuang kopi, mencium aroma biji panggang yang hangat. Sekilas kulihat ke lu
 Terkadang aku berharap ada sesuatu yang mengejutkan. Tapi saat kutanya ke diriku sendiri: "Kalau ada, kamu siap?" …aku tak bisa menjawab.
 
 
-AIRI KUROSAWA
+AIRI KUROSAWA, 
 Malam hari – Ruang Rapat Keluarga Kurosawa
 
 “Airi,” suara ayahku dalam, dingin seperti biasa. “Klan-kun sedang bergerak. Kami mendengar desas-desus bahwa mereka akan mencoba menguji kelemahanmu sebelum pelantikan.”
@@ -132,7 +135,7 @@ Dan takdir tak pernah membiarkan dua kutub bertahan terpisah selamanya.
 BAB 1 PERTEMUAN TANPA NAMA
 
 
-REN SAKAMOTO
+REN SANAKAMOTO, 
 Kafe Ichika – 16.18 sore
 
 Hari itu langit mendung. Angin bertiup lambat tapi menusuk. Aku sedang membersihkan meja-meja yang mulai kosong setelah jam makan siang. Pelanggan tetap sudah pergi. Hujan turun tipis, menghias jendela kaca dengan pola acak seperti cat air.
@@ -162,7 +165,7 @@ Saat itu, kami tak tahu nama satu sama lain.
 
 Tapi aku tahu, seseorang seperti dia tidak akan datang ke tempat ini secara kebetulan.
 
-AIRI KUROSAWA
+AIRI KUROSAWA, 
 Kafe Ichika – 16.22 sore
 
 Hujan turun. Bukan deras, tapi cukup untuk membuat dunia terasa lebih lambat.
@@ -185,7 +188,7 @@ Dia kembali dengan kopi. Membungkuk ringan. Lalu meninggalkanku sendiri.
 
 Aku memandangi cangkir itu. Aroma pahit yang hangat naik pelan. Dan untuk pertama kalinya dalam minggu ini... aku merasa bisa bernapas.
 
-REN SAKAMOTO
+REN SANAKAMOTO - 
 16.39 sore
 
 Dia duduk di sana selama hampir dua puluh menit. Tidak membuka ponsel, tidak menyentuh buku, tidak memandang keluar jendela. Hanya duduk diam, memandangi cangkirnya seperti sedang berbicara dengannya.
@@ -202,7 +205,7 @@ Dia menoleh. Mata kami bertemu.
 
 Aku mengangguk. Dan itu cukup. Aku kembali ke meja kasir, berusaha menyibukkan diri. Tapi pikiranku tetap ke sana, ke gadis yang duduk diam di tengah hujan.
 
-AIRI KUROSAWA
+AIRI KUROSAWA - 
 16.41 sore
 
 Dia membawakan air dingin.
@@ -229,5 +232,6 @@ Dan untuk pertama kalinya dalam waktu yang lama, aku berpikir…
 
 Mungkin dunia di luar keluargaku… masih menyimpan sesuatu yang tak ternoda.
 
-REN SAKAMOTO & AIRI KUROSAWA
+**REN SANAKAMOTO & AIRI KUROSAWA**
+
 Langit Tokyo mulai terang. Tapi badai sesungguhnya belum datang.
