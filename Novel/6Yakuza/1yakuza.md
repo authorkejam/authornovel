@@ -12,7 +12,9 @@ Keempat klan saling bermusuhan. Pertumpahan darah terus terjadi selama berabad-a
 
 Dari generasi ke generasi selalu ada pemimpin klan yang menjadi tumbal, dasar yang mereka sebut perdamaian. 
 
-Peperangan antar klan telah berlangsung ratusan tahun. Tidak hanya di medan perang, tetapi juga di balik layar pemerintahan dan bisnis besar. Perang terbesar pecah pada tahun 1870, dikenal sebagai Peristiwa Darah Matsutake. Empat pemimpin klan bertempur dalam perang terbuka yang memusnahkan ribuan nyawa.
+Peperangan antar klan telah berlangsung ratusan tahun. Tidak hanya di medan perang, tetapi juga di balik layar pemerintahan dan bisnis besar.
+
+Perang terbesar pecah pada tahun 1870, dikenal sebagai Peristiwa Darah Matsutake. Empat pemimpin klan bertempur dalam perang terbuka yang memusnahkan ribuan nyawa.
 
 Perang itu tidak menghasilkan pemenang. Sebaliknya, perdamaian rapuh terbentuk. Disebut Perjanjian Empat Bayangan. Sebuah kesepakatan tak tertulis untuk tidak saling menyerang secara terang-terangan, melainkan menguasai Jepang secara diam-diam melalui politik, ekonomi, dan kekuatan tersembunyi.
 
