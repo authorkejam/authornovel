@@ -1,1 +1,1 @@
-"My Girlfriend is A Yakuza" telah ditambahkan pada 13:48, 17 oct, 2025 dengan status "Bersambung"
+"Мʏ Gιяℓƒяιєи∂ ιѕ Δ Υαкцzα” тєℓαн ∂ιтαмвαнкαи ρα∂α 13:48, 17 σ¢т, 2025 ∂єиgαи ѕтαтυѕ “вєяѕαмвυиg”
