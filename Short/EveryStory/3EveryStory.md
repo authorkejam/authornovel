@@ -10,11 +10,11 @@ Dan sekarang aku merasa sangat menyesal, aku memiliki uang yang sangat banyak da
 
 *"Apakah waktu itu aku kurang bekerja keras?"* Pertanyaan itu terus menghantuiku, yang juga menjadi penyebab aku memiliki uang banyak yang tak aku inginkan.
 
-*"Lalu, untuk apa aku berjuang selam ini?"*
+*"Lalu, untuk apa aku berjuang selama ini?"*
 
 Aku melanjutkan operasi restoran ini hanya untuk mengenang istriku yang sangat aku cintai. Hanya ini yang bisa aku lakukan, sambil terus menyesal tentunya.
 
-Aku memiliki 2 orang karyawan yang sudah bekerja denganku sejak pertama kali restoran ini beroperasi, mereka sudah seperti seorang anak bagiku. Nama mereka Roy dan Sarina. Mereka sering berkelahi berebut untuk melayani pembeli. Melihat mereka sangat antusias saat bekerja, membuatku ingin sekali menjadi bagian dari meraka. *"Tapi, itu semua mustahil"* pikirku.
+Aku memiliki 2 orang karyawan yang sudah bekerja denganku sejak pertama kali restoran ini beroperasi, mereka sudah seperti seorang anak bagiku. Nama mereka Roy dan Sarina. Mereka sering berkelahi berebut untuk melayani pembeli. Melihat mereka sangat antusias saat bekerja, membuatku ingin sekali menjadi bagian dari meraka. *"Tapi, itu semua mustahil"*.
 
 Aku berusaha menjadi seorang Bos, atasan sekaligus seorang ayah bagi mereka. Karena sering sekali masalah mereka sampai ketelingaku. Aku berusaha membantu mereka dengan bijak, alhasil mereka sangat mempercayaiku.
 
@@ -127,4 +127,5 @@ Hingga akhirnya istriku jatuh sakit, dia terkena kangker hati. Apa yang menyebab
 Dia meniggalkanku dengan senyuman terakhir yang ia lukiskan diwajahnya, aku tak bisa melupakannya bahkan hingga usiaku yang tak lagi muda ini. Aku berharap, bisa segera mengunjunginya disisi sana.
 
 END of FLASHBACK
+
 fin
