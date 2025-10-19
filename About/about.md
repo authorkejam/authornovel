@@ -20,16 +20,15 @@ Beberapa cerita mungkin akan terasa berat untuk diterima, kalau kalian tidak nya
 
 **Short Stories**: Ini akan menjadi cerita yang sedikit ringkas, tentu saja cerita original, bukan ringkasan yang diambil dari Novel. Dan mungkin dimasa depan, bebrapa cerita pendek akan kami buat versi Novel panjangnya.
 
-**Blogs**: DIsini mungkin akanberisi update dari setiap konten, entah itu Novel, short story, sistem website dan lainnya.
+**Blogs**: Disini mungkin akan berisi update dari setiap konten, entah itu Novel, short story, sistem website dan lainnya.
 
 ---
 
 **Contact**
 
-Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaa, umpan balik, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
+Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaan, umpan balik, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
 
 Email: [authornovel527@gmail.com]
 Social Media:[Twitter](https://x.com/AuthorNove83836?t=Pcp2EUDH7IJyETf2A5xSKw&s=09), [Instagram](https://www.instagram.com/authornovel527?igsh=aG84eDcxNmJmZXFi)
 
-Terima kasih sudah mendukung dan membaca ceritaku.
-
+Karena telah mendukung, terima kasih sudah membaca ceritaku.
