@@ -28,7 +28,9 @@ Beberapa cerita mungkin akan terasa berat untuk diterima, kalau kalian tidak nya
 
 Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaan, umpan balik, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
 
-Email: [authornovel527@gmail.com]
+Email: []
+
 Social Media:[Twitter](https://x.com/AuthorNove83836?t=Pcp2EUDH7IJyETf2A5xSKw&s=09), [Instagram](https://www.instagram.com/authornovel527?igsh=aG84eDcxNmJmZXFi)
 
 Karena telah mendukung, terima kasih sudah membaca ceritaku.
+
