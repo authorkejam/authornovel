@@ -1,22 +1,35 @@
-# About the Author
+**About the Author**
 
-Hello! I'm Cruel Author/Author kejam, a passionate writer who loves crafting stories that explore the depths of human emotions, relationships, and the complexities of life.
+Hai aku Author Kejam, seorang penulis amatir yang mencoba membuat website karena kecintaannya terhadap suatu kalimat "Aku tak membaca cerita orang, aku membuat milikku sendiri", sebenarnya kalimat itu buatan  Author sendiri.
 
-## My Journey
+Aku hanya penulis yang biasa yang hidup senderhana, kadang dengan dengan cerita yang baik, kadang dengan cerita yang sangat buruk. Sesuaikan dengan diri kalian.
 
-I started writing as a way to express my thoughts and feelings, and over time, it became a way to connect with others through shared experiences. My stories often delve into themes of love, loss, redemption, and self-discovery.
+---
 
-## What I Write
+**My Journey**
 
-**Novels**: Full-length stories with intricate plots and character development.
-**Short Stories**: Concise tales that pack a punch with their emotional impact.
-**Blogs**: Reflections, updates, and thoughts on various topics.
+Aku baru menulis sejak 2019, tapi banyak ide muncul sejak tahun sebelumnya. Aku tak ingin melupakannya cerita cerita itu, oleh karenanya aku mulai meulis saja, meskipun tidak banyak yang sempat kembali ke ingatan. Cerita-ceritaku seringkali mengupas tentang kehilangan, cinta, dan penebusan, mungkin pencarian jati diri juga termasuk.
 
-## Contact
+Beberapa cerita mungkin akan terasa berat untuk diterima, kalau kalian tidak nyaman tolong henntikan bacaannya.
 
-Feel free to reach out if you have questions, feedback, or just want to chat about stories!
+---
+
+**What I Write**
+
+**Novels**: Cerita penuh, mungkin akan bersambung dibeberapa bagian. Tapi akan tetap dilanjutkan, mungkin dinovel yang sama, atau mungkin dinovel yang berbeda.
+
+**Short Stories**: Ini akan menjadi cerita yang sedikit ringkas, tentu saja cerita original, bukan ringkasan yang diambil dari Novel. Dan mungkin dimasa depan, bebrapa cerita pendek akan kami buat versi Novel panjangnya.
+
+**Blogs**: DIsini mungkin akanberisi update dari setiap konten, entah itu Novel, short story, sistem website dan lainnya.
+
+---
+
+**Contact**
+
+Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaa, umpan balik, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
 
 Email: [authornovel527@gmail.com]
 Social Media:[Twitter](https://x.com/AuthorNove83836?t=Pcp2EUDH7IJyETf2A5xSKw&s=09), [Instagram](https://www.instagram.com/authornovel527?igsh=aG84eDcxNmJmZXFi)
 
-Thank you for visiting and supporting my work!
+Terima kasih sudah mendukung dan membaca ceritaku.
+
