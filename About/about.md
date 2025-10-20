@@ -1,6 +1,6 @@
 **About the Author**
 
-Hai aku Author Kejam, seorang penulis amatir yang mencoba membuat website karena kecintaannya terhadap suatu kalimat "Aku tak membaca cerita orang, aku membuat milikku sendiri", sebenarnya kalimat itu buatan  Author sendiri.
+Hai aku author kejam dengan nama pena 'Noir Verdan', seorang penulis amatir yang mencoba membuat website karena kecintaannya terhadap suatu kalimat "Aku tak membaca cerita orang, aku membuat milikku sendiri", sebenarnya kalimat itu buatanku sendiri.
 
 Aku hanya penulis yang biasa yang hidup senderhana, kadang dengan dengan cerita yang baik, kadang dengan cerita yang sangat buruk. Sesuaikan dengan diri kalian.
 
