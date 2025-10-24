@@ -28,8 +28,6 @@ Semua cerita ini dibuat di [QuollWriter](https://quollwriter.com/)❤️
 
 ---
 
----
-
 **Contact**
 
 Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaan, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
