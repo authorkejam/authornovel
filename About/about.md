@@ -24,9 +24,15 @@ Beberapa cerita mungkin akan terasa berat untuk diterima, kalau kalian tidak nya
 
 ---
 
+Semua cerita ini dibuat di [QuollWriter](https://quollwriter.com/)❤️
+
+---
+
+---
+
 **Contact**
 
-Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaan, umpan balik, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
+Jangan sungkan untuk menghubungi Author, kalau-kalau memiliki pertanyaan, saran, atau mungkin hanya ingin memberi abstrak cerita, judul dan lainnya.
 
 Email: []
 
