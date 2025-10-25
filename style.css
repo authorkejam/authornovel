@@ -11,14 +11,14 @@
 }
 
 body.dark {
-  --bg-color: #121212;
+  --bg-color: #383737;
   --text-color: #e0e0e0;
-  --header-bg: #1e1e1e;
+  --header-bg: #2e2d2d;
   --card-bg: #2a2a2a;
-  --sidebar-bg: #2a2a2a;
-  --footer-bg: #1e1e1e;
+  --sidebar-bg: #656464;
+  --footer-bg: #2e2d2d;
   --border-color: #555;
-  --btn-bg: #4a90e2;
+  --btn-bg: #737376;
   --btn-hover: #357abd;
 }
 
