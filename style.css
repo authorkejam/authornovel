@@ -1,6 +1,7 @@
 :root {
   --bg-color: white;
   --text-color: #333;
+  --novel-genre: #333;
   --header-bg: #333;
   --card-bg: #333;
   --sidebar-bg: #f0f0f0;
@@ -20,6 +21,7 @@ body.dark {
   --border-color: #555;
   --btn-bg: #737376;
   --btn-hover: #357abd;
+  --novel-genre: #000000;
 }
 
 @keyframes pulse {
@@ -104,7 +106,7 @@ body.dark {
 
 .novel-genre {
   font-size: 0.65em;
-  color: var(--text-color);
+  color: var(--novel-genre);
   outline-width: 200px;
   position: absolute;
   bottom: 5px;
@@ -117,9 +119,9 @@ body.dark {
 .outline-text {
   text-shadow:
      -1px -1px 0 #ffffff,  
-      1px -1px 0 #ffffff,
+      1px -1px 0 #030303,
      -1px  1px 0 hsl(0, 0%, 100%),
-      1px  1px 0 #ffffff; 
+      1px  1px 0 #000000; 
 }
 
 html {
@@ -171,7 +173,7 @@ header.hidden {
 
 .normal-header .custom-header {
     top: 50%;
-    font-size: 1.2rem;
+    font-size: 2rem;
     padding: 6px 16px;
 }
 
@@ -836,10 +838,9 @@ header.hidden {
   header h1 {
     font-size: 28px;
   }
-
   .novel-genre {
   font-size: 0.85em;
-  color: var(--text-color);
+  color: var(--novel-genre);
   position: absolute;
   bottom: 5px;
   left: 50%;
@@ -886,7 +887,7 @@ header.hidden {
 
   .novel-genre {
     font-size: 0.65em;
-    color: var(--text-color);
+    color: var(--novel-genre);
     position: absolute;
     bottom: 5px;
     left: 50%;
@@ -1154,14 +1155,13 @@ header.hidden {
 
   .novel-genre {
   font-size: 0.65em;
-    color: var(--text-color);
+    color: var(--novel-genre);
     position: absolute;
     bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
 }
-
   .novel-card {
     padding: 10px 5px;
     font-size: 14px;
