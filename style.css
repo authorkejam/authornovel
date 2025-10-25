@@ -24,6 +24,15 @@ body.dark {
   --novel-genre: #000000;
 }
 
+/**warna link**/
+a {
+  color: #000;
+}
+
+body.dark a {
+  color: #e0e0e0;
+}
+
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.1); }
@@ -1380,3 +1389,4 @@ header.hidden {
   cursor: pointer;
   color: var(--text-color);
 }
+
