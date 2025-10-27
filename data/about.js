@@ -7,10 +7,6 @@ let about = [
       {
         title: "About the Author",
         file: "About/about.md"
-      },
-      {
-        title: "Contact",
-        file: null // No file, render form
       }
     ]
   }
