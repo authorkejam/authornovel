@@ -9,6 +9,7 @@
   <meta property="og:title" content="Author Novel" />
   <meta property="og:description" content="Baca novel online, gratis selamanya" />
   <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Oswald:wght@400;700&family=Raleway:wght@400;700&family=Poppins:wght@400;700&family=Playfair+Display:wght@400;700&family=Merriweather:wght@400;700&family=Inter:wght@400;700&family=Quicksand:wght@400;700&family=Karla:wght@400;700&family=Mulish:wght@400;700&family=Manrope:wght@400;700&family=Outfit:wght@400;700&family=Readex+Pro:wght@400;700&family=Space+Grotesk:wght@400;700&family=JetBrains+Mono:wght@400;700&family=Fira+Code:wght@400;700&family=Roboto+Mono:wght@400;700&family=Ubuntu+Mono:wght@400;700&family=Space+Mono:wght@400;700&family=Noto+Sans:wght@400;700&family=Lora:wght@400;700&family=Crimson+Text:wght@400;700&family=Libre+Baskerville:wght@400;700&family=Vollkorn:wght@400;700&family=EB+Garamond:wght@400;700&family=Old+Standard+TT:wght@400;700&family=Caveat:wght@400;700&family=Dancing+Script:wght@400;700&family=Great+Vibes&family=Satisfy&family=Allura&family=Kalam:wght@400;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.13/lottie.min.js"></script>
   <meta property="og:title" content="Author Novel" />
   <meta property="og:description" content="Baca novel online, gratis selamanya" />
@@ -72,6 +73,61 @@
         <option value="oldest">Terlama</option>
         <option value="name">Nama A-Z</option>
       </select>
+      <label for="fontSelect">Pilih Font:</label>
+      <select id="fontSelect">
+        <option value="Arial, sans-serif">Arial</option>
+        <option value="Verdana, sans-serif">Verdana</option>
+        <option value="'Trebuchet MS', sans-serif">Trebuchet MS</option>
+        <option value="'Times New Roman', serif">Times New Roman</option>
+        <option value="'Courier New', monospace">Courier New</option>
+        <option value="Georgia, serif">Georgia</option>
+       
+        <option value="'Open Sans', sans-serif">Open Sans</option>
+        <option value="'Lato', sans-serif">Lato</option>
+        <option value="'Montserrat', sans-serif">Montserrat</option>
+        <option value="'Oswald', sans-serif">Oswald</option>
+        <option value="'Raleway', sans-serif">Raleway</option>
+        <option value="'Poppins', sans-serif">Poppins</option>
+
+        <option value="'Playfair Display', serif">Playfair Display</option>
+        <option value="'Merriweather', serif">Merriweather</option>
+
+
+
+        <option value="'Inter', sans-serif">Inter</option>
+
+
+        <option value="'Quicksand', sans-serif">Quicksand</option>
+        <option value="'Karla', sans-serif">Karla</option>
+
+
+        <option value="'Mulish', sans-serif">Mulish</option>
+
+
+        <option value="'Manrope', sans-serif">Manrope</option>
+        <option value="'Outfit', sans-serif">Outfit</option>
+        <option value="'Readex Pro', sans-serif">Readex Pro</option>
+        <option value="'Space Grotesk', sans-serif">Space Grotesk</option>
+        <option value="'JetBrains Mono', monospace">JetBrains Mono</option>
+        <option value="'Fira Code', monospace">Fira Code</option>
+        
+        <option value="'Space Mono', monospace">Space Mono</option>
+        <option value="'Noto Sans', sans-serif">Noto Sans</option>
+        <option value="'Lora', serif">Lora</option>
+        <option value="'Crimson Text', serif">Crimson Text</option>
+        <option value="'Libre Baskerville', serif">Libre Baskerville</option>
+        <option value="'Vollkorn', serif">Vollkorn</option>
+        <option value="'EB Garamond', serif">EB Garamond</option>
+        <option value="'Old Standard TT', serif">Old Standard TT</option>
+        <option value="'Kalam', cursive">Kalam</option>
+        <option value="'Shadows Into Light', cursive">Shadows Into Light</option>
+        <option value="'Caveat', cursive">Caveat</option>
+        <option value="'Satisfy', cursive">Satisfy</option>
+        <option value="'Dancing Script', cursive">Dancing Script</option>
+        <option value="'Great Vibes', cursive">Great Vibes</option>
+        <option value="'Allura', cursive">Allura</option>
+  
+      </select>
     </div>
     <div class="view-controls">
       <button id="blogsBtn">Blogs</button>
@@ -105,7 +161,6 @@
   <script src="data/short.js"></script>
   <script src="data/blog.js"></script>
   <script src="data/about.js"></script>
-  
   <script>
     let currentView = 'novels';
     let currentData = novels;
@@ -572,6 +627,24 @@
     // Initial render
     renderGallery();
 
+    // Font selection logic
+    const fontSelect = document.getElementById('fontSelect');
+    let currentFontFamily = localStorage.getItem('selectedFont') || 'Arial, sans-serif';
+
+    function updateFontFamily() {
+      chapterContent.style.fontFamily = currentFontFamily;
+      localStorage.setItem('selectedFont', currentFontFamily);
+    }
+
+    fontSelect.addEventListener('change', () => {
+      currentFontFamily = fontSelect.value;
+      updateFontFamily();
+    });
+
+    // Set initial font from localStorage
+    fontSelect.value = currentFontFamily;
+    updateFontFamily();
+
     // Font size control logic
     const decreaseFontBtn = document.getElementById('decreaseFont');
     const increaseFontBtn = document.getElementById('increaseFont');
@@ -609,6 +682,7 @@
       // Delay update to ensure content is loaded
       setTimeout(() => {
         updateFontSize();
+        updateFontFamily();
         chapterContent.style.textAlign = currentTextAlign; // apply last selected alignment/ingat pilihan align terakhir
       }, 100);
     };
