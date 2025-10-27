@@ -1124,6 +1124,123 @@ header.hidden {
   color: var(--text-color);
 }
 
+/* Font preview in dropdown options */
+#fontSelect option[value="Arial, sans-serif"] {
+  font-family: Arial, sans-serif;
+}
+#fontSelect option[value="Verdana, sans-serif"] {
+  font-family: Verdana, sans-serif;
+}
+#fontSelect option[value="'Trebuchet MS', sans-serif"] {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+#fontSelect option[value="'Times New Roman', serif"] {
+  font-family: 'Times New Roman', serif;
+}
+#fontSelect option[value="'Courier New', monospace"] {
+  font-family: 'Courier New', monospace;
+}
+#fontSelect option[value="Georgia, serif"] {
+  font-family: Georgia, serif;
+}
+#fontSelect option[value="'Open Sans', sans-serif"] {
+  font-family: 'Open Sans', sans-serif;
+}
+#fontSelect option[value="'Lato', sans-serif"] {
+  font-family: 'Lato', sans-serif;
+}
+#fontSelect option[value="'Montserrat', sans-serif"] {
+  font-family: 'Montserrat', sans-serif;
+}
+#fontSelect option[value="'Oswald', sans-serif"] {
+  font-family: 'Oswald', sans-serif;
+}
+#fontSelect option[value="'Raleway', sans-serif"] {
+  font-family: 'Raleway', sans-serif;
+}
+#fontSelect option[value="'Poppins', sans-serif"] {
+  font-family: 'Poppins', sans-serif;
+}
+#fontSelect option[value="'Playfair Display', serif"] {
+  font-family: 'Playfair Display', serif;
+}
+#fontSelect option[value="'Merriweather', serif"] {
+  font-family: 'Merriweather', serif;
+}
+#fontSelect option[value="'Inter', sans-serif"] {
+  font-family: 'Inter', sans-serif;
+}
+#fontSelect option[value="'Quicksand', sans-serif"] {
+  font-family: 'Quicksand', sans-serif;
+}
+#fontSelect option[value="'Karla', sans-serif"] {
+  font-family: 'Karla', sans-serif;
+}
+#fontSelect option[value="'Mulish', sans-serif"] {
+  font-family: 'Mulish', sans-serif;
+}
+#fontSelect option[value="'Manrope', sans-serif"] {
+  font-family: 'Manrope', sans-serif;
+}
+#fontSelect option[value="'Outfit', sans-serif"] {
+  font-family: 'Outfit', sans-serif;
+}
+#fontSelect option[value="'Readex Pro', sans-serif"] {
+  font-family: 'Readex Pro', sans-serif;
+}
+#fontSelect option[value="'Space Grotesk', sans-serif"] {
+  font-family: 'Space Grotesk', sans-serif;
+}
+#fontSelect option[value="'JetBrains Mono', monospace"] {
+  font-family: 'JetBrains Mono', monospace;
+}
+#fontSelect option[value="'Fira Code', monospace"] {
+  font-family: 'Fira Code', monospace;
+}
+#fontSelect option[value="'Space Mono', monospace"] {
+  font-family: 'Space Mono', monospace;
+}
+#fontSelect option[value="'Noto Sans', sans-serif"] {
+  font-family: 'Noto Sans', sans-serif;
+}
+#fontSelect option[value="'Lora', serif"] {
+  font-family: 'Lora', serif;
+}
+#fontSelect option[value="'Libre Baskerville', serif"] {
+  font-family: 'Libre Baskerville', serif;
+}
+#fontSelect option[value="'Vollkorn', serif"] {
+  font-family: 'Vollkorn', serif;
+}
+#fontSelect option[value="'EB Garamond', serif"] {
+  font-family: 'EB Garamond', serif;
+}
+#fontSelect option[value="'Old Standard TT', serif"] {
+  font-family: 'Old Standard TT', serif;
+}
+#fontSelect option[value="'Caveat', cursive"] {
+  font-family: 'Caveat', cursive;
+}
+#fontSelect option[value="'Dancing Script', cursive"] {
+  font-family: 'Dancing Script', cursive;
+}
+#fontSelect option[value="'Great Vibes', cursive"] {
+  font-family: 'Great Vibes', cursive;
+}
+#fontSelect option[value="'Satisfy', cursive"] {
+  font-family: 'Satisfy', cursive;
+}
+#fontSelect option[value="'Allura', cursive"] {
+  font-family: 'Allura', cursive;
+}
+#fontSelect option[value="'Kalam', cursive"] {
+  font-family: 'Kalam', cursive;
+}
+#fontSelect option[value="'Shadows Into Light', cursive"] {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
 @media (max-width: 520px) {
   .chapter-nav {
   margin: 10px 0;
