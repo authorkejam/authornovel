@@ -262,7 +262,7 @@ let novels = [
       }
     ]
   },
-  {
+  /*{
     id: 5,
     title: "Hunted by Death",
     date: "01-04-2024",
@@ -279,7 +279,7 @@ let novels = [
         file: "Novel/5Huntedbydeath/novel4_chapter2.md"
       }
     ]
-  },
+  },*/
   {
     id: 6,
     title: "Pacarku Seorang Yakuza",
@@ -331,3 +331,4 @@ let novels = [
   }
 ];
 //Batas Novel, dibawah Short Story
+
