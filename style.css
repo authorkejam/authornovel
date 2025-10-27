@@ -24,7 +24,6 @@ body.dark {
   --novel-genre: #000000;
 }
 
-/**warna link**/
 a {
   color: #000;
 }
@@ -381,6 +380,7 @@ footer {
   margin: 0 auto;
   border-left: 1px solid var(--border-color);
   border-right: 1px solid var(--border-color);
+  font-family: 'Arial', serif;
 }
 
 /* Chapter Content Halaman baca */
@@ -390,6 +390,7 @@ footer {
   border-bottom: 50px solid var(--border-color);
   opacity: 0;
   transition: opacity 0.5s ease;
+  font-family: 'Arial', serif;
 }
 
 .chapter-content.content-visible {
@@ -617,6 +618,7 @@ footer {
 .blog-content {
   line-height: 1.6;
   text-align: left;
+  font-family: 'Arial', serif;
 }
 
 .blog-content p {
@@ -1389,4 +1391,3 @@ header.hidden {
   cursor: pointer;
   color: var(--text-color);
 }
-
