@@ -5,6 +5,10 @@ let blogs = [
     date: "01-01-2023",
     chapters: [
       {
+         title: "New Novel",
+        file: "Blog/BlogInformasi/blog8.md"
+      },
+      {
          title: "Short Story",
         file: "Blog/BlogInformasi/blog7.md"
       },
@@ -52,3 +56,4 @@ let blogs = [
   }
 
 ];
+
