@@ -39,7 +39,7 @@ Kunjungi situs web di [https://authorkejam.github.io/authornovel/](https://autho
 authornovel/
 ├── index.html          # Halaman utama
 ├── style.css           # Styling CSS
-├── alert.js            # Skrip alert (jika ada)
+├── alert.js            # Skrip alert
 ├── data/
 │   ├── novel.js        # Data novel
 │   ├── short.js        # Data cerita pendek
