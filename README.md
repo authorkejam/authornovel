@@ -32,25 +32,6 @@ Author Novel adalah situs web statis yang memungkinkan pengguna untuk membaca be
 
 Kunjungi situs web di [https://authorkejam.github.io/authornovel/](https://authorkejam.github.io/authornovel/) untuk mulai membaca.
 
-### Untuk Pengembang
-
-1. **Kloning Repository**:
-   ```bash
-   git clone https://github.com/authorkejam/authornovel.git
-   cd authornovel
-   ```
-
-2. **Jalankan Lokal**:
-   Buka `index.html` di browser web Anda, atau gunakan server lokal seperti:
-   ```bash
-   python -m http.server 8000
-   ```
-   Kemudian akses di `http://localhost:8000`.
-
-3. **Tambah Konten**:
-   - Novel: Tambahkan folder di `Novel/` dan update `data/novel.js`.
-   - Cerita Pendek: Tambahkan di `Short/` dan update `data/short.js`.
-   - Blog: Tambahkan di `Blog/` dan update `data/blog.js`.
 
 ## Struktur Proyek
 
@@ -77,10 +58,6 @@ authornovel/
 ├── weblogo.png         # Logo web
 └── README.md           # File ini
 ```
-
-## Berkontribusi
-
-Kontribusi sangat diterima! Silakan buat issue atau pull request di [GitHub repository](https://github.com/authorkejam/authornovel).
 
 ## Lisensi
 
