@@ -1301,7 +1301,6 @@ body.dark #themeSelect {
     width: 130px;
     height: 170px;
     transition: all 0.3s ease;
-    transform: rotate(1deg);
   }
   
   /* Hide header on scroll */
@@ -1338,7 +1337,6 @@ body.dark #themeSelect {
     width: 120px;
     height: 160px;
     transition: all 0.3s ease;
-    transform: rotate(1deg);
   }
 }
 
@@ -1691,3 +1689,4 @@ body.dark #themeSelect {
 #fontSelect option[value="'Shadows Into Light', cursive"] {
   font-family: "Shadows Into Light", cursive;
 }
+
