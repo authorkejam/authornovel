@@ -569,6 +569,7 @@ footer {
 .chapter-list {
   list-style: none;
   padding: 0;
+  margin-bottom: 100px;
 }
 
 .chapter-list button {
@@ -1530,4 +1531,5 @@ header.hidden {
   cursor: pointer;
   color: var(--text-color);
 }
+
 
