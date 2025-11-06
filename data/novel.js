@@ -329,9 +329,116 @@ let novels = [
       }
     ]
   },
+  {
+    id: 7,
+    title: "Jendela Restoran Keluarga",
+    date: "06-11-2025",
+    status: "Ongoing",
+    genre: ["Drama", "Romance"],
+    cover: "cover/Jendela-cover.jpg",
+    chapters: [
+      {
+        title: "Bab 1 - Aku dan Mereka",
+        file: "Novel/Jendela Restoran Keluarga/Jendela1.md",
+      },
+      {
+        title: "Bab 2 - Pagi yang sibuk",
+        file: "Novel/Jendela Restoran Keluarga/Jendela2.md",
+      },
+      {
+        title: "Bab 3 - Cerita Dibalik Dapur",
+        file: "Novel/Jendela Restoran Keluarga/Jendela3.md",
+      },
+      {
+        title: "Bab 4 - Sudut Pandang Pertama",
+        file: "Novel/Jendela Restoran Keluarga/Jendela4.md",
+      },
+      {
+        title: "Bab 5 - Tertabrak dan Kembali Kesana",
+        file: "Novel/Jendela Restoran Keluarga/Jendela5.md",
+      },
+      {
+        title: "Bab 6 - Renata Kecil",
+        file: "Novel/Jendela Restoran Keluarga/Jendela6.md",
+      },
+      {
+        title: "Bab 7 - Kampung Halaman",
+        file: "Novel/Jendela Restoran Keluarga/Jendela7.md",
+      },
+      {
+        title: "Bab 8 Janji",
+        file: "Novel/Jendela Restoran Keluarga/Jendela8.md",
+      },
+      {
+        title: "Bab 9 - Bermain Bersama Anak Panti",
+        file: "Novel/Jendela Restoran Keluarga/Jendela9.md",
+      },
+      {
+        title: "Bab 10 - Kegelisahan",
+        file: "Novel/Jendela Restoran Keluarga/Jendela10.md",
+      },
+      {
+        title: "Bab 11 - Kesibukan Masing-Masing",
+        file: "Novel/Jendela Restoran Keluarga/Jendela11.md",
+      },
+      {
+        title: "Bab 12 - Dito/Romantic Dinner",
+        file: "Novel/Jendela Restoran Keluarga/Jendela12.md",
+      },
+      {
+        title: "Bab 13 - New Moments",
+        file: "Novel/Jendela Restoran Keluarga/Jendela13.md",
+      },
+      {
+        title: "Bab 14 - Orphanage Visit",
+        file: "Novel/Jendela Restoran Keluarga/Jendela14.md",
+      },
+      {
+        title: "Bab 15 - Hari Belanja",
+        file: "Novel/Jendela Restoran Keluarga/Jendela15.md",
+      },
+      {
+        title: "Bab 16 - Persiapan",
+        file: "Novel/Jendela Restoran Keluarga/Jendela16.md",
+      },
+      {
+        title: "Bab 17 - Tias & Reza/Romantic",
+        file: "Novel/Jendela Restoran Keluarga/Jendela17.md",
+      },
+      {
+        title: "Bab 18 - Cinta Bukan untuk Semua Orang",
+        file: "Novel/Jendela Restoran Keluarga/Jendela18.md",
+      },
+      {
+        title: "Bab 19 - Hari Persiapan",
+        file: "Novel/Jendela Restoran Keluarga/Jendela19.md",
+      },
+      {
+        title: "Bab 20 - Cerita Gadis yang Menderita",
+        file: "Novel/Jendela Restoran Keluarga/Jendela20.md",
+      },
+      {
+        title: "Bab 21 - Hari Amal",
+        file: "Novel/Jendela Restoran Keluarga/Jendela21.md",
+      },
+      {
+        title: "Bab 22 - Kisah Cinta dan Kepergian",
+        file: "Novel/Jendela Restoran Keluarga/Jendela22.md",
+      },
+      {
+        title: "Bab 23 - The Truth About Him",
+        file: "Novel/Jendela Restoran Keluarga/Jendela23.md",
+      },
+      {
+        title: "Bab 24 - Kenangan Lama",
+        file: "Novel/Jendela Restoran Keluarga/Jendela24.md",
+      },
+    ],
+  },
   
 ];
 //Batas Novel, dibawah Short Story
+
 
 
 
