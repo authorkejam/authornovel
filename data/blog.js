@@ -6,7 +6,7 @@ let blogs = [
     chapters: [
       {
         title: "Update Sistem Theme (Nov 07)",
-        file: "Blog/BlogUpdate/5Update.md",
+        file: "Blog/BlogUpdate/5update.md",
       },
       {
         title: "New Novel",
@@ -67,3 +67,4 @@ let blogs = [
     ]
   }
 ];
+
