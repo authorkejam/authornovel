@@ -12,8 +12,8 @@ warna yang tersedia,
 
 5. Steel Gray: warna yang cocok untuk membaca dibawah sinar matahari.
 
-6. Dark Velvet: cocok digunakan saat ingin fokus pada pacaan diberbagai situasi.
+6. Dark Velvet: cocok digunakan saat ingin fokus pada bacaan diberbagai situasi.
 
-7. Dark Noir: gunakan warna ini saat anda inginn fokus ddan sendiri.
+7. Dark Noir: gunakan warna ini saat anda ingin fokus dan sendiri.
 
-Jangan membaca sambil tidur, terlalu dekat atau dalam keadaan gelap. Carilah sedikit cahaya agar mata tidak cepat lelah.
+Jangan membaca sambil tertidur, terlalu dekat atau dalam keadaan gelap. Carilah sedikit cahaya agar mata tidak cepat lelah.
