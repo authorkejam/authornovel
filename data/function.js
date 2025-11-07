@@ -101,7 +101,14 @@ function markdownToHTML(md) {
         .replace(/^# (.*$)/, "<h1>$1</h1>")
         .replace(/^## (.*$)/, "<h2>$1</h2>")
         .replace(/^### (.*$)/, "<h3>$1</h3>")
-        .replace(/^\> (.*$)/, "<blockquote>$1</blockquote>");
+        .replace(/^\> (.*$)/, (match, p1) => {
+          const processed = p1
+            .replace(/\*\*(.*)\*\*/g, "<strong>$1</strong>")
+            .replace(/\*(.*)\*/g, "<em>$1</em>")
+            .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1">')
+            .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+          return `<blockquote>${processed}</blockquote>`;
+        });
       html += converted;
       continue;
     }
@@ -787,3 +794,4 @@ document.addEventListener("DOMContentLoaded", function () {
     normalFooter.style.display = "block";
   }, 2200);
 });
+
