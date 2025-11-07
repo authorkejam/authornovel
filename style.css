@@ -826,6 +826,18 @@ footer {
   border-radius: 10px;
 }
 
+ol.compact li {
+  margin-bottom: 1em;       /* tidak berjarak antar item */
+}
+
+ol.spaced li {
+  margin-bottom: 1em;     /* ada jarak antar item */
+}
+
+ol.spaced {
+  margin-bottom: 0;
+}
+
 /* Responsive Design */
 @media (max-width: 1280px) {
   .chapter-nav {
@@ -1689,4 +1701,5 @@ body.dark #themeSelect {
 #fontSelect option[value="'Shadows Into Light', cursive"] {
   font-family: "Shadows Into Light", cursive;
 }
+
 
