@@ -6,11 +6,11 @@ let blogs = [
     chapters: [
       {
         title: "Update Sistem Theme (Nov 07)",
-        file: "Blog/BlogUpdate/5Update.md",
+        file: "Blog/BlogUpdate/5Update.md"
       },
       {
         title: "New Novel",
-        file: "Blog/BlogInformasi/blog10.md",
+        file: "Blog/BlogInformasi/blog10.md"
       },
       {
          title: "Update Sistem Font (Oct 27)",
@@ -68,6 +68,7 @@ let blogs = [
   }
 
 ];
+
 
 
 
