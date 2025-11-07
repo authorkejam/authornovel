@@ -1,3 +1,5 @@
+<img src="../authorputih.png" alt="Author Logo" style="width: 100%; max-width: 300px; height: auto; display: block; margin: 0 auto;">
+
 **About the Author**
 
 Hai aku author kejam dengan nama pena 'Noir Verdan', seorang penulis amatir yang mencoba membuat website karena kecintaannya terhadap suatu kalimat "Aku tak membaca cerita orang, aku membuat milikku sendiri", sebenarnya kalimat itu buatanku sendiri.
@@ -39,6 +41,7 @@ Email: []
 Social Media:[Twitter](https://x.com/AuthorNove83836?t=Pcp2EUDH7IJyETf2A5xSKw&s=09), [Instagram](https://www.instagram.com/authornovel527?igsh=aG84eDcxNmJmZXFi)
 
 Karena telah mendukung, terima kasih sudah membaca ceritaku.
+
 
 
 
