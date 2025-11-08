@@ -107,7 +107,6 @@ function markdownToHTML(md) {
             .replace(/\*(.*)\*/g, "<em>$1</em>")
             .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1">')
             .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-            .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" loading="lazy">')
           return `<blockquote>${processed}</blockquote>`;
         });
       html += converted;
@@ -795,5 +794,6 @@ document.addEventListener("DOMContentLoaded", function () {
     normalFooter.style.display = "block";
   }, 2200);
 });
+
 
 
