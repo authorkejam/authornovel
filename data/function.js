@@ -34,14 +34,297 @@ function sortData(data, criterion) {
   });
 }
 
-const sortSelect = document.getElementById("sortSelect");
-sortSelect.addEventListener("change", () => {
-  sortData(currentData, sortSelect.value);
-  renderGallery();
-});
+const sortBtn = document.getElementById("sortBtn");
+const sortOptions = [
+  { value: "latest", text: "Terbaru" },
+  { value: "oldest", text: "Terlama" },
+  { value: "name", text: "Nama A-Z" }
+];
+let currentSortIndex = 0;
+
+sortBtn.addEventListener("click", showSortMenu);
+
+// Set initial sort button text
+sortBtn.textContent = `📔 ${sortOptions[currentSortIndex].text}`;
 
 // Initial sort
 sortData(currentData, "latest");
+
+// Function to show sort menu
+function showSortMenu() {
+  // Remove existing menu if any
+  const existingMenu = document.getElementById("sortMenu");
+  if (existingMenu) existingMenu.remove();
+
+  // Create menu container
+  const menu = document.createElement("div");
+  menu.id = "sortMenu";
+  menu.style.position = "absolute";
+  menu.style.backgroundColor = "var(--bg-color, #fff)";
+  menu.style.border = "1px solid var(--border-color, #ccc)";
+  menu.style.borderRadius = "8px";
+  menu.style.padding = "20px";
+  menu.style.boxShadow = "0 4px 8px rgba(0,0,0,0.2)";
+  menu.style.zIndex = "1000";
+  menu.style.minWidth = "200px";
+
+  // Position below the button with left boundary check
+  const buttonRect = sortBtn.getBoundingClientRect();
+  let leftPos = buttonRect.left + buttonRect.width / 2 - 100;
+  if (leftPos < 10) leftPos = 10; // Ensure at least 10px from left edge
+  menu.style.top = (buttonRect.bottom + 5) + "px";
+  menu.style.left = leftPos + "px";
+
+  // Close button
+  const closeBtn = document.createElement("button");
+  closeBtn.textContent = "✕";
+  closeBtn.style.position = "absolute";
+  closeBtn.style.top = "10px";
+  closeBtn.style.right = "10px";
+  closeBtn.style.background = "none";
+  closeBtn.style.border = "none";
+  closeBtn.style.fontSize = "18px";
+  closeBtn.style.cursor = "pointer";
+  closeBtn.onclick = () => {
+    clearTimeout(autoCloseTimeout);
+    menu.remove();
+  };
+  menu.appendChild(closeBtn);
+
+  // Title
+  const title = document.createElement("h3");
+  title.textContent = "Sort Options";
+  title.style.marginTop = "0";
+  title.style.textAlign = "center";
+  menu.appendChild(title);
+
+  // Sort options
+  sortOptions.forEach((option, index) => {
+    const btn = document.createElement("button");
+    btn.textContent = option.text;
+    btn.style.display = "block";
+    btn.style.width = "100%";
+    btn.style.margin = "10px 0";
+    btn.style.padding = "10px";
+    btn.style.border = "1px solid var(--border-color, #ccc)";
+    btn.style.borderRadius = "4px";
+    btn.style.backgroundColor = "var(--button-bg, #f0f0f0)";
+    btn.style.cursor = "pointer";
+    if (index === currentSortIndex) {
+      btn.style.backgroundColor = "var(--accent-color, #007bff)";
+      btn.style.color = "#fff";
+    }
+    btn.onclick = () => {
+      clearTimeout(autoCloseTimeout);
+      currentSortIndex = index;
+      sortData(currentData, option.value);
+      renderGallery();
+      sortBtn.textContent = `📔 ${option.text}`;
+      // Do not remove menu immediately, let it auto-close
+      menu.remove();
+    };
+    menu.appendChild(btn);
+  });
+
+  // Append menu to body
+  document.body.appendChild(menu);
+
+  // Close on click outside
+  document.addEventListener("click", function closeMenu(e) {
+    if (!menu.contains(e.target) && e.target !== sortBtn) {
+      menu.remove();
+      document.removeEventListener("click", closeMenu);
+    }
+  });
+
+  // Auto-close after 7 seconds
+  const autoCloseTimeout = setTimeout(() => {
+    menu.remove();
+  }, 7000);
+}
+
+// Function to show theme menu
+function showThemeMenu() {
+  // Remove existing menu if any
+  const existingMenu = document.getElementById("themeMenu");
+  if (existingMenu) existingMenu.remove();
+
+  // Create menu container
+  const menu = document.createElement("div");
+  menu.id = "themeMenu";
+  menu.style.position = "absolute";
+  menu.style.backgroundColor = "var(--bg-color, #fff)";
+  menu.style.border = "1px solid var(--border-color, #ccc)";
+  menu.style.borderRadius = "8px";
+  menu.style.padding = "20px";
+  menu.style.boxShadow = "0 4px 8px rgba(0,0,0,0.2)";
+  menu.style.zIndex = "1000";
+  menu.style.minWidth = "200px";
+
+  // Position below the button
+  const buttonRect = themeBtn.getBoundingClientRect();
+  menu.style.top = (buttonRect.bottom + 5) + "px";
+  menu.style.left = (buttonRect.left + buttonRect.width / 2 - 100) + "px";
+
+  // Close button
+  const closeBtn = document.createElement("button");
+  closeBtn.textContent = "✕";
+  closeBtn.style.position = "absolute";
+  closeBtn.style.top = "10px";
+  closeBtn.style.right = "10px";
+  closeBtn.style.background = "none";
+  closeBtn.style.border = "none";
+  closeBtn.style.fontSize = "18px";
+  closeBtn.style.cursor = "pointer";
+  closeBtn.onclick = () => menu.remove();
+  closeBtn.onclick = () => {
+    clearTimeout(autoCloseTimeout);
+    menu.remove();
+  };
+  menu.appendChild(closeBtn);
+
+  // Title
+  const title = document.createElement("h3");
+  title.textContent = "Theme Options";
+  title.style.marginTop = "0";
+  title.style.textAlign = "center";
+  menu.appendChild(title);
+
+  // Theme options
+  themeOptions.forEach((option, index) => {
+    const btn = document.createElement("button");
+    btn.textContent = option.text;
+    btn.style.display = "block";
+    btn.style.width = "100%";
+    btn.style.margin = "10px 0";
+    btn.style.padding = "10px";
+    btn.style.border = "1px solid var(--border-color, #ccc)";
+    btn.style.borderRadius = "4px";
+    btn.style.backgroundColor = "var(--button-bg, #f0f0f0)";
+    btn.style.cursor = "pointer";
+    if (index === currentThemeIndex) {
+      btn.style.backgroundColor = "var(--accent-color, #007bff)";
+      btn.style.color = "#fff";
+    }
+    btn.onclick = () => {
+      clearTimeout(autoCloseTimeout);
+      currentThemeIndex = index;
+      applyTheme(option.value);
+      themeBtn.textContent = `🎨 ${option.text}`;
+      menu.remove();
+    };
+    menu.appendChild(btn);
+  });
+
+  // Append menu to body
+  document.body.appendChild(menu);
+
+  // Close on click outside
+  document.addEventListener("click", function closeMenu(e) {
+    if (!menu.contains(e.target) && e.target !== themeBtn) {
+      menu.remove();
+      document.removeEventListener("click", closeMenu);
+    }
+  });
+
+  // Auto-close after 7 seconds
+  const autoCloseTimeout = setTimeout(() => {
+    menu.remove();
+  }, 7000);
+}
+
+// Function to show font menu
+function showFontMenu() {
+  // Remove existing menu if any
+  const existingMenu = document.getElementById("fontMenu");
+  if (existingMenu) existingMenu.remove();
+
+  // Create menu container
+  const menu = document.createElement("div");
+  menu.id = "fontMenu";
+  menu.style.position = "absolute";
+  menu.style.backgroundColor = "var(--bg-color, #fff)";
+  menu.style.border = "1px solid var(--border-color, #ccc)";
+  menu.style.borderRadius = "8px";
+  menu.style.padding = "20px";
+  menu.style.boxShadow = "0 4px 8px rgba(0,0,0,0.2)";
+  menu.style.zIndex = "1000";
+  menu.style.minWidth = "200px";
+  menu.style.maxHeight = "300px";
+  menu.style.overflowY = "auto";
+
+  // Position below the button
+  const buttonRect = fontBtn.getBoundingClientRect();
+  menu.style.top = (buttonRect.bottom + 5) + "px";
+  menu.style.left = (buttonRect.left + buttonRect.width / 2 - 100) + "px";
+
+  // Close button
+  const closeBtn = document.createElement("button");
+  closeBtn.textContent = "✕";
+  closeBtn.style.position = "absolute";
+  closeBtn.style.top = "10px";
+  closeBtn.style.right = "10px";
+  closeBtn.style.background = "none";
+  closeBtn.style.border = "none";
+  closeBtn.style.fontSize = "18px";
+  closeBtn.style.cursor = "pointer";
+  closeBtn.onclick = () => menu.remove();
+  closeBtn.onclick = () => {
+    clearTimeout(autoCloseTimeout);
+    menu.remove();
+  };
+  menu.appendChild(closeBtn);
+
+
+  // Title
+  const title = document.createElement("h3");
+  title.textContent = "Font Options";
+  title.style.marginTop = "0";
+  title.style.textAlign = "center";
+  menu.appendChild(title);
+
+  // Font options
+  fontOptions.forEach((option, index) => {
+    const btn = document.createElement("button");
+    btn.textContent = option.text;
+    btn.style.display = "block";
+    btn.style.width = "100%";
+    btn.style.margin = "10px 0";
+    btn.style.padding = "10px";
+    btn.style.border = "1px solid var(--border-color, #ccc)";
+    btn.style.borderRadius = "4px";
+    btn.style.backgroundColor = "var(--button-bg, #f0f0f0)";
+    btn.style.cursor = "pointer";
+    if (index === currentFontIndex) {
+      btn.style.backgroundColor = "var(--accent-color, #007bff)";
+      btn.style.color = "#fff";
+    }
+    btn.onclick = () => {
+      clearTimeout(autoCloseTimeout);
+      currentFontIndex = index;
+      updateFontFamily();
+      fontBtn.textContent = `🔤 ${option.text}`;
+      menu.remove();
+    };
+    menu.appendChild(btn);
+  });
+
+  // Append menu to body
+  document.body.appendChild(menu);
+
+  // Close on click outside
+  document.addEventListener("click", function closeMenu(e) {
+    if (!menu.contains(e.target) && e.target !== fontBtn) {
+      menu.remove();
+      document.removeEventListener("click", closeMenu);
+    }
+  });
+
+  // Auto-close after 7 seconds
+  const autoCloseTimeout = setTimeout(() => {
+    menu.remove();
+  }, 7000);
+}
 
 // Improved markdown to HTML converter for basic markdown used here
 function markdownToHTML(md) {
@@ -158,17 +441,14 @@ function markdownToHTML(md) {
     }
 
     // Paragraf
-            paragraphBuffer.push(
-              line
-                .replace(/\*\*(.*)\*\*/g, "<strong>$1</strong>")
-                .replace(/\*(.*)\*/g, "<em>$1</em>")
-                .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1" loading="lazy">')
-                .replace(
-                  /\[([^\]]+)\]\(([^)]+)\)/g,
-                  '<a href="$2" target="_blank">$1</a>'
-                )
-            );
-            lastLineWasListItem = false;
+    paragraphBuffer.push(
+      line
+        .replace(/\*\*(.*)\*\*/g, "<strong>$1</strong>")
+        .replace(/\*(.*)\*/g, "<em>$1</em>")
+        .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="$2" alt="$1">')
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+    );
+    lastLineWasListItem = false;
   }
 
   closeLists();
@@ -176,6 +456,8 @@ function markdownToHTML(md) {
 
   return html.trim();
 }
+
+
 
 const novelGallery = document.getElementById("novelGallery");
 const sidebar = document.getElementById("sidebar");
@@ -537,24 +819,39 @@ const novellaBtn = document.getElementById("novellaBtn");
 novelsBtn.addEventListener("click", () => {
   currentView = "novels";
   currentData = novels;
-  sortData(currentData, sortSelect.value);
+  currentNovel = null;
+  sortData(currentData, sortOptions[currentSortIndex].value);
   updateBackButtons();
+  sidebar.classList.remove("active");
+  menuBtn.style.display = "none";
+  sidebarShownByHover = false;
+  sidebarShownBySwipe = false;
   renderGallery();
 });
 
 blogsBtn.addEventListener("click", () => {
   currentView = "blogs";
   currentData = blogs;
-  sortData(currentData, sortSelect.value);
+  currentNovel = null;
+  sortData(currentData, sortOptions[currentSortIndex].value);
   updateBackButtons();
+  sidebar.classList.remove("active");
+  menuBtn.style.display = "none";
+  sidebarShownByHover = false;
+  sidebarShownBySwipe = false;
   renderGallery();
 });
 
 novellaBtn.addEventListener("click", () => {
   currentView = "novella";
   currentData = novella;
-  sortData(currentData, sortSelect.value);
+  currentNovel = null;
+  sortData(currentData, sortOptions[currentSortIndex].value);
   updateBackButtons();
+  sidebar.classList.remove("active");
+  menuBtn.style.display = "none";
+  sidebarShownByHover = false;
+  sidebarShownBySwipe = false;
   renderGallery();
 });
 
@@ -562,8 +859,13 @@ const aboutBtn = document.getElementById("aboutBtn");
 aboutBtn.addEventListener("click", () => {
   currentView = "about";
   currentData = about;
-  sortData(currentData, sortSelect.value);
+  currentNovel = null;
+  sortData(currentData, sortOptions[currentSortIndex].value);
   updateBackButtons();
+  sidebar.classList.remove("active");
+  menuBtn.style.display = "none";
+  sidebarShownByHover = false;
+  sidebarShownBySwipe = false;
   renderGallery();
 });
 
@@ -604,25 +906,60 @@ menuBtn.onclick = () => {
 renderGallery();
 
 // Font selection logic
-const fontSelect = document.getElementById("fontSelect");
-let currentFontFamily =
-  localStorage.getItem("selectedFont") || "Arial, sans-serif";
+const fontBtn = document.getElementById("fontBtn");
+const fontOptions = [
+  { value: "Arial, sans-serif", text: "Arial" },
+  { value: "Verdana, sans-serif", text: "Verdana" },
+  { value: "'Trebuchet MS', sans-serif", text: "Trebuchet MS" },
+  { value: "'Times New Roman', serif", text: "Times New" },
+  { value: "'Courier New', monospace", text: "Courier New" },
+  { value: "Georgia, serif", text: "Georgia" },
+  { value: "'Open Sans', sans-serif", text: "Open Sans" },
+  { value: "'Lato', sans-serif", text: "Lato" },
+  { value: "'Montserrat', sans-serif", text: "Montserrat" },
+  { value: "'Oswald', sans-serif", text: "Oswald" },
+  { value: "'Raleway', sans-serif", text: "Raleway" },
+  { value: "'Poppins', sans-serif", text: "Poppins" },
+  { value: "'Playfair Display', serif", text: "Playfair" },
+  { value: "'Merriweather', serif", text: "Merriweather" },
+  { value: "'Inter', sans-serif", text: "Inter" },
+  { value: "'Quicksand', sans-serif", text: "Quicksand" },
+  { value: "'Karla', sans-serif", text: "Karla" },
+  { value: "'Mulish', sans-serif", text: "Mulish" },
+  { value: "'Manrope', sans-serif", text: "Manrope" },
+  { value: "'Outfit', sans-serif", text: "Outfit" },
+  { value: "'Readex Pro', sans-serif", text: "Readex" },
+  { value: "'Space Grotesk', sans-serif", text: "Space Gro" },
+  { value: "'JetBrains Mono', monospace", text: "JetBrains" },
+  { value: "'Fira Code', monospace", text: "Fira Code" },
+  { value: "'Space Mono', monospace", text: "Space Mono" },
+  { value: "'Noto Sans', sans-serif", text: "Noto Sans" },
+  { value: "'Lora', serif", text: "Lora" },
+  { value: "'Crimson Text', serif", text: "Crimson Text" },
+  { value: "'Libre Baskerville', serif", text: "Baskerville" },
+  { value: "'Vollkorn', serif", text: "Vollkorn" },
+  { value: "'EB Garamond', serif", text: "Garamond" },
+  { value: "'Old Standard TT', serif", text: "Old Standard" },
+  { value: "'Kalam', cursive", text: "Kalam" },
+  { value: "'Shadows Into Light', cursive", text: "Shadows Light" },
+  { value: "'Caveat', cursive", text: "Caveat" },
+  { value: "'Satisfy', cursive", text: "Satisfy" },
+  { value: "'Dancing Script', cursive", text: "Dancing Scr" },
+  { value: "'Great Vibes', cursive", text: "Great Vibes" },
+  { value: "'Allura', cursive", text: "Allura" }
+];
+let currentFontIndex = fontOptions.findIndex(option => option.value === (localStorage.getItem("selectedFont") || "Arial, sans-serif"));
 
 function updateFontFamily() {
-  chapterContent.style.fontFamily = currentFontFamily;
-  //const blogContents = document.querySelectorAll('.blog-content');
-  //blogContents.forEach(content => content.style.fontFamily = currentFontFamily);
-  localStorage.setItem("selectedFont", currentFontFamily);
+  chapterContent.style.fontFamily = fontOptions[currentFontIndex].value;
+  localStorage.setItem("selectedFont", fontOptions[currentFontIndex].value);
 }
 
-fontSelect.addEventListener("change", () => {
-  currentFontFamily = fontSelect.value;
-  updateFontFamily();
-});
+fontBtn.addEventListener("click", showFontMenu);
 
-// Set initial font from localStorage
-fontSelect.value = currentFontFamily;
+// Set initial font
 updateFontFamily();
+fontBtn.textContent = `🔤 ${fontOptions[currentFontIndex].text}`;
 
 // Font size control logic
 const decreaseFontBtn = document.getElementById("decreaseFont");
@@ -733,13 +1070,21 @@ darkModeToggle.addEventListener("click", () => {
   localStorage.setItem("darkMode", isDark);
   updateLogos();
   // Apply the last selected theme
-  applyTheme(currentTheme);
-  themeSelect.value = currentTheme;
+  applyTheme(themeOptions[currentThemeIndex].value);
 });
 
 // Theme selection logic
-const themeSelect = document.getElementById("themeSelect");
-let currentTheme = localStorage.getItem("selectedTheme") || "default";
+const themeBtn = document.getElementById("themeBtn");
+const themeOptions = [
+  { value: "default", text: "Default" },
+  { value: "blue", text: "Blue" },
+  { value: "mid-night", text: "Midnight" },
+  { value: "metalic-blue", text: "Metalic Blue" },
+  { value: "steel-gray", text: "Steel Gray" },
+  { value: "dark-velvet", text: "Dark Velvet" },
+  { value: "true-noir", text: "True Noir" }
+];
+let currentThemeIndex = themeOptions.findIndex(option => option.value === (localStorage.getItem("selectedTheme") || "default"));
 
 function applyTheme(theme) {
   // Remove all theme classes
@@ -757,14 +1102,11 @@ function applyTheme(theme) {
   localStorage.setItem("selectedTheme", theme);
 }
 
-themeSelect.addEventListener("change", () => {
-  currentTheme = themeSelect.value;
-  applyTheme(currentTheme);
-});
+themeBtn.addEventListener("click", showThemeMenu);
 
 // Set initial theme
-themeSelect.value = currentTheme;
-applyTheme(currentTheme);
+applyTheme(themeOptions[currentThemeIndex].value);
+themeBtn.textContent = `🎨 ${themeOptions[currentThemeIndex].text}`;
 
 // Intro animation
 document.addEventListener("DOMContentLoaded", function () {
@@ -794,6 +1136,3 @@ document.addEventListener("DOMContentLoaded", function () {
     normalFooter.style.display = "block";
   }, 2200);
 });
-
-
-
