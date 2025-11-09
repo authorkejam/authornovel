@@ -186,12 +186,12 @@ body.dark a {
 }
 
 #darkModeToggle:hover {
-  transform: scale(1.1) rotate(10deg);
+  transform: /*scale(1.1)*/ rotate(10deg);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
   background: linear-gradient(
     135deg,
-    rgba(100, 100, 100, 0.9),
-    rgba(50, 50, 50, 1)
+    rgba(100, 100, 100, 0.6),
+    rgba(50, 50, 50, 0.521)
   );
   border-color: rgba(255, 255, 255, 0.4);
 }
@@ -473,7 +473,7 @@ img.custom-header {
 .novel-card {
   background: var(--card-bg);
   border-radius: 10px;
-  padding: 10px 4px;
+  padding: 35px 24px;
   text-align: center;
   cursor: pointer;
   transition: transform 0.4s ease, box-shadow 0.3s ease, opacity 0.5s ease;
@@ -826,6 +826,23 @@ footer {
   border-radius: 10px;
 }
 
+/* Author logo styles */
+.author-logo {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.author-logo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
 ol.compact li {
   margin-bottom: 1em;       /* tidak berjarak antar item */
 }
@@ -837,6 +854,7 @@ ol.spaced li {
 ol.spaced {
   margin-bottom: 0;
 }
+
 
 /* Responsive Design */
 @media (max-width: 1280px) {
@@ -864,12 +882,6 @@ ol.spaced {
   .normal-header .custom-header {
     font-size: 1.2rem;
     padding: 6px 16px;
-  }
-
-  .normal-header .circle-or {
-    width: 28px;
-    height: 28px;
-    font-size: 1.2rem;
   }
 
   .normal-footer {
@@ -944,8 +956,7 @@ ol.spaced {
   }
 
   .novel-card {
-    width: 160px;
-    height: 210px;
+    padding: 30px 20px;
   }
 
   .sidebar {
@@ -976,7 +987,7 @@ ol.spaced {
   }
 
   .novel-card {
-    padding: 15px 10px;
+    padding: 30px 20px;
     font-size: 18px;
     min-height: 100px;
   }
@@ -1276,12 +1287,19 @@ ol.spaced {
     bottom: 56px;
   }
 }
+.novel-card {
+    width: 120px;
+    height: 160px;
+    transition: all 0.3s ease;
+    /*transform: rotate(1deg);*/
+  }
 
+  /*This for toggle button*/
 #darkModeToggle {
   position: absolute;
   right: 20px;
   top: 30px;
-  background: rgb(57, 57, 57);
+  background: var(--background-color);/*rgb(57, 57, 57);*/
   border-radius: 10px;
   font-size: 24px;
   cursor: pointer;
@@ -1310,9 +1328,10 @@ body.dark #themeSelect {
   }
 
   .novel-card {
-    width: 130px;
-    height: 170px;
+    width: 120px;
+    height: 160px;
     transition: all 0.3s ease;
+    /*transform: rotate(1deg);*/
   }
   
   /* Hide header on scroll */
@@ -1327,16 +1346,17 @@ body.dark #themeSelect {
     opacity: 0;
     transition: opacity 0.5s ease;
   }
-  #darkModeToggle {
-    position: absolute;
-    right: 20px;
-    top: 30px;
-    background: rgb(57, 57, 57);
-    border-radius: 10px;
-    font-size: 24px;
-    cursor: pointer;
-    color: var(--text-color);
-  }
+  /*This for toggle button*/
+#darkModeToggle {
+  position: absolute;
+  right: 20px;
+  top: 30px;
+  background: var(--background-color);/*rgb(57, 57, 57);*/
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
+}
 }
 
 @media (max-width: 500px) {
@@ -1355,7 +1375,7 @@ body.dark #themeSelect {
 @media (max-width: 480px) {
   .gallery {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 10px;
+    gap: 15px;
     padding: 15px 15px;
   }
 
@@ -1369,7 +1389,7 @@ body.dark #themeSelect {
     text-align: center;
   }
   .novel-card {
-    padding: 10px 5px;
+    padding: 26px 16px;
     font-size: 14px;
     min-height: 80px;
   }
@@ -1427,16 +1447,17 @@ body.dark #themeSelect {
     transform: translateY(-100%);
     opacity: 0;
   }
-  #darkModeToggle {
-    position: absolute;
-    right: 20px;
-    top: 30px;
-    background: rgb(57, 57, 57);
-    border-radius: 10px;
-    font-size: 24px;
-    cursor: pointer;
-    color: var(--text-color);
-  }
+  /*This for toggle button*/
+#darkModeToggle {
+  position: absolute;
+  right: 20px;
+  top: 30px;
+  background: var(--background-color);/*rgb(57, 57, 57);*/
+  border-radius: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: var(--text-color);
+}
 }
 @media (max-width: 414px) {
   .chapter-nav {
@@ -1575,11 +1596,12 @@ body.dark #themeSelect {
   background-color: var(--btn-hover);
   transform: translateY(-1px);
 }
+/*This for toggle button*/
 #darkModeToggle {
   position: absolute;
   right: 20px;
   top: 30px;
-  background: rgb(57, 57, 57);
+  background: var(--background-color);/*rgb(57, 57, 57);*/
   border-radius: 10px;
   font-size: 24px;
   cursor: pointer;
@@ -1700,6 +1722,4 @@ body.dark #themeSelect {
 }
 #fontSelect option[value="'Shadows Into Light', cursive"] {
   font-family: "Shadows Into Light", cursive;
-}
-
-
+}}
