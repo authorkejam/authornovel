@@ -18,10 +18,8 @@ Dimasa depan, Author berharap:
 16. Opsi membaca offline untuk kenyamanan pengguna tanpa koneksi internet,
 17. Banyak fitur yang beragam untuk menambah kenyamanan dan kemudahan website.
 18. Usia yang belum habis hingga semua kisah selesai diceritakan.
-
-> Author memiliki banyak cerita untuk diceritakan, tapi tak tau harus memulai darimana. Semoga Author diberi umur panjang untuk menyeselaikan semuanya.
-
 19. Dimasa depan kami juga ingin mengadaptasi judul Film besar, Komik, Anime original dan Manga.
+
 
 
 
