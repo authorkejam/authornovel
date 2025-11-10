@@ -7,7 +7,12 @@ let about = [
       {
         title: "About the Author",
         file: "About/about.md"
+      },
+      {
+        title: "Privacy Policy",
+        file: "About/privacy.md"
       }
     ]
   }
 ];
+
