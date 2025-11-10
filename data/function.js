@@ -312,6 +312,12 @@ function showFontMenu() {
   // Append menu to body
   document.body.appendChild(menu);
 
+  // Scroll to the currently selected font
+  const selectedBtn = menu.querySelectorAll("button")[currentFontIndex];
+  if (selectedBtn) {
+    menu.scrollTop = selectedBtn.offsetTop - menu.offsetHeight / 2 + selectedBtn.offsetHeight / 2;
+  }
+
   // Close on click outside
   document.addEventListener("click", function closeMenu(e) {
     if (!menu.contains(e.target) && e.target !== fontBtn) {
