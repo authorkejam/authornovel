@@ -317,7 +317,7 @@ function showFontMenu() {
   if (selectedBtn) {
     menu.scrollTop = selectedBtn.offsetTop - menu.offsetHeight / 2 + selectedBtn.offsetHeight / 2;
   }
-
+  
   // Close on click outside
   document.addEventListener("click", function closeMenu(e) {
     if (!menu.contains(e.target) && e.target !== fontBtn) {
@@ -1056,29 +1056,6 @@ function updateLogos() {
   });
 }
 
-// Dark mode toggle
-const darkModeToggle = document.getElementById("darkModeToggle");
-
-// Load dark mode preference on page load
-const savedDarkMode = localStorage.getItem("darkMode");
-if (savedDarkMode === "true") {
-  document.body.classList.add("dark");
-  darkModeToggle.textContent = "☀️";
-} else {
-  darkModeToggle.textContent = "🌙";
-}
-updateLogos();
-
-darkModeToggle.addEventListener("click", () => {
-  document.body.classList.toggle("dark");
-  const isDark = document.body.classList.contains("dark");
-  darkModeToggle.textContent = isDark ? "☀️" : "🌙";
-  localStorage.setItem("darkMode", isDark);
-  updateLogos();
-  // Apply the last selected theme
-  applyTheme(themeOptions[currentThemeIndex].value);
-});
-
 // Theme selection logic
 const themeBtn = document.getElementById("themeBtn");
 const themeOptions = [
@@ -1113,6 +1090,32 @@ themeBtn.addEventListener("click", showThemeMenu);
 // Set initial theme
 applyTheme(themeOptions[currentThemeIndex].value);
 themeBtn.textContent = `🎨 ${themeOptions[currentThemeIndex].text}`;
+
+// Dark mode toggle
+const darkModeToggle = document.getElementById("darkModeToggle");
+
+// Load dark mode preference on page load
+const savedDarkMode = localStorage.getItem("darkMode");
+if (savedDarkMode === "true") {
+  document.body.classList.add("dark");
+  darkModeToggle.textContent = "☀️";
+  themeBtn.style.display = "inline-block";
+} else {
+  darkModeToggle.textContent = "🌙";
+  themeBtn.style.display = "none";
+}
+updateLogos();
+
+darkModeToggle.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+  const isDark = document.body.classList.contains("dark");
+  darkModeToggle.textContent = isDark ? "☀️" : "🌙";
+  themeBtn.style.display = isDark ? "inline-block" : "none";
+  localStorage.setItem("darkMode", isDark);
+  updateLogos();
+  // Apply the last selected theme
+  applyTheme(themeOptions[currentThemeIndex].value);
+});
 
 // Intro animation
 document.addEventListener("DOMContentLoaded", function () {
