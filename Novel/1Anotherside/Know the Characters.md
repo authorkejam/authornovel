@@ -1,4 +1,4 @@
-## Khow the Characters
+## Know the Characters
 
 ---
 
@@ -27,5 +27,6 @@ Rihal Kuranji: Tinggi: 177 cm, berat badan: 63 kg. Orang yang paling lucu dianta
 Angga Rehan Bantara: Tinggi: 181 cm, berat badan: 78 kg. Bos paduka.
 
 ---
+
 
 **Note: Karakter hanya fiksi belaka, kesamaan nama dan tempat hanya ketidak sengajaan/Imajinasi Author.**
