@@ -32,6 +32,10 @@ const urlsToCache = [
   '/cover/Van-cover.jpg',
   '/cover/villain-cover.jpg',
   '/cover/Yakuza-cover.jpg',
+  // External resources for offline access
+  'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&family=Lato:wght@400;700&family=Montserrat:wght@400;700&family=Oswald:wght@400;700&family=Raleway:wght@400;700&family=Poppins:wght@400;700&family=Playfair+Display:wght@400;700&family=Merriweather:wght@400;700&family=Inter:wght@400;700&family=Quicksand:wght@400;700&family=Karla:wght@400;700&family=Mulish:wght@400;700&family=Manrope:wght@400;700&family=Outfit:wght@400;700&family=Readex+Pro:wght@400;700&family=Space+Grotesk:wght@400;700&family=JetBrains+Mono:wght@400;700&family=Fira+Code:wght@400;700&family=Roboto+Mono:wght@400;700&family=Ubuntu+Mono:wght@400;700&family=Space+Mono:wght@400;700&family=Noto+Sans:wght@400;700&family=Lora:wght@400;700&family=Crimson+Text:wght@400;700&family=Libre+Baskerville:wght@400;700&family=Vollkorn:wght@400;700&family=EB+Garamond:wght@400;700&family=Old+Standard+TT:wght@400;700&family=Caveat:wght@400;700&family=Dancing+Script:wght@400;700&family=Great+Vibes&family=Satisfy&family=Allura&family=Kalam:wght@400;700&family=Shadows+Into+Light&display=swap',
+  'https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.13/lottie.min.js',
+  'https://authorkejam.github.io/authornovel/weblogo.png',
   // About markdown files
   '/About/about.md',
   '/About/name.md',
