@@ -22,9 +22,11 @@ Jalan itu membawaku kembali ke kenangan masa kecil, jalan yang dulu sering aku l
 
 Begitu tiba di rumah nenek, aku langsung merapikan barang-barang yang kubutuhkan untuk keperluan menginap selama dua minggu atau mungkin lebih.
 
-Setelah selesai merapikan barangku, aku kemudian pergi membeli barang yang tidak aku bawa, buru-buru jadi penyebab aku lupa menyiapkan keperluan itu.
+Setelah selesai merapikan barangku, aku segera pergi membeli barang yang tidak aku bawa, buru-buru jadi penyebab aku lupa menyiapkan keperluan itu.
 
-Aku berjalan sebentar. Dan saat itu bertemu dengannya, mataku menangkap sosok seorang gadis yang sedang duduk dijalan masuk gang sempit. Pakaiannya lusuh dan kotoran melekat ditubuhnya. Ia duduk dengan kepala tertunduk, bahunya bergetar saat dia bernafas.
+Aku keluar rumah dan berjalan sebentar. Dan saat itulah aku bertemu dengannya, mataku menangkap sosok seorang gadis yang sedang duduk dijalan masuk gang sempit.
+
+Pakaiannya lusuh dan kotoran melekat ditubuhnya. Ia duduk dengan kepala tertunduk, bahunya bergetar saat dia bernafas.
 
 Tangisnya tertahan, tapi jelas dia terlihat sangat kesakitan. Wajahnya dipenuhi jejak air mata yang mengering, menciptakan pola samar dipipinya yang kotor. Sesekali, ia mengusap hidungnya dengan punggung tangan kecilnya yang juga tampak kotor.
 
