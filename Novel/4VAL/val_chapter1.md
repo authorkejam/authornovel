@@ -18,17 +18,19 @@ Aku belajar cara berkelahi, awalnya untuk membela dan menjaga orang-orang yang a
 
 Dulu, awalnya aku tak ingin melakukan kontak sosial dengan orang lain. Entah karena tertarik atau termakan ucapan orang lain, aku menjadi sedikit penasaran, apa yang mmebuat orang lain melakukan hubungan itu. Jadi aku merasa sedikit ingin merasakannya juga.
 
-Hubungan pertamaku terjadi saat aku masih SMA dulu. Kalau diingat-ingat lagi. Aku memang tak pernah merasa kalau aku dicintai, sebaliknya aku hanya dijadikan alat, pelarian, karena pacar pertamaku ini kudengar dia baru saja putus dengan pacarnya. Tapi awalnya aku tak mengetahuinya.
+Hubungan pertamaku terjadi saat aku masih SMA dulu. Kalau diingat-ingat lagi. Aku memang tak pernah merasa kalau aku dicintai, sebaliknya aku hanya dijadikan alat, pelarian, karena pacar pertamaku kudengar dia baru saja putus dengan pacarnya. Tapi awalnya aku tak mengetahuinya.
 
 ---
 
 **PILIHAN YANG SEHARUSNYA TAK KUAMBILL**
 
-Aku adalah juara dikelas, tapi aku bisa mengatur nilaiku, batas mana yang ingin kuperlihatkan ke orang lain. Aku juga tak pernah mau terlibat dengan masalah orang lain. Jadi aku hanya memikirkan diriku sendiri selama ini.
+Aku adalah juara dikelas, meski begitu tak ada yang terlalu tertarik dengan hal itu. Tapi yang paling menonjol dariku, aku bisa mengatur nilaiku, batas mana yang ingin kuperlihatkan ke orang lain. Aku juga tak pernah mau terlibat dengan masalah orang lain. Jadi aku hanya memikirkan diriku sendiri selama ini.
 
 Sekarang ini, aku sedang berada dikelas, menunggu jam pelajaran. Aku tak banyak memiliki teman dengan orang-orang dikelasku. Aku juga tak pernah tertarik berkomunnikasi dengan mereka semua. Aku hanya bisa mendengar percakapan menyenangkan mereka, tanpa pernah bisa menikmati berbicara dengan saling bertatao wajah.
 
-Dan saat itulah dimulai, dia awalnya hanya bermain-main. Aku sedang melamun, dia terus melihatku. Dan akhirnya setelah merasa risih ditatap terus-terusan, aku melihat kearahnya. Dia seperti memeiliki ketertarikan padaku. Sambil berkata *"Baby"* dia tersenyum padaku, awalnya aku hanya membalasnya dengan senyuman. Dia mengucapkan kata itu hingga jam istirahat, dikantin, dikelas lagi dan akhirnya dijam pulang sekolah pun dia terus mengucapkan lata itu.
+Dan saat itulah cerita dimulai, dia awalnya hanya bermain-main.
+
+Seperti biasa, aku sedang melamun. Dia terus melihatku, memperhatikanku. Dan akhirnya setelah merasa risih ditatap terus-terusan, aku melihat kearahnya. Dia seperti memeiliki ketertarikan padaku. Sambil berkata *"Baby"* dia tersenyum padaku, awalnya aku hanya membalasnya dengan senyuman. Dia mengucapkan kata itu hingga jam istirahat, dikantin, dikelas lagi dan akhirnya dijam pulang sekolah pun dia terus mengucapkan lata itu.
 
 Dia adalah primadona sekolah, yang dijuluki sang Ratu sekolah
 
@@ -38,13 +40,13 @@ Akhirnya saat jam pulang sekolah, aku segera pulang dengan berjalan kaki, karena
 
 Aku tak menolak, "Boleh" ucapku dengan senang hati.
 
-Kupikir dia akan terus-terusan mengatakan kata itu hingga perjalanan pulang. Tapi ternyata sama sekali kami tak memiliki percakapan untuk dibicarakan. Kedamaian ini mungkin akan segera berakhir pikirku.
+Kupikir dia akan terus-terusan mengatakan kata itu hingga perjalanan pulang. Tapi ternyata kami sama sekali tak memiliki percakapan untuk dibicarakan. Kedamaian ini mungkin akan segera berakhir pikirku.
 
 "Aku turun didepan situ" ucapku menunjuk arah.
 
 dengan segera dia mengatakan, "Ohh yaa"
 
-Akhirnya aku sampai digang desaku, "Makasih tumpangannya" ucapku.
+Akhirnya aku sampai di gang masuk desaku, "Makasih tumpangannya" ucapku.
 
 "Sama-sama" dia akhirnya pergi.
 
