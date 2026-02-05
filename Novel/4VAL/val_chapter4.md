@@ -1,8 +1,10 @@
 Dari hari ke hari, hubungan kami menjadi semakin erat. Dengan sifatnya yang biasa, Deva selalu manja kepadaku. Aku selalu dibuat tersipu malu olehnya.
 
-Sebenarnya aku ingin sekali melakukan hal yang sama kepadanya. Tapi aku tak inign, entah apa yang membuatnya memilih untuk menunjukkan sifat ini kepadaku, dan entah apa yang sudah ia lalui sampai ia melakukan ini semua.
+Sebenarnya aku ingin sekali melakukan hal yang sama kepadanya. Tapi aku tak ingin, entah apa yang membuatnya memilih untuk menunjukkan sifat ini kepadaku, dan entah apa yang sudah ia lalui sampai ia melakukan ini semua.
 
-Aku hannya melakukan hal yang wajar sebagai pacar, seperti memebrikan hadian, memebrinya semangat saat lelah dan menjadi tempat ia kembali saat merasa kesepian. Itu semua yang selalu aku harapkan dari seseorang yang aku cintai.
+Aku hannya melakukan hal yang wajar sebagai pacar, seperti memberikan hadian, memberinya semangat saat lelah dan menjadi tempat ia kembali saat merasa kesepian.
+
+Itu semua adalah hal yang selalu aku harapkan dari seseorang yang aku cintai, namun tak pernah aku dapatkan. Tapi setidaknya aku yang harus melakukannya. 
 
 **BACK**
 
@@ -12,7 +14,7 @@ Kami bertemu ditaman, ditempat dia meninggalkanku dengan rasa sakit dan kekecewa
 
 "Val, aku mau kita balik kaya dulu lagi" ucapnya.
 
-Jelas aku terkejut mendengarnya, "Kenapa sama pacarmu?" tanyaku.
+Jelas aku terkejut mendengarnya, "Kenapa pacarmu?" tanyaku.
 
 "Dia...Dia ternyata ga sebaik yang aku pikir, dia manfaatin aku. Dia selingkuh didepan mata aku"
 
@@ -24,15 +26,17 @@ Aku sempat merasa kasihan padanya, atas apa yang dialaminya. Tapi seketika aku m
 
 Dia mengerutkan kening sedih, "Kamu udah ga sayang sama aku?" tanyanya.
 
-Val memberikan gestur bertnya, "Lu sendiri yang bilang, itu yang lul mau kan"
+Val memberikan gestur bertnya, "Lu sendiri yang bilang, itu yang lu mau kan"
 
 "Val, aku mohon, kembali. Cuman kamu yang perhatian sama aku" ucapnya menangis.
 
-"Well, udah ngga. Jangan nyamain gua yang sekarang sama bocah sialan itu"
+"Well, udah ngga. Jangan samain gua yang sekarang sama bocah sialan itu"
 
-Aku sudah kehilangan diriku berulang kali olehnya, dan sekarang dia menginginkan aku kembali menjadi sosok yang sudah aku bunuh, itu?. *Lu apaan, necromancer?*
+Aku sudah kehilangan diriku berulang kali olehnya, dan sekarang dia menginginkan aku kembali menjadi sosok yang sudah aku bunuh, itu?. 
 
-Aku terdiam sejenak, "Asal tau saja, aku tak pernah memungut sampah yang sudah aku buang. Kalaupun aku pungunt, aku akan membuangnya ke tempat sampah yang lain", kemudian aku pergi. "Temui gua lagi, kalau gua udah ga peduli"
+*Lu pikir gua apaan, necromancer?*
+
+Aku terdiam sejenak, "Asal tau saja, aku tak pernah memungut sampah yang sudah aku buang. Kalaupun aku pungut, aku akan membuangnya ke tempat sampah yang lain", kemudian aku pergi. "Temui gua lagi, kalau gua udah ga peduli"
 
 *Kau ingin kembali kepadaku setelah merasakan hal kau lakukan padaku. Jangan harap.*
 
@@ -62,7 +66,7 @@ Aku melihat ada tiga orang duduk disana, seorang pria dan dua orang perempuan, m
 
 "Guys, ini kenalin pacar aku" ucap Deva bersandar dibahuku.
 
-Pria itu berdiri, "Akhirnya sampe juga, kenalin gw Gani, ini pacar gw Anstaysa"
+Pria itu berdiri, "Akhirnya sampe juga, kenalin gw Gani, ini pacar gw Anastaysa"
 
 "Hay, Tasya" ucap pacar Gani memperkenalkan diri.
 
@@ -86,26 +90,27 @@ Deva berdiri, "Ehh, aku pesan dulu yaa. Kalian mau apa?"
 
 "Oke" Deva seolah mengerti yang mereka inginkan, "Kalo kamu mau apa sayang?" ucapnya menawariku.
 
-"Samaain kaya kamu aja" ucapku.
+"Samain kaya kamu aja" ucapku.
 
 "Yakiinn?" senyum liciknya kembali lagi.
 
-"Aaah, sebaiknya jangan deh. Aku mau makanan yang normal dilihat orang-orang normal" ucapku.
+"Aaah, sebaiknya jangan deh. Aku mau makanan yang normal dilihat orang-orang normal aja," ucapku.
 
-"Yaudah, nanti aku pesenin Nasi goreng udah aja yaa"
+"Yaudah, nanti aku pesenin Nasi goreng udang aja yaa"
 
 "Boleh deh"
 
-Dia mengelus pipiku kemudia pergi kekasir.
+Dia mengelus pipiku kemudian pergi kekasir.
 
 Gani sempat bertanya bagaimana cara kami sampai bisa menjadi sepasang kekasih.
 
-"Val, gimana awal ketemu?"
+"Val, gimana awal kalian ketemu?"
 
-"Gw ketemu dia di Club Musik"
+"Gw ketemu dia di Club Musik, dikampus."
 
 "Yang deketin duluan siapa?" tanyanya penasaran.
-"Dia"
+
+"Dia" ucapku.
 
 Mereka terdiam mendengar jawabanku, saling menatap satu sama lain.
 
@@ -113,9 +118,11 @@ Mereka terdiam mendengar jawabanku, saling menatap satu sama lain.
 
 "Maksud gw, kita lagi ngomong Deva lho. Lu serius dia yg deketin duluan?"
 
-"Iyaa, tanya aja sama orangnya nanti". Aku merasa ada yang aneh, mereka seperti tak biasa dengan sifat temannya sendiri. Atau dia memang berbeda saat bersama denganku?
+"Iyaa, tanya aja sama orangnya nanti".
 
-Tasya menyahut, "Dia orang yang susah buat dideketin, bahkan teman sekelasnya aja pada jaga jarak sama dia. Soalnya dia galak, dingin pula." Ucapnya sambil bersandar pada habu Gani.
+Aku merasa ada yang aneh, mereka seperti tak biasa dengan sifat temannya sendiri. Atau dia memang berbeda saat bersama denganku?
+
+Tasya menyahut, "Dia orang yang susah buat dideketin, bahkan teman sekelasnya aja pada jaga jarak sama dia. Soalnya dia galak, dingin pula." Ucapnya sambil bersandar pada bahu Gani.
 
 "Dia cuman berteman sama kami selama ini, itu pun biasa aja." Ucap Airy. "Jadi, pas lihat dia sama kamu, kami pikir dia lagi gangguan jiwa."
 
@@ -125,7 +132,9 @@ Tasya menyahut, "Dia orang yang susah buat dideketin, bahkan teman sekelasnya aj
 
 Tak lama kemudian, Deva datang dengan membawa makanan yang tadi dipesan. "Ini pesanannya, maaf lama menunggu"
 
-"Nah ini dateng orangnya" ucapku.
+"Nah ini dateng orangnya" ucap Gani.
+
+Aku menatap wajah Deva dengan penuh pertanyaan. 
 
 Airy berdiri dan mendekat, "Deva, jelaskan hubungan kalian?"
 
@@ -143,7 +152,9 @@ Wajah mereka semua sontak berubah terkejut, mereka seperti tak percaya dengan ya
 
 "AAaa" Deva memberikan gestur jari telunjuk. "Shuuuut"
 
-"Yaudah kita makan aja kalo gitu" ucapku mengambil makananku.
+Percakapan kami mati total.
+
+"Yaudah kita makan aja kalo gitu" ucapku akhirnya mengambil makananku.
 
 "Aku juga mau" ucap Deva tersenyum.
 
@@ -157,7 +168,7 @@ Aku semakin penasaran dengan yang mereka sembunyikan. Yaa suatu saat nanti aku a
 
 "Setelah dari sini kita mau kemana?" tanya Tasya.
 
-"Nonton, gimana?" Gani membeikan usul.
+"Nonton, gimana?" Gani memberikan usul.
 
 "Boleh banget tuh, kita belum pernah nonton. Kita nonton yaa sayang" ucap Deva, matanya tertuju padaku.
 
@@ -168,13 +179,14 @@ Aku tak ada pilihan lain, "Aku ikut aja"
 "Aku ga ikut aja, habis ini aku ada urusan. Lagian kalian pergi pasang-pasangan, aku sendiri yang jomblo" ucapnya.
 
 "Kalo ada pasangan emang kamu mau pergi?" tanya Deva.
+
 "Tentu saja"
 
 "Kalo gitu mau sama Val aja?"
 
 Aku menyembur minuman yang baru saja ku teguk. "Kok gitu?" tanyaku.
 
-"Ga apa-apa juga kan, aku bolehin kok kalo sama Airy" ucapnya tersenyum.
+"Ga apa-apa juga kan, aku bolehin kok kalo sama Airy" ucap Deva tersenyum.
 
 "Ngga, ngga, masalahnya Airy..."
 
@@ -184,7 +196,7 @@ Aku menatapnya terbingung, "Serius?"
 
 "Ihh, ga apa-apa udah, cuman sehari aja. Sehari aja yaa Airy, kalo sampe lebih kamu tau kan akibatnya?"
 
-Wajah Airy berubah ketakutan, "Iya iyaa, pastinya, hehe"
+Wajah Airy berubah ketakutan, "Iya iyaa, pastinya tau, hehe"
 
 Setelah dari sini kami langsung berkangkat ke bioskop, aku tak tau dimana tempatnya. Kami semua berangkat dengan mobil Deva, aku diseblahnya dan mereka bertiga dibelakang.
 
@@ -196,7 +208,7 @@ Setelah sampai di mall kami langsung berjalan menuju bioskop. Sebelum itu,
 
 "Boleh, ga apa-apa"
 
-Perhatian orang-orang tertuju pada kami. Gani, sialan itu hanya bisa tertawa terbahak-bahak melihatku mengalami, hal ini. Padahal kami baru saja bertemu, tapi dia sudah menganggapku seperti teman lamanya.
+Perhatian orang-orang tertuju pada kami. Gani, sialan itu hanya bisa tertawa terbahak-bahak melihatku mengalami, hal ini. Padahal kami baru saja bertemu, tapi dia sudah menganggapku seperti teman yang sudah lama kenal.
 
 Aku berharap ini cepat selesai, tapi saat memesan tiket filmnya. Kami harus menunggu 2 jam lagi karena semua studio sedang memulai jadwal film yang lain.
 
@@ -204,11 +216,11 @@ Perhatian orang-orang masih tertuju pada kami, padaku yang digandeng oleh dua or
 
 Sambil menunggu giliran tayangan, kami mengelilingi mall. Hal yang pertama kami lakukan adalah pergi ke arean bermain, aku bermain capit untuk mendapatkan boneka untuk Deva, juga untuk Airy yang saat itu sedang kencan bersama kami. Aku tak mengira dia juga ingin hal seperti ini.
 
-Kami juga memberli makanan untuk mengisi tenaga. Membeli ice cream untuk mencairkan suasana. Deva juga senang bermanja denganku, dia juga meminta melakukannya pada Airy.
+Kami juga membeli makanan untuk mengisi tenaga. Membeli ice cream untuk mencairkan suasana. Deva juga senang bermanja denganku, dia juga meminta melakukannya pada Airy.
 
-Setelah menghabiskan waktu mengelilingi mall, waktu dua jam pun sudah berlalu. Kami kembali ke bioskop untuk menonton film yang sudah kami pesan. Mereka berdua kembali menggandengku dan menjadi pusat perhatian mall.
+Setelah menghabiskan waktu mengelilingi mall, waktu dua jam pun berlalu dengan cepat. Kami kembali ke bioskop untuk menonton film yang sudah kami pesan. Mereka berdua kembali menggandengku dan menjadi pusat perhatian mall.
 
-Di dalam bioskop juga semua orang memperhatikanku yang digandeng oelh dua orang pacar.
+Di dalam bioskop juga semua orang memperhatikanku yang digandeng oleh dua orang pacar.
 
 Kami menonton dengan Deva dan Airy disampingku, Gani dan Tasya berada dibelakang.
 
@@ -230,11 +242,11 @@ Dia meletakkan tangannya didadaku, "Kamu takut?" ucapnya, "Kalo takut peluk aku 
 
 "Kamu pilih siapa Val" tanya Deva dengan senyumnya yang biasa.
 
-"Aku pilih nonton aja" ucapku mengambil jalur aman. Tapi malah mereka yang memelukku karena ketakutan.
+"Aku pilih nonton aja" ucapku mengambil jalur aman. Tapi malah mereka yang memelukku karena ketakutan. Bagian yang lebih horror baru saja memenuhi seisi studio.
 
 *Apa-apaan ini? Tadi mereka yang terlihat sangat berani.*
 
-Film yang seharusnya menyeramkan berubah menjadi biasa saja, aku merasa seperti menonton sinetron melihat mereka yang ketakutan disepanjang sisa filmnya. Aku jadi tak bisa menikmati filmnya, aku tak merasakan suasana horror difilmnya.
+Film yang seharusnya menyeramkan berubah menjadi biasa saja, aku merasa seperti menonton sinetron melihat mereka yang ketakutan disepanjang sisa filmnya. Aku jadi tak bisa menikmati filmnya, aku tak bisa merasakan suasana horror filmnya dimana. 
 
 Teriakan mereka terlalu berlebihan, tapi sama saja dengan penonton yang lain, berisik.
 
