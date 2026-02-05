@@ -24,11 +24,11 @@ Aku kebetulan masuk di Club musik sama seperti Diara, disana ada seorang senior 
 
 **"Dia kah"**
 
-Dia mendekat, "Hai, nama kamu siapa?" tanyanya.
+Dia mendekat, "Hai, nama kamu siapa?" tanyanya. Dia terlihat cantik. Tapi aku hanya biasa saja.
 
 "Val"
 
-Valandra, terdengan seperti nama tokoh seorang penjahat, jadi aku tak mengucapkan nama lengkapku. Nama itu diberikan oleh pamanku yang adalah seorang mantan pasukan khusus.
+Valandra, terdengan seperti nama seorang tokoh penjahat, jadi aku tak mengucapkan nama lengkapku. Nama itu diberikan oleh pamanku yang adalah seorang mantan pasukan khusus.
 
 "Val? Nama kamu simpel yaa. Aku Deva, salam kenal" ucapnya memberikan tangannya.
 
@@ -38,7 +38,7 @@ Aku menyalaminya, "Yaa, salam kenal, kak"
 
 "Ooh yaa, Deva"
 
-Hubungan kami akhirnya terjalin dengan waktu kurang dari 3 bulan, dia yang memulai menyatakan perasaannya.
+Hubungan kami akhirnya terjalin dengan waktu kurang dari 3 bulan mengrnal satu sama lain, dia yang memulai menyatakan perasaannya.
 
 Tunggu, sebenarnya dia hanya mengatakan kalau dia menyukaiku, dan setelahnya kami mulai berpacaran. Aku tak bisa berharap banyak darinya, aku menyiapkan hati dan perasaan seminimal mungkin agar tidak merasa dirugikan dalam hal perasaan.
 
@@ -46,17 +46,17 @@ Aku menjalani hubungan yang sehat bersamanya.
 
 **FIRST WEEKS**
 
-Minggu pertama, hubungan kami berjalan lancar. Dia memperlihatkan perhatian yang lebih kepadaku daripada orang lain. Dia juga sering mengunjungiku kekelas.
+Minggu pertama, hubungan kami berjalan lancar. Dia memperlihatkan perhatian yang lebih kepadaku daripada yang ia berikan pada orang lain. Dia juga sering mengunjungiku ke kelas.
 
 Dia cukup ramah yang membuatnya dikenal banyak orang bahkan para mahasiswa baru seperti kami ini.
 
-Tapi tentu memisah bentuk kebaikannya pada orang lain dan kepadaku. Saat dia melakukannya, entah kenapa aku merasa tau kalau aku spesial.
+Tapi tentu dia memisah bentuk kebaikannya pada orang lain dan kepadaku. Saat dia melakukannya, entah kenapa aku merasa tau kalau aku spesial.
 
-Tapi sejak hubungan kami semakin lama, dia mulai memperlihatkan sifat aslinya. Dia memang manja kepadaku, dan aku sangat menyukainya. Tapi yang tidak kusukai  darinya adalah, sifatnya yang selalu merasa nafsu kepadaku. Aku mulai menyadarinya saat dia menggandeng lenganku.
+Tapi sejak hubungan kami semakin lama, dia mulai memperlihatkan sifat aslinya. Dia memang manja kepadaku, dan aku sangat menyukainya. Tapi yang tidak kusukai  darinya adalah, sifatnya yang selalu, entah bagaimana aku harus mengatakannya,...merasa nafsu kepadaku? Aku mulai menyadarinya saat dia menggandeng lenganku.
 
 Aku berpikir kalau itu adalah bentuk cintanya padaku. Atau mungkin dia hanya bercanda dengan menggodaku seperti itu, untuk melihat reaksiku.
 
-Dia datang membawa bekal, "Hai Val, sarapan bareng yuk. Aku ada buat bekal nih" ucapnya riang.
+Hari ini Dia datang membawa bekal, "Hai Val, sarapan bareng yuk. Aku ada buat bekal nih" ucapnya riang.
 
 "Tapi aku ga bawa bekal" balasku.
 
@@ -88,9 +88,9 @@ Saat hari menjelang sore, Deva memintaku menemaninya ke perpustakaan untuk menge
 
 "Mau ngembaliin buku yang dua hari lalu aku pinjem"
 
-"Ayoo dah" ucapku, dia menggandeng tanganku.
+"Ayoo deh" ucapku, dia menggandeng tanganku.
 
-Kami mengunjungi perpustakaan yang berada tak jauh dari kampus. Karena tempatnya lumayan dekat kami kemi berjalan kaki.
+Kami mengunjungi perpustakaan yang berada tak jauh dari kampus. Karena tempatnya lumayan dekat, kami pergi berjalan kaki.
 
 Sesampainya disana, Deva langsung mengembalikan buku yang ia pinjam. Aku juga sempat mencari buku yang menarik minatku, kebetulan aku suka dengan sejarah dan peperangan.
 
@@ -98,7 +98,7 @@ Aku pergi ke sesi sejarah untuk mencari buku "Sebuah Sejarah", buku itu baru saj
 
 "Semoga saja sudah ada disini"
 
-Setelah mencari cukup lama, aahirnya aku menemukan buku yang kumaskud. Buku ini dibuat oleh seorang penulis dengan tanda nama "Cruel Author", bukunya berisi beberapa kisah dari orang yang berbeda yang dikumpulkan karena memiliki alur dan jalan cerita masing-maing namun berkaitan.
+Setelah mencari cukup lama, akhirnya aku menemukan buku yang kumaskud. Buku ini dibuat oleh seorang penulis dengan tanda nama "Cruel Author", bukunya berisi beberapa kisah dari orang yang berbeda yang dikumpulkan karena memiliki alur dan jalan cerita masing-maing namun berkaitan.
 
 "Buku yang aneh, siapa juga nih Cruel Author. Baru denger. Ampas bener namanya."
 
@@ -112,9 +112,7 @@ Aku memutuskan untuk meminjam buku ini, oh yaa, aku juga meminjam buku resep mas
 
 "Kebetulan aja aku suka, seru soalnya"
 
-"Yaudah kamu kasih ke penjaga perpus dulu, terus kita makan habis ini, yaa"
-
-"Tunggu sebentar yaa", aku mengantar buku itu.
+"Yaudah kamu sini bukunya biar aku yang pinjamin", aku memberikan buku yang ingin kupinjam pada Deva. 
 
 **HUKUMAN**
 
@@ -140,17 +138,17 @@ Setelah menuggu beberapa saat, Deva kembali membawa makanan.
 
 "Apa ini", tanyaku sambil menutup hidungku rapat-rapat.
 
-"Em? Spagehetty" ucapnya polos. Wajahnya seketika berubah, "Kenapa? Kamu ga sanggup habisin? tadi katanya mau kaya punya aku" ucapnya licik menyeramkan.
+"Em? Spagehetty" ucapnya polos. Wajahnya seketika berubah, "Kenapa? Kamu ga mau habisin? tadi katanya mau kaya punya aku" ucapnya licik menyeramkan.
 
 Aku hanya meneguk liur melihat makanan yang ada didepanku. Sambil terus menutup hidungku.
 
 "Mau habisin, atau.." ucapnya tersenyum licik mengeditkan alis.
 
-Mau tidak amu aku setidaknya harus memakan setengah agar selamat darinya.
+Mau tidak mau aku setidaknya harus memakan setengah agar selamat darinya.
 
 Aku mulai mengambil suapan pertama, dengan hidung yang masih kututup.
 
-"Ueeeekk" aku tak tahan ketikan rasanya sampai dilidahku. Aku langsung pergi ke toilet.
+"Ueeeekk" aku tak tahan ketikan rasanya sampai dilidahku. Aku langsung berlari ke toilet.
 
 Penjaga kasir yang ikut tertawa memberikan tisu padaku, "Tisu"
 
@@ -192,11 +190,11 @@ Kami pergi menggunakan mobil milik Deva, alhasil kami sampai dengan cepat. *Kena
 
 "Kenapa Val?" tanyanya tenang.
 
-"Ngga, ga apa-apa" ucapku menenagkan diri.
+"Ngga, ga apa-apa" ucapku menenangkan diri.
 
-Dia terlihat tersenyum lebih manis dari sebelumnya. Ini kali pertama aku melihat senyuman itu, memang dia selalu tersenyum bersamaku. Tapi senyum yang ini sangat jauh berbeda. Seandainya dia memilih untuk menunjukkan sifatnya yang ini, daripada sifatnya yang, itu.
+Dia terlihat tersenyum lebih manis dari sebelumnya. Ini kali pertama aku melihat senyuman itu, memang dia selalu tersenyum saat bersamaku. Tapi senyum yang ini sangat jauh berbeda. Seandainya dia memilih untuk menunjukkan sifatnya yang ini, daripada sifatnya yang, itu.
 
-Kami sampai dibukit, saat  itu malam yang diterangi cahaya bulan dan gemerlap bintang. Aku melihat cahaya kota yang penuh dengan warna, saat turun dari mobil. Aku terkagum oleh pemandangan indah ini.
+Kami sampai di bukit, saat itu malam yang diterangi cahaya bulan dan gemerlap bintang. Aku melihat cahaya kota yang penuh dengan warna, saat turun dari mobil. Aku terkagum oleh pemandangan indah ini.
 
 "Kamu.."
 
@@ -212,17 +210,23 @@ Dia memelukku dengan sangat erat, seperti tak ingin melepaskannya. Jujur hatiku 
 
 "Mmm, kita kan pacaran. Kurasa yaa, iya, aku sayang kamu"
 
+Awalnya aku tak pernah berpikir bisa sejauh ini. Yang aku pikirkan hanya kebaikan diriku sendiri. Tapi apakah aku benar-benar bisa menikmati ini?
+
 "Benarkah?"
 
 "Emm"
 
 Dia terdiam sejenak, "Kalo gitu, cium aku" dia mengangkat kepalanya, "cium aku"
 
-Aku tak bisa lebih terkejut dari ini, tapi mau bagaimana lagi. Hukuman tetaplah hukuman. Dia memejamkan mata, begitu juga denganku. Aku mulai mendekatkan wajahku, perlahan dan lama.
+Aku tak bisa lebih terkejut dari ini, tapi mau bagaimana lagi. Hukuman tetaplah hukuman. Aku mulai gemetar. 
+
+Dia memejamkan mata, begitu juga denganku. Aku mulai mendekatkan wajahku, perlahan dan lama.
 
 Dia membuka matanya dan menahan bibirku dengan telunjuknya, "Emm, kayanya jangan dulu deh" ucapnya.
 
-Dalam hati aku merasa lega mendengarnya. Tapai aku sedikit tidak enak hati karena tak mengiyakan kemauannya.
+Dalam hati aku merasa lega mendengarnya. Tapi aku sedikit tidak enak hati karena tak mengiyakan kemauannya.
+
+"Sebaiknya jangan dulu deh. Aku pikir ini memang terlalu cepat." Akhirnya dia mengurungkan niatnya. 
 
 "Cium aku, saat itu bukan hukuman, yaa"
 
