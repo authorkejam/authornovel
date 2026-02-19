@@ -264,6 +264,11 @@ Apa aku sudah kehilanganmu sejak lama, dan aku hanya berusaha menggenggam sesuat
 
 Aku menatap langit yang semakin gelap, awan hitam menggantung rendah di cakrawala. Angin berembus pelan, membawa aroma hujan yang hampir turun.
 
-Bagaimana dengan diriku disisi sana? semoga dia tidak mengalami hal yang serupa.
+Semakin kucoba untuk ingat, semakin ingatanku kacau dibuatnya. Tapi rasa sakit dikepalaku tidak ada apa-apanya dibandingkan dengan rasa sakit didadaku karena kehilangan semua memeori tentangnya.
+
+Aku sudah tak mengingat bagaimana rupanya, senyumnya, atau bahkan siapa dia.
+
+<!--Bagaimana dengan diriku disisi sana? semoga dia tidak mengalami hal yang serupa.-->
 
 > Kapan penderitaan ini akan berakhir??,,
+
