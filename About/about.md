@@ -43,7 +43,13 @@ Social Media:[Twitter](https://x.com/AuthorNove83836?t=Pcp2EUDH7IJyETf2A5xSKw&s=
 Karena telah mendukung, terima kasih sudah membaca ceritaku.
 
 
+---
 
+TEMUI KAMI DI WEBSITE RESMI, 
+
+[authorkejam.github.io] (https://authorkejam.github.io/authornovel/) 
+
+[novelariosa.unaux.com] (https://novelariosa.unaux.com/?i=1) 
 
 
 
