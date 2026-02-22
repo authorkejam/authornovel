@@ -47,9 +47,9 @@ Karena telah mendukung, terima kasih sudah membaca ceritaku.
 
 TEMUI KAMI DI WEBSITE RESMI, 
 
-[authorkejam.github.io] (https://authorkejam.github.io/authornovel/) 
+[authorkejam.github.io](https://authorkejam.github.io/authornovel/) 
 
-[novelariosa.unaux.com] (https://novelariosa.unaux.com/?i=1) 
+[novelariosa.unaux.com](https://novelariosa.unaux.com/?i=1) 
 
 
 
