@@ -3,9 +3,9 @@
 
 > *"Oh...ingatan waktu itu, kah?"*
 
-Aku tak terlalu ingat kejadian waktu itu. Ingatanku mulai terkikis perlahan. Jadi, sebisa mungkin aku,..ingin sekali mengingat.
+Aku tak terlalu ingat kejadian waktu itu. Ingatanku mulai terkikis perlahan. Jadi, sebisa mungkin aku,..ingin sekali mengingatnya kembali.
 
-Meskipun aku tak yakin, aku menulis cerita ini hanya berdasarkan ingatan samar yang terus terulang.
+Tapi kenapa? Kenapa aku bisa melupakannya? Apakah aku memang pelupa, atau aku tidak layak mengingatnya?
 
 ***
 
