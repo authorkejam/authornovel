@@ -42,7 +42,7 @@ Kesan pertamaku tentang gadis itu, dia adalah seseorang yang tidak ingin terseny
 
 "Kamu lapar?" tanyaku lagi. Aku berjongkok dihadapannya, menyentuh lututnya tanpa sadar.
 
-Dingin. Tubuhnya begitu dingin.
+Dingin. Tubuhnya begitu dingin dan kering. 
 
 Ia tidak menjawab, hanya diam. Aku menarik nafas dalam dan berdiri.
 
