@@ -9,7 +9,7 @@ Tapi kenapa? Kenapa aku bisa melupakannya? Apakah aku memang pelupa, atau aku ti
 
 ***
 
-> *Aku menyukai senyuman itu. Penuh warna, seperti bunga yang bermekaran di tepian sungai. Aku benar-benar menyukai senyuman gadis itu.*
+> *Aku menyukai senyuman itu. Penuh warna, seperti bunga yang bermekaran di tepian sungai. Aku menyukai senyuman gadis itu.*
 
 
 ## Chapter 1: Sepotong Roti
