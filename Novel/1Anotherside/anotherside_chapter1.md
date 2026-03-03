@@ -50,7 +50,7 @@ Ia tidak menjawab, hanya diam. Aku menarik nafas dalam dan berdiri.
 
 Gadis itu tetap diam, hanya menatap tanah dengan wajah lesu. Kulitnya pucat, seolah kehilangan semua warna. Ia bahkan tidak menunjukkan ekspresi terkejut atau senang saat mendengar janjiku. Seakan-akan ia sudah terbiasa dengan orang-orang yang pergi dan tak pernah kembali.
 
-Aku mempercepat langkahku, hampir berlari menuju minimarket terdekat. Begitu samapi, aku langsung mengambil yogurt, roti dan sekantung coklat, siapa tau dia menyukainya. Setelah membayar, aku segera kembali ke gang kecil tadi.
+Aku mempercepat langkahku, hampir berlari menuju minimarket terdekat. Begitu sampai, aku langsung mengambil yogurt, susu, roti dan sekantung coklat, siapa tau dia menyukainya. Setelah membayar, aku segera kembali ke gang kecil tadi.
 
 Namun, saat aku tiba disana, gadis itu sudah tidak ada.
 
