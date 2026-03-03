@@ -1,5 +1,5 @@
 
-> *"Apa ini?"*
+> *"Apa ini? Kenapa begitu sakit?"*
 
 > *"Oh...ingatan waktu itu, kah?"*
 
