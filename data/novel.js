@@ -202,7 +202,7 @@ let novels = [
         file: "Novel/3BeingKind/beingkind_chapter6.md"
       },
       {
-        title: "Chapter 7: Just because doing samoething good,",
+        title: "Chapter 7: Just because doing something good,",
         file: "Novel/3BeingKind/beingkind_chapter7.md"
       },
       {
@@ -210,7 +210,7 @@ let novels = [
         file: "Novel/3BeingKind/beingkind_chapter8.md"
       },
       {
-        title: "Chapter 9: Bagi Untuk Orang Lain, Buruk Bagiku",
+        title: "Chapter 9: Baik Untuk Orang Lain, Buruk Untukku",
         file: "Novel/3BeingKind/beingkind_chapter9.md"
       },
       {
