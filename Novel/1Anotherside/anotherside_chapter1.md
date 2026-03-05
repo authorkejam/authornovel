@@ -3,9 +3,11 @@
 
 > *"Oh...ingatan waktu itu, kah?"*
 
-Aku tak terlalu ingat kejadian waktu itu. Ingatanku mulai terkikis perlahan. Jadi, sebisa mungkin aku,..ingin sekali mengingatnya kembali.
+Aku tak terlalu ingat kejadian waktu itu. Ingatanku mulai terkikis perlahan. Jadi, sebisa mungkin aku memaksa otakku untuk mengingatnya.
 
 Tapi kenapa? Kenapa aku bisa melupakannya? Apakah aku memang pelupa, atau aku tidak layak mengingatnya?
+
+Aku, ingin melihat wajahnya sekali saja. Aku tak ingin melupakan dia...
 
 ***
 
