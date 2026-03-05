@@ -6,13 +6,13 @@ Aku menyukai senyuman itu. Senyuman yang penuh warna, hangat seperti senja di pa
 
 **FORGOTTEN**
 
-*"Apa ini?"*
+> *"Apa ini? Kenapa begitu menyakitkan?"*
 
-*"Oh, ini... ingatan waktu itu, kah?"*
+> *"Oh, ini... ingatan waktu itu, kah?"*
 
 Aku mencoba menggapainya.
 
-otongan-potongan gambar melintas di benakku. Wajah-wajah yang familiar, suara tawa yang samar, percakapan yang terasa begitu dekat namun asing. Semuanya seperti serpihan kaca yang berkilauan dalam cahaya redup. Terlihat jelas, tapi berbahaya untuk digenggam.
+Potongan-potongan gambar yang melintas di benakku. Wajah-wajah yang familiar, suara tawa yang samar, percakapan yang terasa begitu dekat namun asing. Semuanya seperti serpihan kaca yang berkilauan dalam cahaya redup. Terlihat jelas, tapi berbahaya untuk digenggam.
 
 Aku berusaha meraih salah satu potongan itu, tetapi semakin aku mencoba menggenggamnya, semakin jauh semuanya pergi, terpecah dan menghilang dalam kehampaan.
 
