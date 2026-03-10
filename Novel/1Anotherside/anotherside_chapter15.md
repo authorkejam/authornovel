@@ -160,7 +160,7 @@ Itu adalah yang kuharapkan, tapi tak sesuai yang kuinginkan.
 
 Deona mengalami hilang ingatan untuk yang kedua kalinya. Aku tidak tahu apa yang menyebabkannya, tidak ada tanda-tanda sebelumnya, tidak ada peringatan. Kemarin, dia masih menatapku dengan penuh kehangatan, masih menyunggingkan senyum yang kutahu selalu menjadi miliknya. Tapi hari ini, dia bahkan tidak mengenalku.
 
-Dia melupakan siapa aku.
+Dia melupakan siapa aku, lagi.
 
 Dia melupakan semua kenangan yang kami lalui selama beberapa hari terakhir.
 
