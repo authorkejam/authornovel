@@ -232,7 +232,7 @@ Pintu tertutup.
 
 Tanpa sadar, aku telah menjadi sosok penjahat di ingatannya. Kurasa sudah saatnya menyerah dan meninggalkannya.
 
-Aku ingin membantah. Aku ingin menanyakan apa yang terjadi. Tapi aku tidak bisa. Suaraku tertahan di tenggorokan, dadaku sesak. Aku hanya berdiri di sana, menyaksikan seseorang yang paling aku sayangi menatapku seolah aku adalah ancaman bagi kehidupannya.
+Aku ingin membantah. Aku ingin menanyakan apa yang terjadi. Tapi aku tidak bisa. Suaraku tertahan di tenggorokan, dadaku sesak. Aku hanya berdiri di sana, menyaksikan seseorang yang paling aku sayangi menatapku seolah aku adalah ancaman bagi hidupnya.
 
 Aku berbalik, melangkah pergi. Langkahku terasa berat, seakan ada rantai yang mengikat kakiku.
 
