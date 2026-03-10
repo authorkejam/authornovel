@@ -34,6 +34,8 @@ Aku pun mendekat dan memeluknya lagi, kali ini lebih erat. Rasanya seperti membe
 
 Aku tersenyum sambil membalas lembut, "Iya, Yon, aku juga sayang kamu."
 
+Panggilan itu, entah kenapa tiba-tiba terucap dibibirku.
+
 Kami tetap dalam posisi itu beberapa saat sebelum aku bertanya, "Kalau nanti kamu sudah sembuh, kamu mau ke mana?"
 
 Dia menatapku dengan mata berbinar. "Beneran aku boleh pilih?" tanyanya penuh antusias.
