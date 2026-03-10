@@ -220,9 +220,9 @@ Namun, hari itu belum berakhir. Tornado, Drop Zone, Kicir-Kicir, semuanya masuk 
 
 Kami melanjutkan perjalanan ke wahana berikutnya. Deona terus menarikku ke berbagai wahana yang membuatku merasa semakin lelah.
 
-Dari Tornado, *"AAAAAAAAAAAAAAAAAAAAaaaaaaaaaaa!!!!"*
+Dari Tornado, *"AAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaa!!!!"*
 
-Drop Zone, *"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!",*
+Drop Zone, *"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!",*
 
 Dan akhirnya, saat kami sampai di Bianglala, aku merasa sedikit lebih baik. Setidaknya ini tidak sebrutal wahana sebelumnya, meskipun tetap saja... aku sangat membenci ketinggian.
 
