@@ -1,10 +1,11 @@
 Aku tidak begitu mengingat kejadian waktu itu.
 
-Sudah lama aku berusaha mencoba mengingatnya, tapi semakin keras aku mencoba, semakin kabur semua itu. Seperti pasir yang terlepas dari genggaman, perlahan-lahan menghilang tanpa jejak.
-
-Aku menyukai senyuman itu. Senyuman yang penuh warna, hangat seperti senja di pagi hari. Aku menyukai senyuman... siapa?
+Sudah lama aku berusaha mencoba mengingatnya. Tapi semakin keras aku mencoba, semakin aku melupakannya. Seperti pasir yang terlepas dari genggaman, perlahan-lahan menghilang entah kemana.
+
 
 **FORGOTTEN**
+
+Aku menyukai senyuman itu. Senyuman yang penuh warna, hangat seperti senja di pagi hari. Aku menyukai senyuman... siapa?... 
 
 > *"Apa ini? Kenapa begitu menyakitkan?"*
 
