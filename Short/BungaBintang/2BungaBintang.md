@@ -38,7 +38,7 @@ Aku merasa tak ingin pergi dari tempat ini, "Apakah aku bisa membuat rumah saja 
 
 Tiba-tiba bulan muncul dengan penuh cahaya, membuat tempat yang gelap itu menjadi sangat indah. Ternyata bulan dan tempat itu sangat dekat, keindahan mereka terbagi rasa. Tak ada yang merasa lebih indah. Aku berpikir, *"apakah aku bisa menjadi bagian dari ini. Ingin sekali rasanya".*
 
-Tempat ini sekarang menjadi tempat favoritku, selalu kukunjungi saat malam hari. Hanya untuk melepas rindu. Ditengan kesendirian ini, entah kenapa aku selalu merasa sedang bersama dengan seseorang. Dia seperti seorang yang penuh misteri.
+Tempat ini sekarang menjadi tempat favoritku, selalu kukunjungi saat malam hari. Hanya untuk melepas rindu. Ditengan kesendirian ini, entah kenapa aku selalu merasa sedang bersama dengan seseorang. Dia seperti seorang yang penuh misteri dan, penuh luka.
 
 ---
 
