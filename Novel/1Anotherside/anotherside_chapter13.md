@@ -157,7 +157,7 @@ Aku memejamkan mata sejenak, memaksa otakku bekerja lebih keras. Lalu, perlahan,
 
 "Kamu... Deona."
 
-Gadis itu—Deona, terdiam. Dia mengulanginya pelan, seolah sedang mencicipi rasa dari namanya sendiri di lidahnya.
+Gadis itu - Deona, terdiam. Dia mengulanginya pelan, seolah sedang mencicipi rasa dari namanya sendiri di lidahnya.
 
 "Deona? Aku Deona?" ucapnya pelan, suaranya terdengar seakan-akan sedang mencoba meyakinkan dirinya sendiri dengan harapan.
 
