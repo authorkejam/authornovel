@@ -92,7 +92,7 @@ let novella = [
       },
     ],
   },
-  {
+  /*{
     id: 4,
     title: "Monic",
     date: "13-10-2025",
@@ -122,5 +122,5 @@ let novella = [
       { title: "Chapter 8", file: "Short/Monic/8chapter.md" },
       { title: "Chapter 9", file: "Short/Monic/9chapter.md" },
     ],
-  },
+  },*/
 ];
